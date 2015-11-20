@@ -1936,7 +1936,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-86.651988, 34.736999]
+            "coordinates": [-81.604316, 30.358634]
         },
         "properties": {
             "idYr": "2014",
@@ -1946,7 +1946,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "30",
-            "incidentLoci": "University Place apartments 3281 University Blvd N",
+            "incidentLoci": "University Place apartments 3291 University Blvd N",
             "causeDeath": "shot",
             "reportNumber": "CCR 669737",
             "inPublicrpt": "",
