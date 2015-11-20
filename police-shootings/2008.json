@@ -1,0 +1,533 @@
+{"type":"FeatureCollection","features":[{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.554238, 30.31638]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200801",
+			"name": "Joel Abner",
+			"race": "Black",
+			"gender": "Male",
+			"age": "18",
+			"reportNo": "79761",
+			"where": "Belk, Regency Square, 9400 Atlantic Blvd., Jacksonville, FL",
+			"date": "1/26/2008",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.633105, 30.120989]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200802",
+			"name": "Nicholas Arthur Kelco",
+			"race": "White",
+			"gender": "Male",
+			"age": "20",
+			"reportNo": "NA",
+			"where": "Fruit Cove Rd. at Cheryl Ct., St. Johns, FL",
+			"date": "2/1/2008",
+			"result": "wounded",
+			"status": "armed (with a metal rod)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.416144, 30.339778]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200803",
+			"name": "Addar Uriah Kennedy",
+			"race": "Black",
+			"gender": "Male",
+			"age": "32",
+			"reportNo": "123769",
+			"where": "Dudley and George streets, Jacksonville, FL",
+			"date": "2/8/2008",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.651185, 30.282629]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200804",
+			"name": "Kenneth Bernard Marion",
+			"race": "Black",
+			"gender": "Male",
+			"age": "17",
+			"reportNo": "167386",
+			"where": "3900 Hendricks Ave., Jacksonville, FL",
+			"date": "2/21/2008",
+			"result": "killed",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.647262, 30.335846]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200805",
+			"name": "Jamaal D. Williams",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "169127",
+			"where": "1st St. and Ionia St., Jacksonville, FL",
+			"date": "2/21/2008",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.698521, 30.324021]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200806",
+			"name": "Kenneth W. Ford",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "223001",
+			"where": "Sunnyside St. and Maplewood St., Jacksonville, FL",
+			"date": "3/7/2008",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.574774, 30.334197]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200807",
+			"name": "Anthony Alexander Dâ€™Atri",
+			"race": "White",
+			"gender": "Male",
+			"age": "28",
+			"reportNo": "262831",
+			"where": "1129 Bellemeade Blvd., Jacksonville, FL",
+			"date": "3/18/2008",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.577737, 30.362847]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200808",
+			"name": "Sierra White",
+			"race": "Black",
+			"gender": "Male",
+			"age": "30",
+			"reportNo": "286022",
+			"where": "Abbington Square Apartments, 3450 Townsend Blvd., Jacksonville, FL",
+			"date": "3/25/2008",
+			"result": "killed",
+			"status": "armed (with a knife)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.716208, 30.390846]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200809",
+			"name": "Latoya Monique Grier",
+			"race": "Black",
+			"gender": "Female",
+			"age": "22",
+			"reportNo": "310376",
+			"where": "Washington Heights Apartments, Ken Knight Dr. and Bailey Ct., Jacksonville, FL",
+			"date": "4/1/2008",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.643557, 30.294652]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200810",
+			"name": "James Martin Imbriani",
+			"race": "White",
+			"gender": "Male",
+			"age": "50",
+			"reportNo": "607044",
+			"where": "St. Augustine Rd. and Lordun Terr., Jacksonville, FL",
+			"date": "6/23/2008",
+			"result": "killed",
+			"status": "armed (with a BB gun)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.724434, 30.30903]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200811",
+			"name": "Artavious Edmund Debose",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "609065",
+			"where": "4600 Post St., Jacksonville, FL",
+			"date": "6/23/2008",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.603662, 30.328641]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200812",
+			"name": "Caleif Isaiah Bush",
+			"race": "Black",
+			"gender": "Male",
+			"age": "18",
+			"reportNo": "645209",
+			"where": "Plush, 845 University Blvd. N., Jacksonville, FL",
+			"date": "7/5/2008",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.603662, 30.328641]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200813",
+			"name": "Cariel Carl Britt",
+			"race": "Black",
+			"gender": "Male",
+			"age": "21",
+			"reportNo": "645209",
+			"where": "Plush, 845 University Blvd. N., Jacksonville, FL",
+			"date": "7/5/2008",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.409892, 30.358685]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200814",
+			"name": "Brian Terrell Brock",
+			"race": "Black",
+			"gender": "Male",
+			"age": "29",
+			"reportNo": "720794",
+			"where": "The Courtyards apartments, 2500 Americas Cup Rd., Jacksonville, FL",
+			"date": "7/19/2008",
+			"result": "killed",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.502361, 30.286672]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200815",
+			"name": "Jerry Austin McTyre",
+			"race": "White",
+			"gender": "Male",
+			"age": "15",
+			"reportNo": "707674",
+			"where": "Palms at Beach Boulevard apartments, 11990 Beach Blvd., Jacksonville, FL",
+			"date": "7/25/2008",
+			"result": "wounded",
+			"status": "armed (using vehicle)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.683795, 30.37365]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200816",
+			"name": "Darry Edward Waters",
+			"race": "Black",
+			"gender": "Male",
+			"age": "38",
+			"reportNo": "692923",
+			"where": "Hilltop Village Apartments, 1646 W. 45th St., Jacksonville, FL",
+			"date": "7/28/2008",
+			"result": "killed",
+			"status": "armed (with a knife)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.669308, 30.42928]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200817",
+			"name": "Corea B. Johnson Jr.",
+			"race": "Black",
+			"gender": "Male",
+			"age": "19",
+			"reportNo": "735839",
+			"where": "Chicken Koop, 1338 Dunn Ave., Jacksonville, FL",
+			"date": "8/2/2008",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.674545, 30.342213]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200818",
+			"name": "Tony Curtis Paul",
+			"race": "Black",
+			"gender": "Male",
+			"age": "43",
+			"reportNo": "791166",
+			"where": "1249 Hart St., Jacksonville, FL",
+			"date": "8/20/2008",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.677784, 30.360173]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200819",
+			"name": "Chester Marcel Elliott",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "889569",
+			"where": "W. 26th St. and Barnett St., Jacksonville, FL",
+			"date": "9/19/2008",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.630734, 30.288227]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200820",
+			"name": "Tyrone Marquis Taylor",
+			"race": "Black",
+			"gender": "Male",
+			"age": "16",
+			"reportNo": "948419",
+			"where": "3400 Bark St., Jacksonville, FL",
+			"date": "10/8/2008",
+			"result": "wounded",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.675832, 30.32111]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200821",
+			"name": "Victoria Venisha Roberts",
+			"race": "Black",
+			"gender": "Female",
+			"age": "21",
+			"reportNo": "982901",
+			"where": "In Cahoots, 711 Edison Ave., Jacksonville, FL",
+			"date": "10/19/2008",
+			"result": "wounded",
+			"status": "armed (using vehicle)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.652359, 30.36621]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200822",
+			"name": "Alonzo Maurice Jones Jr.",
+			"race": "Black",
+			"gender": "Male",
+			"age": "29",
+			"reportNo": "996699",
+			"where": "Evergreen Cemetery, 4535 N. Main St., Jacksonville, FL",
+			"date": "10/23/2008",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.734111, 30.301399]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200823",
+			"name": "Dutch Stafford",
+			"race": "Black",
+			"gender": "Male",
+			"age": "17",
+			"reportNo": "1006712",
+			"where": "Eureka Garden apartments, 1214 Labelle St., Jacksonville, FL",
+			"date": "10/26/2008",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.711446, 30.31811]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200824",
+			"name": "Jerrick Leonard Hall",
+			"race": "Black",
+			"gender": "Male",
+			"age": "19",
+			"reportNo": "1010726",
+			"where": "743 Owen Ave., Jacksonville, FL",
+			"date": "10/27/2008",
+			"result": "wounded",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.563089, 30.309746]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200825",
+			"name": "Breon Pittman",
+			"race": "Black",
+			"gender": "Male",
+			"age": "19",
+			"reportNo": "1047018",
+			"where": "The Regents Apartments, 301 Caravan Cir., Jacksonville, FL",
+			"date": "11/6/2008",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.724999, 30.200408]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200826",
+			"name": "Luiz Vizcarrundo",
+			"race": "Black",
+			"gender": "Male",
+			"age": "20",
+			"reportNo": "1103707",
+			"where": "Riverâ€™s End apartments, 5520 Collins Rd., Jacksonville, FL",
+			"date": "11/24/2008",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.534912, 30.317039]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200827",
+			"name": "Cedric Smith",
+			"race": "Black",
+			"gender": "Male",
+			"age": "20",
+			"reportNo": "1103770",
+			"where": "1900 Debutante Dr., Jacksonville, FL",
+			"date": "11/24/2008",
+			"result": "killed",
+			"status": "armed (with a pellet gun)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.598025, 30.458387]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200828",
+			"name": "Deion Sanchez",
+			"race": "White",
+			"gender": "Male",
+			"age": "16",
+			"reportNo": "1144276",
+			"where": "Oceanway, Jacksonville, FL",
+			"date": "12/6/2008",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}]}
