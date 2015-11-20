@@ -1,0 +1,399 @@
+{"type":"FeatureCollection","features":[{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.733403, 30.408765]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200701",
+			"name": "Harry Lamar Shuler",
+			"race": "White",
+			"gender": "Male",
+			"age": "65",
+			"reportNo": "44154",
+			"where": "5616 Gilchrist Rd., Jacksonville, FL",
+			"date": "1/15/2007",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.641418, 30.283006]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200702",
+			"name": "Douglas \"D.J.\" Woods III",
+			"race": "Black",
+			"gender": "Male",
+			"age": "18",
+			"reportNo": "63861",
+			"where": "Sable Palms Apartments, 2150 Emerson St., Jacksonville, FL",
+			"date": "1/20/2007",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.640229, 30.298637]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200703",
+			"name": "Isaac Singletary",
+			"race": "Black",
+			"gender": "Male",
+			"age": "80",
+			"reportNo": "85930",
+			"where": "2312 Westmont St., Jacksonville, FL",
+			"date": "1/27/2007",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.699257, 30.230659]
+		},
+		"properties": {
+			"jurisdiction": "Clay",
+			"id": "200704",
+			"name": "Steven Blackwell",
+			"race": "Black",
+			"gender": "Male",
+			"age": "27",
+			"reportNo": "NA",
+			"where": "Roosevelt Blvd. and Naval Air Station Jacksonville, Jacksonville, FL",
+			"date": "1/30/2007",
+			"result": "wounded",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.732251, 30.275437]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200705",
+			"name": "Jessica Wilson",
+			"race": "White",
+			"gender": "Female",
+			"age": "16",
+			"reportNo": "148133",
+			"where": "2400 Lake Shore Blvd., Jacksonville, FL",
+			"date": "2/3/2007",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.732251, 30.275437]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200706",
+			"name": "David Q. Smith",
+			"race": "Black",
+			"gender": "Male",
+			"age": "17",
+			"reportNo": "148133",
+			"where": "2400 Lake Shore Blvd., Jacksonville, FL",
+			"date": "2/3/2007",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.653425, 30.371162]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200707",
+			"name": "Jacquan Vontel Shootes",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "NA",
+			"where": "100 W. 42nd St., Jacksonville, FL",
+			"date": "2/15/2007",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.387041, 30.276393]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville Beach",
+			"id": "200708",
+			"name": "Matthew Alexander",
+			"race": "White",
+			"gender": "Male",
+			"age": "20",
+			"reportNo": "NA",
+			"where": "13th Ave. S. and 1st St. S., Jacksonville Beach, FL",
+			"date": "3/14/2007",
+			"result": "wounded",
+			"status": "armed (with knives)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.610968, 30.270071]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200709",
+			"name": "Eugene Lorenzo Lucas",
+			"race": "Black",
+			"gender": "Male",
+			"age": "18",
+			"reportNo": "350869",
+			"where": "University Blvd. W. and Spring Park Rd., Jacksonville, FL",
+			"date": "4/18/2007",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.506196, 30.309013]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200710",
+			"name": "Anselme Biziyaremye",
+			"race": "Black",
+			"gender": "Male",
+			"age": "33",
+			"reportNo": "411702",
+			"where": "2106 Alfa Romeo Dr., Jacksonville, FL",
+			"date": "5/7/2007",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.610935, 30.27055]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200711",
+			"name": "Michael Anthony Young",
+			"race": "Black",
+			"gender": "Male",
+			"age": "35",
+			"reportNo": "528139",
+			"where": "Yingâ€™s ChineeTakee Outee, 5507 University Blvd. W., Jacksonville, FL",
+			"date": "6/16/2007",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.732766, 30.377977]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200712",
+			"name": "Charles Leon Chapman",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "653319",
+			"where": "Sams Memorial Park, 6590 Richardson Rd., Jacksonville, FL",
+			"date": "7/24/2007",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.707985, 30.364497]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200713",
+			"name": "Reggie Riquay Griffin",
+			"race": "Black",
+			"gender": "Male",
+			"age": "15",
+			"reportNo": "792080",
+			"where": "Cleveland Arms apartments, 5020 Cleveland Rd., Jacksonville, FL",
+			"date": "9/8/2007",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.63707, 30.359573]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200714",
+			"name": "Michael Nathaniel Dunbar",
+			"race": "Black",
+			"gender": "Male",
+			"age": "20",
+			"reportNo": "795484",
+			"where": "24th St. and Haines St., Jacksonville, FL",
+			"date": "9/9/2007",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.750503, 30.269431]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200715",
+			"name": "Stanley Evans Watts",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "877823",
+			"where": "6500 Mitford Rd., Jacksonville, FL",
+			"date": "10/6/2007",
+			"result": "killed",
+			"status": "armed (with blunt instrument)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.687905, 30.326816]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200716",
+			"name": "Jesse Paul Stamers Guy",
+			"race": "Black",
+			"gender": "Male",
+			"age": "30",
+			"reportNo": "899508",
+			"where": "278 Watts St., Jacksonville, FL",
+			"date": "10/13/2007",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.557929, 30.354332]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200717",
+			"name": "Jeremy Juâ€™bre Pittman",
+			"race": "Black",
+			"gender": "Male",
+			"age": "17",
+			"reportNo": "NA",
+			"where": "Crest Chevrolet, 8281 Merrill Rd., Jacksonville, FL",
+			"date": "10/22/2007",
+			"result": "wounded",
+			"status": "armed (using vehicle)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.557929, 30.354332]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200718",
+			"name": "Gerard Sean Carr",
+			"race": "Black",
+			"gender": "Male",
+			"age": "17",
+			"reportNo": "NA",
+			"where": "Crest Chevrolet, 8281 Merrill Rd., Jacksonville, FL",
+			"date": "10/22/2007",
+			"result": "wounded",
+			"status": "armed (using vehicle)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.655651, 30.332184]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200719",
+			"name": "Johnny Alvin Smith Jr.",
+			"race": "Black",
+			"gender": "Male",
+			"age": "19",
+			"reportNo": "993145",
+			"where": "7071 103rd St. (Hospitality Inn), Jacksonville, FL",
+			"date": "11/12/2007",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.698109, 30.335232]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200720",
+			"name": "Darrell Lorenzo Paige",
+			"race": "Black",
+			"gender": "Male",
+			"age": "43",
+			"reportNo": "1039425",
+			"where": "2172 Woodside St., Jacksonville, FL",
+			"date": "11/28/2007",
+			"result": "wounded",
+			"status": "armed (with a knife)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.582468, 30.35254]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200721",
+			"name": "Edwin Leroy Kite",
+			"race": "White",
+			"gender": "Male",
+			"age": "59",
+			"reportNo": "1095346",
+			"where": "6948 Corkwood Rd., Jacksonville, FL",
+			"date": "12/15/2007",
+			"result": "killed",
+			"status": "armed"
+		}}]}
