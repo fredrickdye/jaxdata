@@ -14,8 +14,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "44",
-            "incidentLoci": "7400 Powers Ave."
-        }
+            "incidentLoci": "7400 Powers Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -30,8 +30,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "7500 Birdies Road"
-        }
+            "incidentLoci": "7500 Birdies Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -46,8 +46,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "1477 W. 29th St."
-        }
+            "incidentLoci": "1477 W. 29th St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -62,8 +62,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "59",
-            "incidentLoci": "1000 Willow Cove Ct. W."
-        }
+            "incidentLoci": "1000 Willow Cove Ct. W." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -78,8 +78,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "27",
-            "incidentLoci": "Bowden Corners Shopping Village, 5711 Bowden Rd."
-        }
+            "incidentLoci": "Bowden Corners Shopping Village, 5711 Bowden Rd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -94,8 +94,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "3300 Donzi Way West"
-        }
+            "incidentLoci": "3300 Donzi Way West" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -110,8 +110,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "48",
-            "incidentLoci": "1000 W. Sixth St."
-        }
+            "incidentLoci": "1000 W. Sixth St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -126,8 +126,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "34",
-            "incidentLoci": "810 Golfair Blvd."
-        }
+            "incidentLoci": "810 Golfair Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -142,8 +142,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "5345 Spring Grove Road"
-        }
+            "incidentLoci": "5345 Spring Grove Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -158,9 +158,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "10970 Lem Turner Road",
-
-        }
+            "incidentLoci": "10970 Lem Turner Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -175,8 +174,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "60",
-            "incidentLoci": "318 E. Eighth St."
-        }
+            "incidentLoci": "318 E. Eighth St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -191,8 +190,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "1403 W. 22nd St."
-        }
+            "incidentLoci": "1403 W. 22nd St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -207,8 +206,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "8163 Joffre Drive"
-        }
+            "incidentLoci": "8163 Joffre Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -223,8 +222,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "3021 Silver St."
-        }
+            "incidentLoci": "3021 Silver St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -239,8 +238,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "42",
-            "incidentLoci": "1844 E. 23rd St."
-        }
+            "incidentLoci": "1844 E. 23rd St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -255,8 +254,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "44",
-            "incidentLoci": "715 N. Main St."
-        }
+            "incidentLoci": "715 N. Main St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -271,8 +270,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "2360 Mills Court"
-        }
+            "incidentLoci": "2360 Mills Court" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -287,8 +286,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "471 W. 58th St."
-        }
+            "incidentLoci": "471 W. 58th St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -303,8 +302,8 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "3534 Smithfield St."
-        }
+            "incidentLoci": "3534 Smithfield St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -319,8 +318,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "47",
-            "incidentLoci": "11337 Duval Road"
-        }
+            "incidentLoci": "11337 Duval Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -335,8 +334,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "80",
-            "incidentLoci": "1353 Wolfe St."
-        }
+            "incidentLoci": "1353 Wolfe St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -351,8 +350,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "799 Lincoln Court N."
-        }
+            "incidentLoci": "799 Lincoln Court N." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -367,8 +366,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "0.33",
-            "incidentLoci": "2867 Ernest St."
-        }
+            "incidentLoci": "2867 Ernest St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -383,8 +382,8 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "30",
-            "incidentLoci": "3534 Smithfield St."
-        }
+            "incidentLoci": "3534 Smithfield St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -399,8 +398,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "3022 Post St."
-        }
+            "incidentLoci": "3022 Post St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -415,8 +414,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "1",
-            "incidentLoci": "1518 W. 16th St."
-        }
+            "incidentLoci": "1518 W. 16th St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -431,8 +430,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "9480 Princeton Square Blvd. S."
-        }
+            "incidentLoci": "9480 Princeton Square Blvd. S." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -447,8 +446,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "53",
-            "incidentLoci": "2292 Mayport Road"
-        }
+            "incidentLoci": "2292 Mayport Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -463,8 +462,8 @@
             "race": "Asian",
             "gender": "Male",
             "victimAge": "64",
-            "incidentLoci": "6540 Hugh Court"
-        }
+            "incidentLoci": "6540 Hugh Court" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -479,8 +478,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "5",
-            "incidentLoci": "River Oaks Apartments, 11291 Harts Rd."
-        }
+            "incidentLoci": "River Oaks Apartments, 11291 Harts Rd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -495,9 +494,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "104 Breve Drive",
-
-        }
+            "incidentLoci": "104 Breve Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -512,8 +510,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "1606 King St."
-        }
+            "incidentLoci": "1606 King St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -528,8 +526,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "1241 N. Bluehill Drive"
-        }
+            "incidentLoci": "1241 N. Bluehill Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -544,8 +542,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "940 N. Majestic Cypress Drive"
-        }
+            "incidentLoci": "940 N. Majestic Cypress Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -560,8 +558,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2854 Philips Highway"
-        }
+            "incidentLoci": "2854 Philips Highway" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -576,8 +574,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "5000 Portsmouth Ave."
-        }
+            "incidentLoci": "5000 Portsmouth Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -592,8 +590,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "Labelle Shoes, 5240 Timuquana Rd."
-        }
+            "incidentLoci": "Labelle Shoes, 5240 Timuquana Rd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -608,8 +606,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "10549 New Kings Road"
-        }
+            "incidentLoci": "10549 New Kings Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -624,8 +622,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "1000 Franklin St."
-        }
+            "incidentLoci": "1000 Franklin St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -640,8 +638,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "1651 Lindsey Road"
-        }
+            "incidentLoci": "1651 Lindsey Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -656,8 +654,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "400 Broward St."
-        }
+            "incidentLoci": "400 Broward St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -672,8 +670,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "2700 Wilcox St."
-        }
+            "incidentLoci": "2700 Wilcox St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -688,8 +686,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "16",
-            "incidentLoci": "400 Broward St."
-        }
+            "incidentLoci": "400 Broward St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -704,8 +702,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "19",
-            "incidentLoci": "Monarch Beauty Supply, 865 Golfair Blvd."
-        }
+            "incidentLoci": "Monarch Beauty Supply, 865 Golfair Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -720,8 +718,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "74",
-            "incidentLoci": "6300 Garette Dr."
-        }
+            "incidentLoci": "6300 Garette Dr." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -736,8 +734,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "2200 W. 30th St."
-        }
+            "incidentLoci": "2200 W. 30th St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -752,8 +750,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "51",
-            "incidentLoci": "796 Bunker Hill Blvd."
-        }
+            "incidentLoci": "796 Bunker Hill Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -768,8 +766,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "1400 W. 22nd St."
-        }
+            "incidentLoci": "1400 W. 22nd St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -784,8 +782,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "13",
-            "incidentLoci": "Portsmouth Ave. at Devonshire Blvd."
-        }
+            "incidentLoci": "Portsmouth Ave. at Devonshire Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -800,8 +798,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "18",
-            "incidentLoci": "2888 San Pablo Road"
-        }
+            "incidentLoci": "2888 San Pablo Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -816,8 +814,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "24",
-            "incidentLoci": "Heckscher Dr. and Houston Ave."
-        }
+            "incidentLoci": "Heckscher Dr. and Houston Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -832,8 +830,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "7318 Smyrna St."
-        }
+            "incidentLoci": "7318 Smyrna St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -848,8 +846,8 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "47",
-            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd."
-        }
+            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -864,8 +862,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "48",
-            "incidentLoci": "7536 Algood St."
-        }
+            "incidentLoci": "7536 Algood St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -880,8 +878,8 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "5800 University Blvd. W."
-        }
+            "incidentLoci": "5800 University Blvd. W." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -896,8 +894,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "8030 Old Kings Road S., No. 30"
-        }
+            "incidentLoci": "8030 Old Kings Road S., No. 30" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -912,8 +910,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "118th St. and Checkmate St."
-        }
+            "incidentLoci": "118th St. and Checkmate St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -928,8 +926,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "31",
-            "incidentLoci": "1877 E. 24th St."
-        }
+            "incidentLoci": "1877 E. 24th St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -944,8 +942,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "2160 Mayport Road"
-        }
+            "incidentLoci": "2160 Mayport Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -960,8 +958,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "10",
-            "incidentLoci": "118th St. and Checkmate St."
-        }
+            "incidentLoci": "118th St. and Checkmate St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -976,8 +974,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "48",
-            "incidentLoci": "143 19th St. W."
-        }
+            "incidentLoci": "143 19th St. W." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -992,8 +990,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "13",
-            "incidentLoci": "Hartswood Apartments, 11501 Harts Road"
-        }
+            "incidentLoci": "Hartswood Apartments, 11501 Harts Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1008,8 +1006,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "54",
-            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St."
-        }
+            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1024,8 +1022,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "2035 Hartridge St."
-        }
+            "incidentLoci": "2035 Hartridge St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1040,8 +1038,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "49",
-            "incidentLoci": "5705 Sue Lane"
-        }
+            "incidentLoci": "5705 Sue Lane" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1056,8 +1054,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "5400 Paris Ave."
-        }
+            "incidentLoci": "5400 Paris Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1072,8 +1070,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "1982 Lambert St."
-        }
+            "incidentLoci": "1982 Lambert St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1088,8 +1086,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "1923 W. Ninth St."
-        }
+            "incidentLoci": "1923 W. Ninth St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1104,8 +1102,8 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "3952 Atlantic Blvd."
-        }
+            "incidentLoci": "3952 Atlantic Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1120,8 +1118,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "48",
-            "incidentLoci": "Trout River Boulevard Trailer Park, 5809 Trout River Blvd."
-        }
+            "incidentLoci": "Trout River Boulevard Trailer Park, 5809 Trout River Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1136,8 +1134,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "2128 Westcott St."
-        }
+            "incidentLoci": "2128 Westcott St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1152,8 +1150,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "7851 Paul Revere Drive"
-        }
+            "incidentLoci": "7851 Paul Revere Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1168,8 +1166,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "9527 Regency Square Blvd."
-        }
+            "incidentLoci": "9527 Regency Square Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1184,8 +1182,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "50",
-            "incidentLoci": "500 E. Fifth St."
-        }
+            "incidentLoci": "500 E. Fifth St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1200,8 +1198,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "58",
-            "incidentLoci": "9104 Tyler Ave."
-        }
+            "incidentLoci": "9104 Tyler Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1216,8 +1214,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "8859 Old Kings Rd., No. 710"
-        }
+            "incidentLoci": "8859 Old Kings Rd., No. 710" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1232,8 +1230,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "6211 St. Augustine Rd."
-        }
+            "incidentLoci": "6211 St. Augustine Rd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1248,8 +1246,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "46",
-            "incidentLoci": "Hess gas station, 589 S. Lane Ave."
-        }
+            "incidentLoci": "Hess gas station, 589 S. Lane Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1264,8 +1262,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "8803 Berry Ave."
-        }
+            "incidentLoci": "8803 Berry Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1280,8 +1278,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "50",
-            "incidentLoci": "5122 Ricker Road"
-        }
+            "incidentLoci": "5122 Ricker Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1296,8 +1294,8 @@
             "race": "Hispanic",
             "gender": "Female",
             "victimAge": "56",
-            "incidentLoci": "4614 Morley Lane"
-        }
+            "incidentLoci": "4614 Morley Lane" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1312,8 +1310,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "45",
-            "incidentLoci": "9011 Fourth Ave."
-        }
+            "incidentLoci": "9011 Fourth Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1328,8 +1326,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "614 E. 63rd St."
-        }
+            "incidentLoci": "614 E. 63rd St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1344,8 +1342,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "54",
-            "incidentLoci": "343 W. 22nd St."
-        }
+            "incidentLoci": "343 W. 22nd St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1360,8 +1358,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "1400 Lakeshore Blvd."
-        }
+            "incidentLoci": "1400 Lakeshore Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1376,8 +1374,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "16",
-            "incidentLoci": "1104 Pheasant Drive"
-        }
+            "incidentLoci": "1104 Pheasant Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1392,8 +1390,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "Buy-Rite, 2958 Justina Road"
-        }
+            "incidentLoci": "Buy-Rite, 2958 Justina Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1424,8 +1422,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "51",
-            "incidentLoci": "1612 W. 19th St."
-        }
+            "incidentLoci": "1612 W. 19th St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1440,8 +1438,8 @@
             "race": "Asian",
             "gender": "Male",
             "victimAge": "42",
-            "incidentLoci": "7200 Powers Ave."
-        }
+            "incidentLoci": "7200 Powers Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1456,8 +1454,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2955 Willow St."
-        }
+            "incidentLoci": "2955 Willow St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1472,8 +1470,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "28",
-            "incidentLoci": "8000 Marion St."
-        }
+            "incidentLoci": "8000 Marion St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1488,8 +1486,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "6545 Ramona Blvd., Room 119"
-        }
+            "incidentLoci": "6545 Ramona Blvd., Room 119" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1504,8 +1502,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "8",
-            "incidentLoci": "8720 Third Ave."
-        }
+            "incidentLoci": "8720 Third Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1520,8 +1518,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "750 Barnett St."
-        }
+            "incidentLoci": "750 Barnett St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1536,8 +1534,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2821 Moncrief Road W."
-        }
+            "incidentLoci": "2821 Moncrief Road W." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1552,8 +1550,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "35",
-            "incidentLoci": "5959 Fort Caroline Road"
-        }
+            "incidentLoci": "5959 Fort Caroline Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1568,8 +1566,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "6715 Powers Ave."
-        }
+            "incidentLoci": "6715 Powers Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1584,8 +1582,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "8441 Highgate Drive"
-        }
+            "incidentLoci": "8441 Highgate Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1600,8 +1598,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "1129 Arco Drive"
-        }
+            "incidentLoci": "1129 Arco Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1616,8 +1614,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "4",
-            "incidentLoci": "700 Huron Street"
-        }
+            "incidentLoci": "700 Huron Street" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1632,8 +1630,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "5516 Brent St."
-        }
+            "incidentLoci": "5516 Brent St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1648,8 +1646,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "702 N. Lincoln Court"
-        }
+            "incidentLoci": "702 N. Lincoln Court" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1664,8 +1662,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "700 West Fourth Street"
-        }
+            "incidentLoci": "700 West Fourth Street" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1680,8 +1678,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "58 Dudley St., Atlantic Beach, FL"
-        }
+            "incidentLoci": "58 Dudley St., Atlantic Beach, FL" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1696,8 +1694,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "81",
-            "incidentLoci": "Interstate 10 and Chaffee Rd."
-        }
+            "incidentLoci": "Interstate 10 and Chaffee Rd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1712,8 +1710,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "3200 Fitzgerald Street"
-        }
+            "incidentLoci": "3200 Fitzgerald Street" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1728,8 +1726,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "Bennett St. and East 15th St."
-        }
+            "incidentLoci": "Bennett St. and East 15th St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1744,8 +1742,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "Clyde Dr. and Darlington Dr."
-        }
+            "incidentLoci": "Clyde Dr. and Darlington Dr." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1760,8 +1758,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "47",
-            "incidentLoci": "5525 N. Main St."
-        }
+            "incidentLoci": "5525 N. Main St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1776,8 +1774,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "9272 Norfolk Blvd."
-        }
+            "incidentLoci": "9272 Norfolk Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1792,8 +1790,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "7357 Sharbeth Drive"
-        }
+            "incidentLoci": "7357 Sharbeth Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1808,8 +1806,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "1437 Evergreen Ave."
-        }
+            "incidentLoci": "1437 Evergreen Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1824,8 +1822,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "1700 Wambolt St."
-        }
+            "incidentLoci": "1700 Wambolt St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1840,8 +1838,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "1587 Kings Road"
-        }
+            "incidentLoci": "1587 Kings Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1856,8 +1854,8 @@
             "race": "Asian",
             "gender": "Female",
             "victimAge": "2",
-            "incidentLoci": "6305 Devonhurst Drive"
-        }
+            "incidentLoci": "6305 Devonhurst Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1872,8 +1870,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "Cheaters Gentlemens Club, 6347 Philips Highway"
-        }
+            "incidentLoci": "Cheaters Gentlemens Club, 6347 Philips Highway" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1888,8 +1886,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "4400 Notter Ave."
-        }
+            "incidentLoci": "4400 Notter Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1904,8 +1902,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St."
-        }
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1920,8 +1918,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "31",
-            "incidentLoci": "1165 Randolph St."
-        }
+            "incidentLoci": "1165 Randolph St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1936,8 +1934,8 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "4700 Southside Blvd."
-        }
+            "incidentLoci": "4700 Southside Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1952,8 +1950,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "2045 Jammes Road"
-        }
+            "incidentLoci": "2045 Jammes Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1968,8 +1966,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "7736 Cannon St."
-        }
+            "incidentLoci": "7736 Cannon St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1984,8 +1982,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "Palm Terrace Apartments, 4600 Moncrief Rd."
-        }
+            "incidentLoci": "Palm Terrace Apartments, 4600 Moncrief Rd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2000,8 +1998,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "12157 Heckscher Drive"
-        }
+            "incidentLoci": "12157 Heckscher Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2016,8 +2014,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "8500 N. Collins Ridge Blvd."
-        }
+            "incidentLoci": "8500 N. Collins Ridge Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2032,8 +2030,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "Rivers End Apartments, 5520 Collins Road"
-        }
+            "incidentLoci": "Rivers End Apartments, 5520 Collins Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2048,8 +2046,8 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "34",
-            "incidentLoci": "Washington Heights Grocery, 4231 W. Moncrief Road"
-        }
+            "incidentLoci": "Washington Heights Grocery, 4231 W. Moncrief Road" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2064,8 +2062,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "37",
-            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St."
-        }
+            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2080,8 +2078,8 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "Mandarin Pines apartments, 4295 Sunbeam Rd., Apt. 703"
-        }
+            "incidentLoci": "Mandarin Pines apartments, 4295 Sunbeam Rd., Apt. 703" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2096,8 +2094,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "48",
-            "incidentLoci": "Preserve at Cedar River Apartments, 4301 Confederate Point Rd."
-        }
+            "incidentLoci": "Preserve at Cedar River Apartments, 4301 Confederate Point Rd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2112,8 +2110,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "3953 Owens Ave."
-        }
+            "incidentLoci": "3953 Owens Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2128,8 +2126,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd."
-        }
+            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2144,8 +2142,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "Willamsburg Commons apartments, 7147 S. Old Kings Rd."
-        }
+            "incidentLoci": "Willamsburg Commons apartments, 7147 S. Old Kings Rd." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2160,8 +2158,8 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "49",
-            "incidentLoci": "9603 Flechette Ave."
-        }
+            "incidentLoci": "9603 Flechette Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2176,8 +2174,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "70",
-            "incidentLoci": "2600 Lowell Ave."
-        }
+            "incidentLoci": "2600 Lowell Ave." 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2192,8 +2190,8 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "3",
-            "incidentLoci": "4022 W. Oriely Drive"
-        }
+            "incidentLoci": "4022 W. Oriely Drive" 
+       }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2208,7 +2206,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "140 E. 43rd St."
-        }
+            "incidentLoci": "140 E. 43rd St." 
+       }
     }]
 }
