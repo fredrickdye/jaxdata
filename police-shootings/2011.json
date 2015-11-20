@@ -1,0 +1,229 @@
+{"type":"FeatureCollection","features":[{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.54464, 30.336496]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201101",
+			"name": "Barion A. Blake",
+			"race": "Black",
+			"gender": "Male",
+			"age": "30",
+			"reportNo": "114948",
+			"where": "Colonnade at Regency apartments, 989 Monument Rd., Jacksonville, FL",
+			"date": "2/11/2011",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.734111, 30.301399]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201102",
+			"name": "Adrian Derrick Hagans",
+			"race": "Black",
+			"gender": "Male",
+			"age": "26",
+			"reportNo": "198408",
+			"where": "Eureka Garden apartments, 1214 Labelle St., Jacksonville, FL",
+			"date": "3/11/2011",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.707985, 30.364497]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201103",
+			"name": "Herbert Earl Harris Jr.",
+			"race": "Black",
+			"gender": "Male",
+			"age": "29",
+			"reportNo": "215207",
+			"where": "Cleveland Arms apartments, 5020 Cleveland Rd., Jacksonville, FL",
+			"date": "3/17/2011",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.608507, 30.47269]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201104",
+			"name": "Richard D. Chabot",
+			"race": "White",
+			"gender": "Male",
+			"age": "33",
+			"reportNo": "248900",
+			"where": "New Berlin Rd. and Richfield Blvd., Jacksonville, FL",
+			"date": "3/29/2011",
+			"result": "killed",
+			"status": "armed (with a sword)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.550271, 30.138442]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201105",
+			"name": "Brandon Paul McCrory",
+			"race": "White",
+			"gender": "Male",
+			"age": "28",
+			"reportNo": "308984",
+			"where": "Williamâ€™s Walk Condominiums, 12700 Bartram Park Blvd., Jacksonville, FL",
+			"date": "4/18/2011",
+			"result": "wounded",
+			"status": "armed (with knives)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.59802, 29.494905]
+		},
+		"properties": {
+			"jurisdiction": "Putnam",
+			"id": "201106",
+			"name": "Rodrigo Espinoza",
+			"race": "Hispanic",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "NA",
+			"where": "Blueberry Hill St., Lake Como, FL",
+			"date": "4/28/2011",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.59802, 29.494905]
+		},
+		"properties": {
+			"jurisdiction": "Putnam",
+			"id": "201107",
+			"name": "Avery Corbitt",
+			"race": "White",
+			"gender": "Male",
+			"age": "19",
+			"reportNo": "NA",
+			"where": "Blueberry Hill St., Lake Como, FL",
+			"date": "4/28/2011",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.875373, 29.658153]
+		},
+		"properties": {
+			"jurisdiction": "Putnam",
+			"id": "201108",
+			"name": "Julie Lane",
+			"race": "White",
+			"gender": "Female",
+			"age": "33",
+			"reportNo": "NA",
+			"where": "1109 Junior Lake Dr., Interlachen, FL",
+			"date": "5/4/2011",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.628823, 30.302848]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201109",
+			"name": "Antonio L. Cooks",
+			"race": "Black",
+			"gender": "Male",
+			"age": "32",
+			"reportNo": "411909",
+			"where": "Mayfair Village Apartments, 3539 Beach Blvd., Jacksonville, FL",
+			"date": "5/24/2011",
+			"result": "killed",
+			"status": "a surety agent"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.628823, 30.302848]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201110",
+			"name": "Verne R. Williams",
+			"race": "Black",
+			"gender": "Male",
+			"age": "37",
+			"reportNo": "411928",
+			"where": "Mayfair Village Apartments, 3539 Beach Blvd., Jacksonville, FL",
+			"date": "5/24/2011",
+			"result": "wounded",
+			"status": "a surety agent"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.397754, 30.255808]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville Beach",
+			"id": "201111",
+			"name": "Carl Torrance Brennan",
+			"race": "Black",
+			"gender": "Male",
+			"age": "23",
+			"reportNo": "NA",
+			"where": "Hampton Inn, 1220 Marsh Landing Parkway, Jacksonville Beach, FL",
+			"date": "6/25/2011",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.665339, 30.372072]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201112",
+			"name": "Edward J. Littleton",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "903241",
+			"where": "Family Dollar, 5290 Norwood Ave., Jacksonville, FL",
+			"date": "11/13/2011",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}]}
