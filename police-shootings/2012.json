@@ -1,0 +1,324 @@
+{"type":"FeatureCollection","features":[{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.644002, 30.358134]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201201",
+			"name": "Carl Ian Ward",
+			"race": "Black",
+			"gender": "Male",
+			"age": "35",
+			"reportNo": "4897",
+			"where": "Sanctuary Walk Apartments, 645 E. 21st St., Jacksonville, FL",
+			"date": "1/2/2012",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.764836, 30.248667]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201202",
+			"name": "Devon Lavell Mitchell",
+			"race": "Black",
+			"gender": "Male",
+			"age": "28",
+			"reportNo": "12373",
+			"where": "Chevron, 7211 103rd St., Jacksonville, FL",
+			"date": "1/5/2012",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.292831, 29.889325]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "201203",
+			"name": "Daryl L. Atkins",
+			"race": "White",
+			"gender": "Male",
+			"age": "59",
+			"reportNo": "NA",
+			"where": "The Fountains condominiums, 695 N. Florida A1A, St. Augustine, FL",
+			"date": "1/13/2012",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.780772, 30.262357]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201204",
+			"name": "Craig Ruise",
+			"race": "Black",
+			"gender": "Male",
+			"age": "17",
+			"reportNo": "33596",
+			"where": "Kangaroo station, 4152 N. Old Middleburg Rd., Jacksonville, FL",
+			"date": "1/14/2012",
+			"result": "killed",
+			"status": "armed (with a replica firearm)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.532383, 30.285573]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201205",
+			"name": "Nicholas Samuel Underwood",
+			"race": "Black",
+			"gender": "Male",
+			"age": "24",
+			"reportNo": "109300",
+			"where": "Club Aqua, 11000 Beach Blvd., Jacksonville, FL",
+			"date": "2/12/2012",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.922835, 30.041037]
+		},
+		"properties": {
+			"jurisdiction": "Clay",
+			"id": "201206",
+			"name": "Ted Arthur Tilley",
+			"race": "White",
+			"gender": "Male",
+			"age": "36",
+			"reportNo": "NA",
+			"where": "4874 Alligator Blvd., Middleburg, FL",
+			"date": "2/15/2012",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.744836, 30.177213]
+		},
+		"properties": {
+			"jurisdiction": "Clay",
+			"id": "201207",
+			"name": "Joann L. Beardsley",
+			"race": "White",
+			"gender": "Female",
+			"age": "49",
+			"reportNo": "NA",
+			"where": "Clay County Sheriffâ€™s Office substation, 212 Blanding Blvd., Orange Park, FL",
+			"date": "3/10/2012",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.635124, 30.289161]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201208",
+			"name": "Eric Omar Sanchez",
+			"race": "Hispanic",
+			"gender": "Male",
+			"age": "28",
+			"reportNo": "208532",
+			"where": "Emerson Inn, 3558 Philips Highway, Jacksonville, FL",
+			"date": "3/18/2012",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.610422, 30.362356]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201209",
+			"name": "Juan Montrice Lawrence",
+			"race": "Black",
+			"gender": "Male",
+			"age": "40",
+			"reportNo": "253593",
+			"where": "Casa del Rio St. Johns apartments, 3500 University Blvd. N., Jacksonville, FL",
+			"date": "4/5/2012",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.393844, 29.868858]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "201210",
+			"name": "Andrea M. Sheldon",
+			"race": "White",
+			"gender": "Female",
+			"age": "46",
+			"reportNo": "NA",
+			"where": "2900 County Road 214, Lot 71, St. Johns, FL",
+			"date": "4/14/2012",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.589054, 30.32772]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201211",
+			"name": "Davinian Darnell Williams",
+			"race": "Black",
+			"gender": "Male",
+			"age": "36",
+			"reportNo": "344019",
+			"where": "900 Rogero Road, Jacksonville, FL",
+			"date": "5/9/2012",
+			"result": "killed",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.699407, 30.37642]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201212",
+			"name": "Thomas C. McMullen",
+			"race": "Black",
+			"gender": "Male",
+			"age": "32",
+			"reportNo": "403422",
+			"where": "5748 Avenue B, Jacksonville, FL",
+			"date": "5/31/2012",
+			"result": "killed",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.651811, 30.341323]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201213",
+			"name": "William Leroy Haines",
+			"race": "White",
+			"gender": "Male",
+			"age": "41",
+			"reportNo": "465959",
+			"where": "140 E. Fifth St., Jacksonville, FL",
+			"date": "6/24/2012",
+			"result": "wounded",
+			"status": "armed (with a pellet gun)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.62527, 29.494165]
+		},
+		"properties": {
+			"jurisdiction": "Putnam",
+			"id": "201214",
+			"name": "Alfred Dobson",
+			"race": "Black",
+			"gender": "Male",
+			"age": "35",
+			"reportNo": "NA",
+			"where": "955 Old Welaka Road, Pomona Park, FL",
+			"date": "7/19/2012",
+			"result": "killed",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.493243, 30.323058]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201215",
+			"name": "Lesly Cowan",
+			"race": "White",
+			"gender": "Male",
+			"age": "56",
+			"reportNo": "894206",
+			"where": "Academy Sports, 11901 Atlantic Blvd., Jacksonville, FL",
+			"date": "12/11/2012",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.716493, 30.185812]
+		},
+		"properties": {
+			"jurisdiction": "Clay",
+			"id": "201216",
+			"name": "Nicholas Ryan Cannady",
+			"race": "White",
+			"gender": "Male",
+			"age": "26",
+			"reportNo": "NA",
+			"where": "Mariners Wharf apartments, 351 Crossing Blvd., Orange Park, FL",
+			"date": "12/14/2012",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.25052, 29.565898]
+		},
+		"properties": {
+			"jurisdiction": "Flagler",
+			"id": "201217",
+			"name": "Troy Gordon",
+			"race": "Black",
+			"gender": "Male",
+			"age": "32",
+			"reportNo": "NA",
+			"where": "61 Brownstone Lane, Palm Coast, FL",
+			"date": "12/15/2012",
+			"result": "killed",
+			"status": "armed (with a knife)"
+		}
+	}]}
