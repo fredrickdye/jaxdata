@@ -14,14 +14,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "44",
-            "incidentLoci": "7400 Powers Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "7400 Powers Ave."
         }
     }, {
         "type": "Feature",
@@ -37,14 +30,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "7500 Birdies Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "7500 Birdies Road"
         }
     }, {
         "type": "Feature",
@@ -60,14 +46,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "1477 W. 29th St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1477 W. 29th St."
         }
     }, {
         "type": "Feature",
@@ -83,14 +62,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "59",
-            "incidentLoci": "1000 Willow Cove Ct. W.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1000 Willow Cove Ct. W."
         }
     }, {
         "type": "Feature",
@@ -106,14 +78,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "27",
-            "incidentLoci": "Bowden Corners Shopping Village, 5711 Bowden Rd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Bowden Corners Shopping Village, 5711 Bowden Rd."
         }
     }, {
         "type": "Feature",
@@ -129,14 +94,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "3300 Donzi Way West",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "3300 Donzi Way West"
         }
     }, {
         "type": "Feature",
@@ -152,14 +110,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "48",
-            "incidentLoci": "1000 W. Sixth St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1000 W. Sixth St.”
         }
     }, {
         "type": "Feature",
@@ -175,14 +126,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "34",
-            "incidentLoci": "810 Golfair Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "810 Golfair Blvd.”
         }
     }, {
         "type": "Feature",
@@ -198,14 +142,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "5345 Spring Grove Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "5345 Spring Grove Road"
         }
     }, {
         "type": "Feature",
@@ -222,13 +159,7 @@
             "gender": "Male",
             "victimAge": "29",
             "incidentLoci": "10970 Lem Turner Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+
         }
     }, {
         "type": "Feature",
@@ -244,14 +175,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "60",
-            "incidentLoci": "318 E. Eighth St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "318 E. Eighth St.”
         }
     }, {
         "type": "Feature",
@@ -267,14 +191,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "1403 W. 22nd St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1403 W. 22nd St.”
         }
     }, {
         "type": "Feature",
@@ -290,14 +207,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "8163 Joffre Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "8163 Joffre Drive"
         }
     }, {
         "type": "Feature",
@@ -313,14 +223,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "3021 Silver St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "3021 Silver St.”
         }
     }, {
         "type": "Feature",
@@ -336,14 +239,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "42",
-            "incidentLoci": "1844 E. 23rd St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1844 E. 23rd St.”
         }
     }, {
         "type": "Feature",
@@ -359,14 +255,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "44",
-            "incidentLoci": "715 N. Main St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "715 N. Main St.”
         }
     }, {
         "type": "Feature",
@@ -382,14 +271,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "2360 Mills Court",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2360 Mills Court"
         }
     }, {
         "type": "Feature",
@@ -405,14 +287,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "471 W. 58th St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "471 W. 58th St.”
         }
     }, {
         "type": "Feature",
@@ -428,14 +303,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "3534 Smithfield St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "3534 Smithfield St.”
         }
     }, {
         "type": "Feature",
@@ -451,14 +319,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "47",
-            "incidentLoci": "11337 Duval Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "11337 Duval Road"
         }
     }, {
         "type": "Feature",
@@ -474,14 +335,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "80",
-            "incidentLoci": "1353 Wolfe St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1353 Wolfe St.”
         }
     }, {
         "type": "Feature",
@@ -497,14 +351,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "799 Lincoln Court N.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "799 Lincoln Court N.”
         }
     }, {
         "type": "Feature",
@@ -520,14 +367,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "0.33",
-            "incidentLoci": "2867 Ernest St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2867 Ernest St.”
         }
     }, {
         "type": "Feature",
@@ -543,14 +383,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "30",
-            "incidentLoci": "3534 Smithfield St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "3534 Smithfield St.”
         }
     }, {
         "type": "Feature",
@@ -566,14 +399,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "3022 Post St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "3022 Post St.”
         }
     }, {
         "type": "Feature",
@@ -589,14 +415,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "1",
-            "incidentLoci": "1518 W. 16th St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1518 W. 16th St.”
         }
     }, {
         "type": "Feature",
@@ -612,14 +431,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "9480 Princeton Square Blvd. S.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "9480 Princeton Square Blvd. S.”
         }
     }, {
         "type": "Feature",
@@ -635,14 +447,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "53",
-            "incidentLoci": "2292 Mayport Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2292 Mayport Road"
         }
     }, {
         "type": "Feature",
@@ -658,14 +463,7 @@
             "race": "Asian",
             "gender": "Male",
             "victimAge": "64",
-            "incidentLoci": "6540 Hugh Court",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "6540 Hugh Court"
         }
     }, {
         "type": "Feature",
@@ -681,14 +479,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "5",
-            "incidentLoci": "River Oaks Apartments, 11291 Harts Rd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "River Oaks Apartments, 11291 Harts Rd.”
         }
     }, {
         "type": "Feature",
@@ -705,13 +496,7 @@
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "104 Breve Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+
         }
     }, {
         "type": "Feature",
@@ -727,14 +512,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "1606 King St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1606 King St.”
         }
     }, {
         "type": "Feature",
@@ -750,14 +528,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "1241 N. Bluehill Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1241 N. Bluehill Drive"
         }
     }, {
         "type": "Feature",
@@ -773,14 +544,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "940 N. Majestic Cypress Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "940 N. Majestic Cypress Drive"
         }
     }, {
         "type": "Feature",
@@ -796,14 +560,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2854 Philips Highway",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2854 Philips Highway"
         }
     }, {
         "type": "Feature",
@@ -819,14 +576,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "5000 Portsmouth Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "5000 Portsmouth Ave.”
         }
     }, {
         "type": "Feature",
@@ -842,14 +592,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "Labelle Shoes, 5240 Timuquana Rd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Labelle Shoes, 5240 Timuquana Rd.”
         }
     }, {
         "type": "Feature",
@@ -865,14 +608,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "10549 New Kings Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "10549 New Kings Road"
         }
     }, {
         "type": "Feature",
@@ -888,14 +624,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "1000 Franklin St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1000 Franklin St.”
         }
     }, {
         "type": "Feature",
@@ -911,14 +640,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "1651 Lindsey Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1651 Lindsey Road"
         }
     }, {
         "type": "Feature",
@@ -934,14 +656,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "400 Broward St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "400 Broward St.”
         }
     }, {
         "type": "Feature",
@@ -957,14 +672,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "2700 Wilcox St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2700 Wilcox St.”
         }
     }, {
         "type": "Feature",
@@ -980,14 +688,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "16",
-            "incidentLoci": "400 Broward St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "400 Broward St.”
         }
     }, {
         "type": "Feature",
@@ -1003,14 +704,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "19",
-            "incidentLoci": "Monarch Beauty Supply, 865 Golfair Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Monarch Beauty Supply, 865 Golfair Blvd.”
         }
     }, {
         "type": "Feature",
@@ -1026,14 +720,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "74",
-            "incidentLoci": "6300 Garette Dr.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "6300 Garette Dr.”
         }
     }, {
         "type": "Feature",
@@ -1049,14 +736,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "2200 W. 30th St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2200 W. 30th St.”
         }
     }, {
         "type": "Feature",
@@ -1072,14 +752,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "51",
-            "incidentLoci": "796 Bunker Hill Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "796 Bunker Hill Blvd.”
         }
     }, {
         "type": "Feature",
@@ -1095,14 +768,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "1400 W. 22nd St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1400 W. 22nd St.”
         }
     }, {
         "type": "Feature",
@@ -1118,14 +784,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "13",
-            "incidentLoci": "Portsmouth Ave. at Devonshire Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Portsmouth Ave. at Devonshire Blvd.”
         }
     }, {
         "type": "Feature",
@@ -1141,14 +800,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "18",
-            "incidentLoci": "2888 San Pablo Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2888 San Pablo Road"
         }
     }, {
         "type": "Feature",
@@ -1164,14 +816,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "24",
-            "incidentLoci": "Heckscher Dr. and Houston Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Heckscher Dr. and Houston Ave.”
         }
     }, {
         "type": "Feature",
@@ -1187,14 +832,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "7318 Smyrna St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "7318 Smyrna St.”
         }
     }, {
         "type": "Feature",
@@ -1210,14 +848,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "47",
-            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.”
         }
     }, {
         "type": "Feature",
@@ -1233,14 +864,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "48",
-            "incidentLoci": "7536 Algood St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "7536 Algood St.”
         }
     }, {
         "type": "Feature",
@@ -1256,14 +880,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "5800 University Blvd. W.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "5800 University Blvd. W.”
         }
     }, {
         "type": "Feature",
@@ -1279,14 +896,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "8030 Old Kings Road S., No. 30",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "8030 Old Kings Road S., No. 30"
         }
     }, {
         "type": "Feature",
@@ -1302,14 +912,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "118th St. and Checkmate St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "118th St. and Checkmate St.”
         }
     }, {
         "type": "Feature",
@@ -1325,14 +928,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "31",
-            "incidentLoci": "1877 E. 24th St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1877 E. 24th St.”
         }
     }, {
         "type": "Feature",
@@ -1348,14 +944,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "2160 Mayport Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2160 Mayport Road"
         }
     }, {
         "type": "Feature",
@@ -1371,14 +960,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "10",
-            "incidentLoci": "118th St. and Checkmate St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "118th St. and Checkmate St.”
         }
     }, {
         "type": "Feature",
@@ -1394,14 +976,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "48",
-            "incidentLoci": "143 19th St. W.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "143 19th St. W.”
         }
     }, {
         "type": "Feature",
@@ -1417,14 +992,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "13",
-            "incidentLoci": "Hartswood Apartments, 11501 Harts Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Hartswood Apartments, 11501 Harts Road"
         }
     }, {
         "type": "Feature",
@@ -1440,14 +1008,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "54",
-            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St.”
         }
     }, {
         "type": "Feature",
@@ -1463,14 +1024,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "2035 Hartridge St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2035 Hartridge St.”
         }
     }, {
         "type": "Feature",
@@ -1486,14 +1040,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "49",
-            "incidentLoci": "5705 Sue Lane",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "5705 Sue Lane"
         }
     }, {
         "type": "Feature",
@@ -1509,14 +1056,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "5400 Paris Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "5400 Paris Ave.”
         }
     }, {
         "type": "Feature",
@@ -1532,14 +1072,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "1982 Lambert St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1982 Lambert St.”
         }
     }, {
         "type": "Feature",
@@ -1555,14 +1088,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "1923 W. Ninth St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1923 W. Ninth St.”
         }
     }, {
         "type": "Feature",
@@ -1578,14 +1104,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "3952 Atlantic Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "3952 Atlantic Blvd.”
         }
     }, {
         "type": "Feature",
@@ -1601,14 +1120,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "48",
-            "incidentLoci": "Trout River Boulevard Trailer Park, 5809 Trout River Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Trout River Boulevard Trailer Park, 5809 Trout River Blvd.”
         }
     }, {
         "type": "Feature",
@@ -1624,14 +1136,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "2128 Westcott St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2128 Westcott St.”
         }
     }, {
         "type": "Feature",
@@ -1647,14 +1152,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "7851 Paul Revere Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "7851 Paul Revere Drive"
         }
     }, {
         "type": "Feature",
@@ -1670,14 +1168,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "9527 Regency Square Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "9527 Regency Square Blvd.”
         }
     }, {
         "type": "Feature",
@@ -1693,14 +1184,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "50",
-            "incidentLoci": "500 E. Fifth St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "500 E. Fifth St.”
         }
     }, {
         "type": "Feature",
@@ -1716,14 +1200,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "58",
-            "incidentLoci": "9104 Tyler Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "9104 Tyler Ave.”
         }
     }, {
         "type": "Feature",
@@ -1739,14 +1216,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "8859 Old Kings Rd., No. 710",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "8859 Old Kings Rd., No. 710"
         }
     }, {
         "type": "Feature",
@@ -1762,14 +1232,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "6211 St. Augustine Rd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "6211 St. Augustine Rd.”
         }
     }, {
         "type": "Feature",
@@ -1785,14 +1248,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "46",
-            "incidentLoci": "Hess gas station, 589 S. Lane Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Hess gas station, 589 S. Lane Ave.”
         }
     }, {
         "type": "Feature",
@@ -1808,14 +1264,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "8803 Berry Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "8803 Berry Ave.”
         }
     }, {
         "type": "Feature",
@@ -1831,14 +1280,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "50",
-            "incidentLoci": "5122 Ricker Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "5122 Ricker Road"
         }
     }, {
         "type": "Feature",
@@ -1854,14 +1296,7 @@
             "race": "Hispanic",
             "gender": "Female",
             "victimAge": "56",
-            "incidentLoci": "4614 Morley Lane",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "4614 Morley Lane"
         }
     }, {
         "type": "Feature",
@@ -1877,14 +1312,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "45",
-            "incidentLoci": "9011 Fourth Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "9011 Fourth Ave.”
         }
     }, {
         "type": "Feature",
@@ -1900,14 +1328,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "614 E. 63rd St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "614 E. 63rd St.”
         }
     }, {
         "type": "Feature",
@@ -1923,14 +1344,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "54",
-            "incidentLoci": "343 W. 22nd St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "343 W. 22nd St.”
         }
     }, {
         "type": "Feature",
@@ -1946,14 +1360,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "1400 Lakeshore Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1400 Lakeshore Blvd.”
         }
     }, {
         "type": "Feature",
@@ -1969,14 +1376,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "16",
-            "incidentLoci": "1104 Pheasant Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1104 Pheasant Drive"
         }
     }, {
         "type": "Feature",
@@ -1992,14 +1392,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "Buy-Rite, 2958 Justina Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Buy-Rite, 2958 Justina Road"
         }
     }, {
         "type": "Feature",
@@ -2015,14 +1408,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "9000 Southside Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "Police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "9000 Southside Blvd.”
         }
     }, {
         "type": "Feature",
@@ -2038,14 +1424,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "51",
-            "incidentLoci": "1612 W. 19th St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1612 W. 19th St.”
         }
     }, {
         "type": "Feature",
@@ -2061,14 +1440,7 @@
             "race": "Asian",
             "gender": "Male",
             "victimAge": "42",
-            "incidentLoci": "7200 Powers Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "7200 Powers Ave.”
         }
     }, {
         "type": "Feature",
@@ -2084,14 +1456,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2955 Willow St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2955 Willow St.”
         }
     }, {
         "type": "Feature",
@@ -2107,14 +1472,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "28",
-            "incidentLoci": "8000 Marion St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "8000 Marion St.”
         }
     }, {
         "type": "Feature",
@@ -2130,14 +1488,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "6545 Ramona Blvd., Room 119",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "6545 Ramona Blvd., Room 119"
         }
     }, {
         "type": "Feature",
@@ -2153,14 +1504,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "8",
-            "incidentLoci": "8720 Third Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "8720 Third Ave.”
         }
     }, {
         "type": "Feature",
@@ -2176,14 +1520,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "750 Barnett St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "750 Barnett St.”
         }
     }, {
         "type": "Feature",
@@ -2199,14 +1536,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2821 Moncrief Road W.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2821 Moncrief Road W.”
         }
     }, {
         "type": "Feature",
@@ -2222,14 +1552,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "35",
-            "incidentLoci": "5959 Fort Caroline Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "5959 Fort Caroline Road"
         }
     }, {
         "type": "Feature",
@@ -2245,14 +1568,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "6715 Powers Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "6715 Powers Ave.”
         }
     }, {
         "type": "Feature",
@@ -2268,14 +1584,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "8441 Highgate Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "8441 Highgate Drive"
         }
     }, {
         "type": "Feature",
@@ -2291,14 +1600,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "1129 Arco Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1129 Arco Drive"
         }
     }, {
         "type": "Feature",
@@ -2314,14 +1616,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "4",
-            "incidentLoci": "700 Huron Street",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "700 Huron Street"
         }
     }, {
         "type": "Feature",
@@ -2337,14 +1632,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "5516 Brent St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "5516 Brent St.”
         }
     }, {
         "type": "Feature",
@@ -2360,14 +1648,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "702 N. Lincoln Court",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "702 N. Lincoln Court"
         }
     }, {
         "type": "Feature",
@@ -2383,14 +1664,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "700 West Fourth Street",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "700 West Fourth Street"
         }
     }, {
         "type": "Feature",
@@ -2406,14 +1680,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "58 Dudley St., Atlantic Beach, FL",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "58 Dudley St., Atlantic Beach, FL"
         }
     }, {
         "type": "Feature",
@@ -2429,14 +1696,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "81",
-            "incidentLoci": "Interstate 10 and Chaffee Rd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Interstate 10 and Chaffee Rd.”
         }
     }, {
         "type": "Feature",
@@ -2452,14 +1712,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "3200 Fitzgerald Street",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "3200 Fitzgerald Street"
         }
     }, {
         "type": "Feature",
@@ -2475,14 +1728,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "Bennett St. and East 15th St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Bennett St. and East 15th St.”
         }
     }, {
         "type": "Feature",
@@ -2498,14 +1744,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "Clyde Dr. and Darlington Dr.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Clyde Dr. and Darlington Dr.”
         }
     }, {
         "type": "Feature",
@@ -2521,14 +1760,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "47",
-            "incidentLoci": "5525 N. Main St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "5525 N. Main St.”
         }
     }, {
         "type": "Feature",
@@ -2544,14 +1776,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "9272 Norfolk Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "9272 Norfolk Blvd.”
         }
     }, {
         "type": "Feature",
@@ -2567,14 +1792,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "7357 Sharbeth Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "7357 Sharbeth Drive"
         }
     }, {
         "type": "Feature",
@@ -2590,14 +1808,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "1437 Evergreen Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1437 Evergreen Ave.”
         }
     }, {
         "type": "Feature",
@@ -2613,14 +1824,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "1700 Wambolt St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1700 Wambolt St.”
         }
     }, {
         "type": "Feature",
@@ -2636,14 +1840,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "1587 Kings Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1587 Kings Road"
         }
     }, {
         "type": "Feature",
@@ -2659,14 +1856,7 @@
             "race": "Asian",
             "gender": "Female",
             "victimAge": "2",
-            "incidentLoci": "6305 Devonhurst Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "6305 Devonhurst Drive"
         }
     }, {
         "type": "Feature",
@@ -2682,14 +1872,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "Cheaters Gentlemens Club, 6347 Philips Highway",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Cheaters Gentlemens Club, 6347 Philips Highway"
         }
     }, {
         "type": "Feature",
@@ -2705,14 +1888,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "4400 Notter Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "4400 Notter Ave.”
         }
     }, {
         "type": "Feature",
@@ -2728,14 +1904,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.”
         }
     }, {
         "type": "Feature",
@@ -2751,14 +1920,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "31",
-            "incidentLoci": "1165 Randolph St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "1165 Randolph St.”
         }
     }, {
         "type": "Feature",
@@ -2774,14 +1936,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "4700 Southside Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "4700 Southside Blvd.”
         }
     }, {
         "type": "Feature",
@@ -2797,14 +1952,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "2045 Jammes Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2045 Jammes Road"
         }
     }, {
         "type": "Feature",
@@ -2820,14 +1968,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "7736 Cannon St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "7736 Cannon St.”
         }
     }, {
         "type": "Feature",
@@ -2843,14 +1984,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "Palm Terrace Apartments, 4600 Moncrief Rd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Palm Terrace Apartments, 4600 Moncrief Rd.”
         }
     }, {
         "type": "Feature",
@@ -2866,14 +2000,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "12157 Heckscher Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "12157 Heckscher Drive"
         }
     }, {
         "type": "Feature",
@@ -2889,14 +2016,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "8500 N. Collins Ridge Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "8500 N. Collins Ridge Blvd.”
         }
     }, {
         "type": "Feature",
@@ -2912,14 +2032,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "Rivers End Apartments, 5520 Collins Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Rivers End Apartments, 5520 Collins Road"
         }
     }, {
         "type": "Feature",
@@ -2935,14 +2048,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "34",
-            "incidentLoci": "Washington Heights Grocery, 4231 W. Moncrief Road",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Washington Heights Grocery, 4231 W. Moncrief Road"
         }
     }, {
         "type": "Feature",
@@ -2958,14 +2064,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "37",
-            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St.”
         }
     }, {
         "type": "Feature",
@@ -2981,14 +2080,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "Mandarin Pines apartments, 4295 Sunbeam Rd., Apt. 703",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Mandarin Pines apartments, 4295 Sunbeam Rd., Apt. 703"
         }
     }, {
         "type": "Feature",
@@ -3004,14 +2096,7 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "48",
-            "incidentLoci": "Preserve at Cedar River Apartments, 4301 Confederate Point Rd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Preserve at Cedar River Apartments, 4301 Confederate Point Rd.”
         }
     }, {
         "type": "Feature",
@@ -3027,14 +2112,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "3953 Owens Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "3953 Owens Ave.”
         }
     }, {
         "type": "Feature",
@@ -3050,14 +2128,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.”
         }
     }, {
         "type": "Feature",
@@ -3073,14 +2144,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "Willamsburg Commons apartments, 7147 S. Old Kings Rd.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "Willamsburg Commons apartments, 7147 S. Old Kings Rd.”
         }
     }, {
         "type": "Feature",
@@ -3096,14 +2160,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "49",
-            "incidentLoci": "9603 Flechette Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "9603 Flechette Ave.”
         }
     }, {
         "type": "Feature",
@@ -3119,14 +2176,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "70",
-            "incidentLoci": "2600 Lowell Ave.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "2600 Lowell Ave.”
         }
     }, {
         "type": "Feature",
@@ -3142,14 +2192,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "3",
-            "incidentLoci": "4022 W. Oriely Drive",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "4022 W. Oriely Drive"
         }
     }, {
         "type": "Feature",
@@ -3165,14 +2208,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "140 E. 43rd St.",
-            "causeDeath": "",
-            "reportNumber": "",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "incidentLoci": "140 E. 43rd St.”
         }
     }]
 }
