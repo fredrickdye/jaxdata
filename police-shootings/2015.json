@@ -283,4 +283,23 @@
 			"result": "killed",
 			"status": "armed"
 		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.566203, 30.318432]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201516",
+			"name": "Jerry Michael Graham Jr.",
+			"race": "Black",
+			"gender": "Male",
+			"age": "34",
+			"reportNo": "736688",
+			"where": "212 Century St.",
+			"date": "10/28/2015",
+			"result": "killed",
+			"status": "armed"
+		}
 	}]}
