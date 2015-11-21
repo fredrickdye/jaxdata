@@ -1683,5 +1683,22 @@
             "incidentLoci": "9215 4th Ave",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.698097, 30.380043]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "100",
+            "reportDate": "11/19/2015",
+            "victimName": "Kurt Dean",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "24",
+            "incidentLoci": "JAX Jewelry & Next Day Grillz, 2261 W. Edgewood Ave. #15",
+            "causeDeath": "shot"
+        }
     }]
 }
