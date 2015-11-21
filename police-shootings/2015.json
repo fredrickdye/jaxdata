@@ -40,7 +40,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-81.962422, 29.738659]
+			"coordinates": [-81.962512, 29.738749]
 		},
 		"properties": {
 			"jurisdiction": "Putnam",
