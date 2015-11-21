@@ -16,12 +16,7 @@
             "victimAge": "18",
             "incidentLoci": "1045 Kenmore St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 2882",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "2882"
         }
     }, {
         "type": "Feature",
@@ -39,12 +34,7 @@
             "victimAge": "20",
             "incidentLoci": "Washington Heights Apartments, 4229 W. Moncrief Road",
             "causeDeath": "shot",
-            "reportNumber": "CCR 11969",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "11969"
         }
     }, {
         "type": "Feature",
@@ -62,12 +52,7 @@
             "victimAge": "30",
             "incidentLoci": "Sunny Acres Mobile Home Park, 10166 103rd St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 12188",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "12188"
         }
     }, {
         "type": "Feature",
@@ -85,12 +70,7 @@
             "victimAge": "47",
             "incidentLoci": "Sunny Acres Mobile Home Park, 10166 103rd St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 12188",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "12188"
         }
     }, {
         "type": "Feature",
@@ -108,12 +88,7 @@
             "victimAge": "56",
             "incidentLoci": "Sunny Acres Mobile Home Park, 10166 103rd St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 12188",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "12188"
         }
     }, {
         "type": "Feature",
@@ -131,12 +106,7 @@
             "victimAge": "25",
             "incidentLoci": "7270 Exline Road",
             "causeDeath": "stabbed",
-            "reportNumber": "CCR 25074",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "25074"
         }
     }, {
         "type": "Feature",
@@ -154,12 +124,7 @@
             "victimAge": "21",
             "incidentLoci": "8981 Ivey Road",
             "causeDeath": "shot",
-            "reportNumber": "CCR 28852",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "28852"
         }
     }, {
         "type": "Feature",
@@ -177,12 +142,7 @@
             "victimAge": "17",
             "incidentLoci": "Family Food Store, 2172 W 13th St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 60199",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "60199"
         }
     }, {
         "type": "Feature",
@@ -200,12 +160,7 @@
             "victimAge": "41",
             "incidentLoci": "Pavco Trucking, 9501 Normandy Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 67897",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "67897"
         }
     }, {
         "type": "Feature",
@@ -223,12 +178,7 @@
             "victimAge": "18",
             "incidentLoci": "1581 W. 19th St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 68723",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "68723"
         }
     }, {
         "type": "Feature",
@@ -246,12 +196,7 @@
             "victimAge": "18",
             "incidentLoci": "Woodlands Apartments, 2600 Art Museum Drive",
             "causeDeath": "shot",
-            "reportNumber": "CCR 76798",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "76798"
         }
     }, {
         "type": "Feature",
@@ -268,13 +213,8 @@
             "gender": "Male",
             "victimAge": "18",
             "incidentLoci": "Belk at Regency Square Mall, 9400 Atlantic Blvd.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 79761",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "79761"
         }
     }, {
         "type": "Feature",
@@ -292,12 +232,7 @@
             "victimAge": "22",
             "incidentLoci": "7014 Beekman Lake Drive",
             "causeDeath": "shot",
-            "reportNumber": "CCR 109013",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "109013"
         }
     }, {
         "type": "Feature",
@@ -314,13 +249,8 @@
             "gender": "Male",
             "victimAge": "32",
             "incidentLoci": "Dudley St., and George St., Atlantic Beach, FL",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 123769",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "123769"
         }
     }, {
         "type": "Feature",
@@ -338,12 +268,7 @@
             "victimAge": "21",
             "incidentLoci": "Sanctuary Walk apartments, 645 E. 21st St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 133733",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "133733"
         }
     }, {
         "type": "Feature",
@@ -361,12 +286,7 @@
             "victimAge": "41",
             "incidentLoci": "Pointe Sienna Apartments, 7200 Powers Ave.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 136578",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "136578"
         }
     }, {
         "type": "Feature",
@@ -384,12 +304,7 @@
             "victimAge": "77",
             "incidentLoci": "2881 W. Seventh St.",
             "causeDeath": "stabbed",
-            "reportNumber": "CCR 140700",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "140700"
         }
     }, {
         "type": "Feature",
@@ -407,12 +322,7 @@
             "victimAge": "16",
             "incidentLoci": "9364 Sibbald Road",
             "causeDeath": "beaten",
-            "reportNumber": "CCR 161319",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "killed with hammer",
-            "urls": ""
+            "reportNumber": "161319"
         }
     }, {
         "type": "Feature",
@@ -430,12 +340,7 @@
             "victimAge": "20",
             "incidentLoci": "9364 Sibbald Road",
             "causeDeath": "beaten",
-            "reportNumber": "CCR 161319",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "killed with hammer",
-            "urls": ""
+            "reportNumber": "161319"
         }
     }, {
         "type": "Feature",
@@ -452,13 +357,8 @@
             "gender": "Male",
             "victimAge": "17",
             "incidentLoci": "3900 Hendricks Ave.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 167386",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "167386"
         }
     }, {
         "type": "Feature",
@@ -476,12 +376,7 @@
             "victimAge": "55",
             "incidentLoci": "The Globe, 11000 Beach Blvd.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 175044",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "175044"
         }
     }, {
         "type": "Feature",
@@ -499,12 +394,7 @@
             "victimAge": "75",
             "incidentLoci": "824 Eaverson St.",
             "causeDeath": "stabbed",
-            "reportNumber": "CCR 183509",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "183509"
         }
     }, {
         "type": "Feature",
@@ -522,12 +412,7 @@
             "victimAge": "41",
             "incidentLoci": "Forest Lake Apartments, 11050 Harts Rd,, Apt. 1801",
             "causeDeath": "shot",
-            "reportNumber": "CCR 214983",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "214983"
         }
     }, {
         "type": "Feature",
@@ -545,12 +430,7 @@
             "victimAge": "69",
             "incidentLoci": "Forest Lake Apartments, 11050 Harts Rd,, Apt. 1801",
             "causeDeath": "shot",
-            "reportNumber": "CCR 214983",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "214983"
         }
     }, {
         "type": "Feature",
@@ -568,12 +448,7 @@
             "victimAge": "45",
             "incidentLoci": "Riverbend Apartments, 3500 University Blvd N., Apt. 1710",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 214851",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "214851"
         }
     }, {
         "type": "Feature",
@@ -591,12 +466,7 @@
             "victimAge": "46",
             "incidentLoci": "Club Paradise, 620 Clark St., Baldwin, FL",
             "causeDeath": "stabbed",
-            "reportNumber": "CCR 224012",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "224012"
         }
     }, {
         "type": "Feature",
@@ -614,12 +484,7 @@
             "victimAge": "56",
             "incidentLoci": "600 N. Washington St.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 231139",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "231139"
         }
     }, {
         "type": "Feature",
@@ -637,12 +502,7 @@
             "victimAge": "31",
             "incidentLoci": "2460 Blackshire Road",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 236167",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "236167"
         }
     }, {
         "type": "Feature",
@@ -660,12 +520,7 @@
             "victimAge": "51",
             "incidentLoci": "6000 N. Main St.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 240039",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "240039"
         }
     }, {
         "type": "Feature",
@@ -682,13 +537,8 @@
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "1129 Bellemeade Blvd.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 262831",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "262831"
         }
     }, {
         "type": "Feature",
@@ -706,12 +556,7 @@
             "victimAge": "23",
             "incidentLoci": "2160 W. 30th St.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 276385",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "276385"
         }
     }, {
         "type": "Feature",
@@ -729,12 +574,7 @@
             "victimAge": "21",
             "incidentLoci": "Target, 6331 Roosevelt Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 285001",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "285001"
         }
     }, {
         "type": "Feature",
@@ -751,13 +591,8 @@
             "gender": "Male",
             "victimAge": "30",
             "incidentLoci": "Abbington Square Apartments, 3450 Townsend Blvd.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 286022",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "286022"
         }
     }, {
         "type": "Feature",
@@ -774,13 +609,8 @@
             "gender": "Female",
             "victimAge": "23",
             "incidentLoci": "Washington Heights Apartments, Ken Knight Dr. and Bailey Ct.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 310376",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "310376"
         }
     }, {
         "type": "Feature",
@@ -798,12 +628,7 @@
             "victimAge": "21",
             "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 317757",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "317757"
         }
     }, {
         "type": "Feature",
@@ -821,12 +646,7 @@
             "victimAge": "20",
             "incidentLoci": "956 Wayne St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 333215",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "333215"
         }
     }, {
         "type": "Feature",
@@ -844,12 +664,7 @@
             "victimAge": "25",
             "incidentLoci": "12360 N. Joda Lane",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 348637",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "348637"
         }
     }, {
         "type": "Feature",
@@ -867,12 +682,7 @@
             "victimAge": "18",
             "incidentLoci": "4070 Barnes Road",
             "causeDeath": "shot",
-            "reportNumber": "CCR 375864",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "375864"
         }
     }, {
         "type": "Feature",
@@ -890,12 +700,7 @@
             "victimAge": "39",
             "incidentLoci": "3027 Edison Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 377577",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "377577"
         }
     }, {
         "type": "Feature",
@@ -913,12 +718,7 @@
             "victimAge": "15",
             "incidentLoci": "6912 Buffalo Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 391272",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "391272"
         }
     }, {
         "type": "Feature",
@@ -936,12 +736,7 @@
             "victimAge": "25",
             "incidentLoci": "3300 Rayford",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 396158",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "396158"
         }
     }, {
         "type": "Feature",
@@ -959,12 +754,7 @@
             "victimAge": "38",
             "incidentLoci": "Apartment Movers storage facility, 5285 Shad Rd.",
             "causeDeath": "beaten",
-            "reportNumber": "CCR 394933",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "394933"
         }
     }, {
         "type": "Feature",
@@ -982,12 +772,7 @@
             "victimAge": "19",
             "incidentLoci": "1800 Lindsey Road",
             "causeDeath": "shot",
-            "reportNumber": "CCR 408481",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "408481"
         }
     }, {
         "type": "Feature",
@@ -1004,13 +789,8 @@
             "gender": "Male",
             "victimAge": "2",
             "incidentLoci": "Magnolia Point Apartments, 7507 Beach Blvd.",
-            "causeDeath": "Abuse",
-            "reportNumber": "CCR 420876",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "beaten",
+            "reportNumber": "420876"
         }
     }, {
         "type": "Feature",
@@ -1028,12 +808,7 @@
             "victimAge": "19",
             "incidentLoci": "Snappy Food Store, 2758 Trollie Lane",
             "causeDeath": "shot",
-            "reportNumber": "CCR 430415",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "430415"
         }
     }, {
         "type": "Feature",
@@ -1051,12 +826,7 @@
             "victimAge": "53",
             "incidentLoci": "Atlantic Bread Co., 5613 San Jose Blvd.",
             "causeDeath": "beaten",
-            "reportNumber": "CCR 431065",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "431065"
         }
     }, {
         "type": "Feature",
@@ -1074,12 +844,7 @@
             "victimAge": "34",
             "incidentLoci": "3927 Notter Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 436519",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "436519"
         }
     }, {
         "type": "Feature",
@@ -1097,12 +862,7 @@
             "victimAge": "31",
             "incidentLoci": "2015 W. Prospect St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 442649",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "442649"
         }
     }, {
         "type": "Feature",
@@ -1120,12 +880,7 @@
             "victimAge": "38",
             "incidentLoci": "2945 Lucoma Drive",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 389652",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "389652"
         }
     }, {
         "type": "Feature",
@@ -1143,12 +898,7 @@
             "victimAge": "0.083",
             "incidentLoci": "2981 Parental Home Road",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 1078208",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1078208"
         }
     }, {
         "type": "Feature",
@@ -1166,12 +916,7 @@
             "victimAge": "30",
             "incidentLoci": "Connie Jean Road",
             "causeDeath": "shot",
-            "reportNumber": "CCR 250461",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "250461"
         }
     }, {
         "type": "Feature",
@@ -1189,12 +934,7 @@
             "victimAge": "21",
             "incidentLoci": "7423 Linda Drive",
             "causeDeath": "shot",
-            "reportNumber": "CCR 481307",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "481307"
         }
     }, {
         "type": "Feature",
@@ -1212,12 +952,7 @@
             "victimAge": "19",
             "incidentLoci": "1531 W. Seventh St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 496020",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "496020"
         }
     }, {
         "type": "Feature",
@@ -1235,12 +970,7 @@
             "victimAge": "34",
             "incidentLoci": "3048 Fitzgerald St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 503340",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "503340"
         }
     }, {
         "type": "Feature",
@@ -1258,12 +988,7 @@
             "victimAge": "32",
             "incidentLoci": "Gate Food Post, 1721 University Blvd. N.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 511520",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "511520"
         }
     }, {
         "type": "Feature",
@@ -1281,12 +1006,7 @@
             "victimAge": "47",
             "incidentLoci": "Security Apartments, 2584 W. 45th St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 533514",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "533514"
         }
     }, {
         "type": "Feature",
@@ -1304,12 +1024,7 @@
             "victimAge": "51",
             "incidentLoci": "1938 W. Second St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 533787",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "533787"
         }
     }, {
         "type": "Feature",
@@ -1327,12 +1042,7 @@
             "victimAge": "29",
             "incidentLoci": "8492 Wagenhals Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 541640",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "541640"
         }
     }, {
         "type": "Feature",
@@ -1350,12 +1060,7 @@
             "victimAge": "19",
             "incidentLoci": "2237 Kingston St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 547509",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "547509"
         }
     }, {
         "type": "Feature",
@@ -1373,12 +1078,7 @@
             "victimAge": "50",
             "incidentLoci": "1499 Mitchell St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 578919",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "578919"
         }
     }, {
         "type": "Feature",
@@ -1396,12 +1096,7 @@
             "victimAge": "23",
             "incidentLoci": "1921 W. Second St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 595752",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "595752"
         }
     }, {
         "type": "Feature",
@@ -1419,12 +1114,7 @@
             "victimAge": "49",
             "incidentLoci": "Baptist Medical Center parking garage, 800 Prudential Drive",
             "causeDeath": "shot",
-            "reportNumber": "CCR 596204",
-            "inPublicrpt": "",
-            "jsoClass": "murder-suicide",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "596204"
         }
     }, {
         "type": "Feature",
@@ -1442,12 +1132,7 @@
             "victimAge": "26",
             "incidentLoci": "Park Apartments, 10770 Anders Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 603733",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "603733"
         }
     }, {
         "type": "Feature",
@@ -1465,12 +1150,7 @@
             "victimAge": "39",
             "incidentLoci": "1725 Wigmore St.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 604836",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "604836"
         }
     }, {
         "type": "Feature",
@@ -1487,13 +1167,8 @@
             "gender": "Male",
             "victimAge": "50",
             "incidentLoci": "Fifth Third Bank, St. Augustine Rd. and Lordun Ter.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 607044",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "607044"
         }
     }, {
         "type": "Feature",
@@ -1510,13 +1185,8 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "4600 Post St.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 609065",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "609065"
         }
     }, {
         "type": "Feature",
@@ -1534,12 +1204,7 @@
             "victimAge": "55",
             "incidentLoci": "2502 Stratton Road",
             "causeDeath": "shot",
-            "reportNumber": "CCR 619186",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "619186"
         }
     }, {
         "type": "Feature",
@@ -1557,12 +1222,7 @@
             "victimAge": "39",
             "incidentLoci": "443 Woodbine St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 626148",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "626148"
         }
     }, {
         "type": "Feature",
@@ -1580,12 +1240,7 @@
             "victimAge": "20",
             "incidentLoci": "Summer Oak at St. Johns Apartments, 5350 Arlington Expressway",
             "causeDeath": "shot",
-            "reportNumber": "CCR 628720",
-            "inPublicrpt": "",
-            "jsoClass": "self-defense shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "628720"
         }
     }, {
         "type": "Feature",
@@ -1603,12 +1258,7 @@
             "victimAge": "35",
             "incidentLoci": "2145 Buckman St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 641787",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "641787"
         }
     }, {
         "type": "Feature",
@@ -1626,12 +1276,7 @@
             "victimAge": "35",
             "incidentLoci": "San Juan Ave. and Cassat Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 642790",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "642790"
         }
     }, {
         "type": "Feature",
@@ -1649,12 +1294,7 @@
             "victimAge": "21",
             "incidentLoci": "4812 Dallen Lea Dr.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 659574",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "659574"
         }
     }, {
         "type": "Feature",
@@ -1672,12 +1312,7 @@
             "victimAge": "35",
             "incidentLoci": "3042 W. First St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 677880",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "677880"
         }
     }, {
         "type": "Feature",
@@ -1695,12 +1330,7 @@
             "victimAge": "46",
             "incidentLoci": "Crowley Line Services, 1163 Talleyrand Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 686396",
-            "inPublicrpt": "",
-            "jsoClass": "murder-suicide",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "686396"
         }
     }, {
         "type": "Feature",
@@ -1718,12 +1348,7 @@
             "victimAge": "39",
             "incidentLoci": "1658 Academy St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 692664",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "692664"
         }
     }, {
         "type": "Feature",
@@ -1741,12 +1366,7 @@
             "victimAge": "16",
             "incidentLoci": "Hollybrook Apartments, 104 King St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 692963",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "692963"
         }
     }, {
         "type": "Feature",
@@ -1764,12 +1384,7 @@
             "victimAge": "33",
             "incidentLoci": "Hilltop Apartments, 1646 W 45th St.",
             "causeDeath": "stabbed",
-            "reportNumber": "CCR 692923",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "692923"
         }
     }, {
         "type": "Feature",
@@ -1787,12 +1402,7 @@
             "victimAge": "30",
             "incidentLoci": "1630 E. 27th St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 693474",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "693474"
         }
     }, {
         "type": "Feature",
@@ -1809,13 +1419,8 @@
             "gender": "Male",
             "victimAge": "38",
             "incidentLoci": "Hilltop Apartments, 1646 W 45th St.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 694690",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "694690"
         }
     }, {
         "type": "Feature",
@@ -1833,12 +1438,7 @@
             "victimAge": "30",
             "incidentLoci": "8377 Homeport Court",
             "causeDeath": "shot",
-            "reportNumber": "CCR 700850",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "700850"
         }
     }, {
         "type": "Feature",
@@ -1856,12 +1456,7 @@
             "victimAge": "24",
             "incidentLoci": "8377 Homeport Court",
             "causeDeath": "shot",
-            "reportNumber": "CCR 700850",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "700850"
         }
     }, {
         "type": "Feature",
@@ -1879,12 +1474,7 @@
             "victimAge": "24",
             "incidentLoci": "Riverside Memorial Park, 7242 Normandy Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 702284",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "702284"
         }
     }, {
         "type": "Feature",
@@ -1902,12 +1492,7 @@
             "victimAge": "26",
             "incidentLoci": "Palms Fish Camp, 6359 Heckscher Dr.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 705821",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "705821"
         }
     }, {
         "type": "Feature",
@@ -1924,13 +1509,8 @@
             "gender": "Male",
             "victimAge": "29",
             "incidentLoci": "The Courtyards, 2500 Americas Cup Rd.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 720794",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "720794"
         }
     }, {
         "type": "Feature",
@@ -1948,12 +1528,7 @@
             "victimAge": "28",
             "incidentLoci": "Southside Mobile Home Park, 4351 Philips Highway",
             "causeDeath": "shot",
-            "reportNumber": "CCR 732842",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "732842"
         }
     }, {
         "type": "Feature",
@@ -1971,12 +1546,7 @@
             "victimAge": "65",
             "incidentLoci": "5618 Bennington Drive",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 745414",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "745414"
         }
     }, {
         "type": "Feature",
@@ -1994,12 +1564,7 @@
             "victimAge": "21",
             "incidentLoci": "West 13th St. and Moncrief Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 749959",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "749959"
         }
     }, {
         "type": "Feature",
@@ -2017,12 +1582,7 @@
             "victimAge": "18",
             "incidentLoci": "3041 W. 19th St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 760868",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "760868"
         }
     }, {
         "type": "Feature",
@@ -2040,12 +1600,7 @@
             "victimAge": "26",
             "incidentLoci": "2400 Lewis St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 780534",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "780534"
         }
     }, {
         "type": "Feature",
@@ -2063,12 +1618,7 @@
             "victimAge": "50",
             "incidentLoci": "200 Magnolia St.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 784310",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "784310"
         }
     }, {
         "type": "Feature",
@@ -2086,12 +1636,7 @@
             "victimAge": "27",
             "incidentLoci": "630 W. Fourth",
             "causeDeath": "stabbed",
-            "reportNumber": "CCR 806465",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "806465"
         }
     }, {
         "type": "Feature",
@@ -2108,13 +1653,8 @@
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "Bikini Beach club, 2840 Mayport Rd.",
-            "causeDeath": "vehicular homicide",
-            "reportNumber": "CCR 826398",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "run over",
+            "reportNumber": "826398"
         }
     }, {
         "type": "Feature",
@@ -2132,12 +1672,7 @@
             "victimAge": "29",
             "incidentLoci": "Washington Heights apartments, 4229 W. Moncrief Rd.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 829384",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "829384"
         }
     }, {
         "type": "Feature",
@@ -2155,12 +1690,7 @@
             "victimAge": "27",
             "incidentLoci": "Marshall Arms, 7605 Arble Dr.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 832255",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "832255"
         }
     }, {
         "type": "Feature",
@@ -2178,12 +1708,7 @@
             "victimAge": "63",
             "incidentLoci": "8401 Malaga Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 834725",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "834725"
         }
     }, {
         "type": "Feature",
@@ -2201,12 +1726,7 @@
             "victimAge": "29",
             "incidentLoci": "1659 N. Moncrief Village St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 2008835215",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "Declared homicide 8/7/11",
-            "urls": ""
+            "reportNumber": "2008835215"
         }
     }, {
         "type": "Feature",
@@ -2224,12 +1744,7 @@
             "victimAge": "34",
             "incidentLoci": "Les Chateaux Condominiums, 851 Bert Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 842104",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "842104"
         }
     }, {
         "type": "Feature",
@@ -2247,12 +1762,7 @@
             "victimAge": "49",
             "incidentLoci": "2512 Lowell Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 842290",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "842290"
         }
     }, {
         "type": "Feature",
@@ -2270,12 +1780,7 @@
             "victimAge": "17",
             "incidentLoci": "6700 Lenox Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 851577",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "851577"
         }
     }, {
         "type": "Feature",
@@ -2293,12 +1798,7 @@
             "victimAge": "33",
             "incidentLoci": "1165 Randolph St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 868034",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "868034"
         }
     }, {
         "type": "Feature",
@@ -2316,12 +1816,7 @@
             "victimAge": "25",
             "incidentLoci": "5734 Justina Terrace",
             "causeDeath": "shot",
-            "reportNumber": "CCR 871268",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "871268"
         }
     }, {
         "type": "Feature",
@@ -2338,13 +1833,8 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "W. 26th St. and Barnett St.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 889569",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "889569"
         }
     }, {
         "type": "Feature",
@@ -2362,12 +1852,7 @@
             "victimAge": "21",
             "incidentLoci": "San Juan Villas, 5821 San Juan",
             "causeDeath": "shot",
-            "reportNumber": "CCR 890957",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "890957"
         }
     }, {
         "type": "Feature",
@@ -2385,12 +1870,7 @@
             "victimAge": "26",
             "incidentLoci": "11900 Beach Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 910214",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "910214"
         }
     }, {
         "type": "Feature",
@@ -2408,12 +1888,7 @@
             "victimAge": "32",
             "incidentLoci": "3118 Bridier St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 921376",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "921376"
         }
     }, {
         "type": "Feature",
@@ -2431,12 +1906,7 @@
             "victimAge": "35",
             "incidentLoci": "Brookwood Forest Apartments, 1382 Brookwood Forest Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 940690",
-            "inPublicrpt": "",
-            "jsoClass": "accidental negligent",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "940690"
         }
     }, {
         "type": "Feature",
@@ -2454,12 +1924,7 @@
             "victimAge": "56",
             "incidentLoci": "Colonial Ave. and Vista Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 943195",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "943195"
         }
     }, {
         "type": "Feature",
@@ -2477,12 +1942,7 @@
             "victimAge": "29",
             "incidentLoci": "Waffle House, 14680 Duval Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 955807",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "955807"
         }
     }, {
         "type": "Feature",
@@ -2500,12 +1960,7 @@
             "victimAge": "16",
             "incidentLoci": "Desert Winds Apartments, 210 E. Mojave Ct.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 958189",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "958189"
         }
     }, {
         "type": "Feature",
@@ -2523,12 +1978,7 @@
             "victimAge": "18",
             "incidentLoci": "5824 La Moya Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 967853",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "967853"
         }
     }, {
         "type": "Feature",
@@ -2546,12 +1996,7 @@
             "victimAge": "82",
             "incidentLoci": "1221 W. Seventh St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 968621",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "968621"
         }
     }, {
         "type": "Feature",
@@ -2569,12 +2014,7 @@
             "victimAge": "39",
             "incidentLoci": "7300 Cinnamon Lakes Drive",
             "causeDeath": "shot",
-            "reportNumber": "CCR 976325",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "976325"
         }
     }, {
         "type": "Feature",
@@ -2592,12 +2032,7 @@
             "victimAge": "24",
             "incidentLoci": "3000 Breve Drive",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 981174",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "981174"
         }
     }, {
         "type": "Feature",
@@ -2615,12 +2050,7 @@
             "victimAge": "16",
             "incidentLoci": "Courtney Manor apartments, 5620 Collins Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 994175",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "994175"
         }
     }, {
         "type": "Feature",
@@ -2638,12 +2068,7 @@
             "victimAge": "27",
             "incidentLoci": "6473 Miriam St.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 994549",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "994549"
         }
     }, {
         "type": "Feature",
@@ -2661,12 +2086,7 @@
             "victimAge": "60",
             "incidentLoci": "6473 Miriam St.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 994549",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "994549"
         }
     }, {
         "type": "Feature",
@@ -2684,12 +2104,7 @@
             "victimAge": "30",
             "incidentLoci": "3997 Leonnie Road",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1003450",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1003450"
         }
     }, {
         "type": "Feature",
@@ -2707,12 +2122,7 @@
             "victimAge": "20",
             "incidentLoci": "Grand Court apartments, 7610 Blanding Blvd.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 1016293",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1016293"
         }
     }, {
         "type": "Feature",
@@ -2730,12 +2140,7 @@
             "victimAge": "23",
             "incidentLoci": "Southside Apartments, 2318 Westmont St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1018987",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1018987"
         }
     }, {
         "type": "Feature",
@@ -2753,12 +2158,7 @@
             "victimAge": "29",
             "incidentLoci": "Leigh Meadows Apartments, 4320 Sunbeam Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1026758",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1026758"
         }
     }, {
         "type": "Feature",
@@ -2776,12 +2176,7 @@
             "victimAge": "22",
             "incidentLoci": "Leigh Meadows Apartments, 4320 Sunbeam Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1026758",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1026758"
         }
     }, {
         "type": "Feature",
@@ -2799,12 +2194,7 @@
             "victimAge": "27",
             "incidentLoci": "400 Sunshine St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1027745",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1027745"
         }
     }, {
         "type": "Feature",
@@ -2822,12 +2212,7 @@
             "victimAge": "69",
             "incidentLoci": "3400 Wilson St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1029039",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1029039"
         }
     }, {
         "type": "Feature",
@@ -2845,12 +2230,7 @@
             "victimAge": "17",
             "incidentLoci": "Jennings State Forest, 13600 Normandy Blvd.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 1042485",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1042485"
         }
     }, {
         "type": "Feature",
@@ -2867,13 +2247,8 @@
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "The Regents Apartments, 301 Caravan Circle",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 1047018",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "1047018"
         }
     }, {
         "type": "Feature",
@@ -2891,12 +2266,7 @@
             "victimAge": "21",
             "incidentLoci": "Memorial Cemetery, 6012 W. Moncrief Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 148659",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "148659"
         }
     }, {
         "type": "Feature",
@@ -2914,12 +2284,7 @@
             "victimAge": "33",
             "incidentLoci": "2204 W. 14th St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1049014",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1049014"
         }
     }, {
         "type": "Feature",
@@ -2937,12 +2302,7 @@
             "victimAge": "33",
             "incidentLoci": "6800 Morse Oaks Dr.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1057145",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1057145"
         }
     }, {
         "type": "Feature",
@@ -2960,12 +2320,7 @@
             "victimAge": "41",
             "incidentLoci": "1174 W. 25th St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1079357",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1079357"
         }
     }, {
         "type": "Feature",
@@ -2983,12 +2338,7 @@
             "victimAge": "23",
             "incidentLoci": "8431 Nussbaum Dr.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1087266",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1087266"
         }
     }, {
         "type": "Feature",
@@ -3006,12 +2356,7 @@
             "victimAge": "29",
             "incidentLoci": "West Beaver St.and Interstate 95",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1112328",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1112328"
         }
     }, {
         "type": "Feature",
@@ -3029,12 +2374,7 @@
             "victimAge": "17",
             "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1094989",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1094989"
         }
     }, {
         "type": "Feature",
@@ -3051,13 +2391,8 @@
             "gender": "Male",
             "victimAge": "20",
             "incidentLoci": "River's End apartments, 5520 Collins Rd.",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 1103707",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "1103707"
         }
     }, {
         "type": "Feature",
@@ -3074,13 +2409,8 @@
             "gender": "Male",
             "victimAge": "20",
             "incidentLoci": "1961 Debutante Drive",
-            "causeDeath": "police shooting",
-            "reportNumber": "CCR 1103770",
-            "inPublicrpt": "",
-            "jsoClass": "police shooting",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "causeDeath": "shot by police",
+            "reportNumber": "1103770"
         }
     }, {
         "type": "Feature",
@@ -3098,12 +2428,7 @@
             "victimAge": "42",
             "incidentLoci": "4056 Hunt St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1113238",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1113238"
         }
     }, {
         "type": "Feature",
@@ -3121,12 +2446,7 @@
             "victimAge": "20",
             "incidentLoci": "4632 N. Ken Knight Dr.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1114223",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1114223"
         }
     }, {
         "type": "Feature",
@@ -3144,12 +2464,7 @@
             "victimAge": "22",
             "incidentLoci": "400 Linwood Ave.",
             "causeDeath": "Undetermined",
-            "reportNumber": "CCR 1116576",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1116576"
         }
     }, {
         "type": "Feature",
@@ -3167,12 +2482,7 @@
             "victimAge": "53",
             "incidentLoci": "5291 Collins Road",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1116195",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1116195"
         }
     }, {
         "type": "Feature",
@@ -3190,12 +2500,7 @@
             "victimAge": "1.5",
             "incidentLoci": "2680 W. Grampian Drive",
             "causeDeath": "beaten",
-            "reportNumber": "CCR 1118932",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "head trauma",
-            "urls": ""
+            "reportNumber": "1118932"
         }
     }, {
         "type": "Feature",
@@ -3213,12 +2518,7 @@
             "victimAge": "16",
             "incidentLoci": "Martin Luther King Jr. Blvd. and Myrtle Ave.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1169173",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1169173"
         }
     }, {
         "type": "Feature",
@@ -3236,12 +2536,7 @@
             "victimAge": "21",
             "incidentLoci": "The Commons apartments, 1721 Anniston Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1179911",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1179911"
         }
     }, {
         "type": "Feature",
@@ -3259,12 +2554,7 @@
             "victimAge": "54",
             "incidentLoci": "Regency Park mobile homes, 1700 Leon Rd.",
             "causeDeath": "stabbed",
-            "reportNumber": "CCR 1182001",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1182001"
         }
     }, {
         "type": "Feature",
@@ -3282,12 +2572,7 @@
             "victimAge": "0.083",
             "incidentLoci": "6762 Jack Horner Lane",
             "causeDeath": "beaten",
-            "reportNumber": "CCR 1187010",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1187010"
         }
     }, {
         "type": "Feature",
@@ -3305,12 +2590,7 @@
             "victimAge": "40",
             "incidentLoci": "1135 W. Ninth St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1202286",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1202286"
         }
     }, {
         "type": "Feature",
@@ -3328,12 +2608,7 @@
             "victimAge": "45",
             "incidentLoci": "Second St. and Walnut St.",
             "causeDeath": "shot",
-            "reportNumber": "CCR 1213471",
-            "inPublicrpt": "",
-            "jsoClass": "",
-            "jsoStatus": "",
-            "notes": "",
-            "urls": ""
+            "reportNumber": "1213471"
         }
     }]
 }
