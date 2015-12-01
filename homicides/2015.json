@@ -1700,5 +1700,22 @@
             "incidentLoci": "JAX Jewelry & Next Day Grillz, 2261 W. Edgewood Ave. #15",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.73752, 30.308301]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "101",
+            "reportDate": "11/28/2015",
+            "victimName": "Robin Terrell White",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "32",
+            "incidentLoci": "5300 Astral St.",
+            "causeDeath": "shot"
+        }
     }]
 }
