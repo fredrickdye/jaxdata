@@ -1717,5 +1717,22 @@
             "incidentLoci": "5300 Astral St.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.639206, 30.332799]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "102",
+            "reportDate": "12/3/2015",
+            "victimName": "Avery McKnight Jr.",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "1200 Odessa St.",
+            "causeDeath": "shot"
+        }
     }]
 }
