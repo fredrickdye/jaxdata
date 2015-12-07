@@ -1,0 +1,567 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.672052, 30.322813],
+						[-81.671441, 30.323193],
+						[-81.670931, 30.323466],
+						[-81.671639, 30.324314],
+						[-81.672728, 30.323633],
+						[-81.672052, 30.322813]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 3,
+			"name": "Brooklyn Station",
+			"description": "Fresh Market was the first business in the new 50,000-square-foot retail center on Riverside Avenue. Corner Bakery Cafe and other tenants have since opened. Construction continues on Burrito Gallery, Burger Fi, Hyppo Gourmet Ice Pops and Zoes Kitchen.",
+			"location": "150 Riverside",
+			"status": "Completed",
+			"startdate": "2013",
+			"finishdate": "2014",
+			"imgname": "brooklyn_station"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.672782, 30.323698],
+						[-81.67165, 30.324406],
+						[-81.67062, 30.325036],
+						[-81.671489, 30.326092],
+						[-81.671988, 30.325698],
+						[-81.672723, 30.325263],
+						[-81.673629, 30.324712],
+						[-81.672782, 30.323698]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 4,
+			"name": "The Brooklyn RIverside",
+			"description": "A 310-unit apartment complex behind Brooklyn Station on Riverside.",
+			"location": "100 Magnolia St.",
+			"status": "Completed",
+			"startdate": "2013",
+			"finishdate": "2015",
+			"imgname": "brooklyn_riverside"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.661211, 30.32442],
+						[-81.660771, 30.324462],
+						[-81.660476, 30.324457],
+						[-81.660111, 30.324416],
+						[-81.659569, 30.324314],
+						[-81.658593, 30.324133],
+						[-81.658582, 30.324434],
+						[-81.658673, 30.324638],
+						[-81.658807, 30.324842],
+						[-81.659006, 30.325013],
+						[-81.659145, 30.325115],
+						[-81.659333, 30.325207],
+						[-81.659526, 30.325291],
+						[-81.659682, 30.325337],
+						[-81.659821, 30.325406],
+						[-81.659934, 30.325467],
+						[-81.66024, 30.325513],
+						[-81.660417, 30.325494],
+						[-81.660615, 30.325416],
+						[-81.660744, 30.325332],
+						[-81.660878, 30.325281],
+						[-81.660953, 30.325268],
+						[-81.661211, 30.32442]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 5,
+			"name": "Jacksonville Landing",
+			"description": "The owner of The Jacksonville Landing unveiled a plan in 2015 to replace the mall with a larger,  mixed-use development.",
+			"location": "2 Independent Dr.",
+			"status": "Proposed",
+			"startdate": "TBA",
+			"finishdate": "TBA",
+			"imgname": "jacksonville_landing"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.639335, 30.321582],
+						[-81.638514, 30.321378],
+						[-81.637677, 30.321248],
+						[-81.637173, 30.321207],
+						[-81.637108, 30.321239],
+						[-81.636765, 30.322313],
+						[-81.638938, 30.322827],
+						[-81.639335, 30.321582]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 6,
+			"name": "Jaguars Practice Facility",
+			"description": "Jacksonville Jaguars owner Shad Khan, through a development company, has asked the city to foot half the bill for a $90 million practice facility and amphitheater on the south side of EverBank Stadium.",
+			"location": "EverBank Field",
+			"status": "Proposed",
+			"startdate": "2015",
+			"finishdate": "2016",
+			"imgname": "jaguars_practice"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.672599, 30.322072],
+						[-81.671934, 30.322508],
+						[-81.67069, 30.321035],
+						[-81.670797, 30.320841],
+						[-81.671301, 30.320646],
+						[-81.672599, 30.322072]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 1,
+			"name": "Yates Family YMCA",
+			"description": "The YMCA announced plans in 2012 to replace its facility on Riverside Avenue with a new, $21 million building. But construction has been delayed as funding has fallen short.",
+			"location": "221 Riverside",
+			"status": "Under construction",
+			"startdate": "2015",
+			"finishdate": "2016",
+			"imgname": "riverside_ymca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.674257, 30.321401],
+						[-81.674037, 30.321582],
+						[-81.672122, 30.322772],
+						[-81.672803, 30.323591],
+						[-81.675303, 30.322086],
+						[-81.675223, 30.321934],
+						[-81.674847, 30.321781],
+						[-81.674568, 30.321619],
+						[-81.674257, 30.321401]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 2,
+			"name": "220 Riverside",
+			"description": "Construction began in 2012 on the ambitious 220 Riverside project with 294 apartments, 18,000 square feet of retail and a public/private park called Unity Plaza. ",
+			"location": "220 Riverside",
+			"status": "Completed",
+			"startdate": "2012",
+			"finishdate": "2015",
+			"imgname": "220_riverside"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.650176, 30.313922],
+						[-81.648932, 30.313515],
+						[-81.64818, 30.314385],
+						[-81.64537, 30.314561],
+						[-81.64493, 30.31546],
+						[-81.644951, 30.31571],
+						[-81.645691, 30.316173],
+						[-81.645627, 30.316238],
+						[-81.646035, 30.31634],
+						[-81.646174, 30.31634],
+						[-81.64714, 30.316766],
+						[-81.647247, 30.316784],
+						[-81.648309, 30.317229],
+						[-81.648298, 30.317331],
+						[-81.648363, 30.31747],
+						[-81.648813, 30.317646],
+						[-81.648867, 30.317562],
+						[-81.649522, 30.317747],
+						[-81.649683, 30.317729],
+						[-81.649822, 30.317655],
+						[-81.65009, 30.317007],
+						[-81.650176, 30.313922]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 8,
+			"name": "The District",
+			"description": "Estimated at $400 million to $500 million, the project is designed to showcase its downtown riverfront location and subtly promote unintentional exercises as well as healthy living. As proposed, the development will be built in three phases ultimately featuring 1,170 homes for rent and sale, 200 hotel rooms, 288,500 square feet of commercial/retail space and 200,000 square feet of office space.",
+			"location": "Southbank",
+			"status": "Planned",
+			"startdate": "2016",
+			"finishdate": "2018",
+			"imgname": "healthy_town"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.651099, 30.322304],
+						[-81.643696, 30.320359],
+						[-81.640134, 30.319285],
+						[-81.639469, 30.321378],
+						[-81.64331, 30.322471],
+						[-81.643953, 30.322878],
+						[-81.644447, 30.323082],
+						[-81.650444, 30.324536],
+						[-81.651099, 30.322304]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 9,
+			"name": "Shipyards",
+			"description": "The district is seen as a monumental opportunity to connect the city’s anchor buildings and create a compelling framework for mixed-use development that will unite, engage and activate the city. Complete with space to live, work, stay and play, the Jaguars envision a destination that Shad Khan noted in his address could become as iconic of a development for Jacksonville as the Opera House is for Sydney.",
+			"location": "Northbank",
+			"status": "Proposed",
+			"startdate": "TBA",
+			"finishdate": "TBA",
+			"imgname": "shipyards_khan"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.652054, 30.324323],
+						[-81.651903, 30.324851],
+						[-81.65112, 30.324684],
+						[-81.65126, 30.324156],
+						[-81.652054, 30.324323]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 10,
+			"name": "Berkman Plaza II",
+			"description": "The saga of Berkman Plaza II is moving into its next phase. The half-finished downtown tower is now owned by the construction company that built what there is of it.",
+			"location": "400 E. Bay St.",
+			"status": "Under construction",
+			"startdate": "2006",
+			"finishdate": "TBA",
+			"imgname": "berkman_plaza"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.653725, 30.325413],
+						[-81.653641, 30.325694],
+						[-81.653478, 30.325661],
+						[-81.653558, 30.325379],
+						[-81.653725, 30.325413]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 11,
+			"name": "Levels",
+			"description": "Levels, the downtown club owned by Laveranues Coles,  was to be a restaurant and bar, but Coles said that it’s just going to be a high-end nightclub.",
+			"location": "323-325 E. Bay St.",
+			"status": "Under construction",
+			"startdate": "2014",
+			"finishdate": "2016",
+			"imgname": "no_image"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.671425, 30.328611],
+						[-81.671264, 30.329185],
+						[-81.672739, 30.329509],
+						[-81.672916, 30.328935],
+						[-81.671425, 30.328611]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 12,
+			"name": "Transit terminal",
+			"description": "Plans for an intermodal transit center that would combine city bus service, the skyway and a Greyhound station have been stalled for more than a decade.",
+			"location": "Convention Center",
+			"status": "Proposed",
+			"startdate": "TBA",
+			"finishdate": "TBA",
+			"imgname": "jta_terminal"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.659698, 30.329713],
+						[-81.659864, 30.329125],
+						[-81.658893, 30.328912],
+						[-81.658716, 30.3295],
+						[-81.659698, 30.329713]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 14,
+			"name": "Hemming Plaza",
+			"description": "After long discussions about what to do with the downtown park, the city contracted with a local group called Friends of Hemming Plaza to manage it.",
+			"location": "100 W. Duval St.",
+			"status": "Planned",
+			"startdate": "2014",
+			"finishdate": "2019",
+			"imgname": "hemming_plaza"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.659215, 30.327634],
+						[-81.659113, 30.32799],
+						[-81.659601, 30.328092],
+						[-81.659682, 30.327814],
+						[-81.659355, 30.327745],
+						[-81.659376, 30.327671],
+						[-81.659215, 30.327634]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 17,
+			"name": "Barnett Building",
+			"description": "The Barnett Bank Building was built in 1926 and was Jacksonville's tallest building at the time. It's part of a package of buildings with the Laura Street Trio.",
+			"location": "Adams and Laura streets",
+			"status": "Proposed",
+			"startdate": "TBA",
+			"finishdate": "TBA",
+			"imgname": "branett_trio"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.659092, 30.327411],
+						[-81.658459, 30.327272],
+						[-81.658378, 30.327555],
+						[-81.658695, 30.327629],
+						[-81.658625, 30.327874],
+						[-81.658936, 30.327944],
+						[-81.659092, 30.327411]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 16,
+			"name": "Laura Street Trio",
+			"description": "A Jacksonville group paid $3 million in 2013 for the three buildings known as the Laura Street Trio and the Barnett Bank Building.",
+			"location": "Laura and Forsyth streets",
+			"status": "Proposed",
+			"startdate": "TBA",
+			"finishdate": "TBA",
+			"imgname": "laura_trio"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.660261, 30.330328],
+						[-81.660339, 30.330058],
+						[-81.659845, 30.329946],
+						[-81.659768, 30.330224],
+						[-81.660261, 30.330328]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 13,
+			"name": "Sweet Pete's",
+			"description": "The former Seminole Club has been converted to Sweet Pete's, a candy store, factory and party facility.",
+			"location": "400 N. Hogan St.",
+			"status": "Completed",
+			"startdate": "2014",
+			"finishdate": "2014",
+			"imgname": "seminole_club"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.660787, 30.325842],
+						[-81.660288, 30.325731],
+						[-81.660052, 30.326559],
+						[-81.660545, 30.326666],
+						[-81.660787, 30.325842]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 15,
+			"name": "Hogan Street Parking Garage",
+			"description": "The structure, owned mostly by SunTrust Tower, was the first significant parking addition in downtown in over a half a decade.",
+			"location": "37 S. Hogan St.",
+			"status": "Completed",
+			"startdate": "2014",
+			"finishdate": "2014",
+			"imgname": "hogan_parking"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.638471, 30.322975],
+						[-81.637929, 30.32285],
+						[-81.637929, 30.32285],
+						[-81.637929, 30.322804],
+						[-81.637441, 30.322693],
+						[-81.637419, 30.322725],
+						[-81.636915, 30.322596],
+						[-81.636717, 30.322684],
+						[-81.636497, 30.322864],
+						[-81.636363, 30.323022],
+						[-81.636186, 30.323295],
+						[-81.636121, 30.323429],
+						[-81.636046, 30.323411],
+						[-81.635923, 30.323726],
+						[-81.635987, 30.323744],
+						[-81.635966, 30.323985],
+						[-81.635966, 30.324221],
+						[-81.635987, 30.324397],
+						[-81.636019, 30.324513],
+						[-81.636202, 30.324573],
+						[-81.636341, 30.324754],
+						[-81.63655, 30.324902],
+						[-81.636711, 30.324953],
+						[-81.637296, 30.325096],
+						[-81.637473, 30.32511],
+						[-81.637693, 30.325064],
+						[-81.637881, 30.324994],
+						[-81.637967, 30.324967],
+						[-81.638026, 30.325004],
+						[-81.638267, 30.324758],
+						[-81.638439, 30.324517],
+						[-81.638519, 30.324365],
+						[-81.638594, 30.324383],
+						[-81.638734, 30.324013],
+						[-81.638643, 30.323985],
+						[-81.638685, 30.323651],
+						[-81.63868, 30.323429],
+						[-81.63861, 30.323272],
+						[-81.638385, 30.323327],
+						[-81.638283, 30.323133],
+						[-81.638471, 30.322975]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 7,
+			"name": "EverBank Field upgrades",
+			"description": "In 2014, EverBank Field added two signature elements that make it unique among NFL stadiums. Twin wading pools and a cabana deck above the North  end zone and massive scoreboards on both ends have become hallmarks of the Jaguars fan experience.",
+			"location": "EverBank Field",
+			"status": "Completed",
+			"startdate": "2013",
+			"finishdate": "2014",
+			"imgname": "everbank_upgrades"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiPolygon",
+			"coordinates": [
+				[
+					[
+						[-81.657118, 30.327009],
+						[-81.656629, 30.326902],
+						[-81.656469, 30.327439],
+						[-81.656957, 30.327546],
+						[-81.65701, 30.327384],
+						[-81.657085, 30.327407],
+						[-81.657123, 30.327268],
+						[-81.657059, 30.327245],
+						[-81.657118, 30.327009]
+					]
+				]
+			]
+		},
+		"properties": {
+			"id": 18,
+			"name": "Jessie Ball duPont Center",
+			"description": "The Jessie Ball duPont Fund bought the former Hayden Burns Library in 2013 for $2.2 million and turned it into offices for other non-profit organizations.",
+			"location": "122 Ocean St.",
+			"status": "Completed",
+			"startdate": "2013",
+			"finishdate": "2015",
+			"imgname": "dupont_center"
+		}
+	}]
+}

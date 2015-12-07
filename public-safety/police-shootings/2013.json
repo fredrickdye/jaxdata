@@ -1,0 +1,229 @@
+{"type":"FeatureCollection","features":[{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.658092, 30.350454]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201301",
+			"name": "Anthony Dwayne Harris",
+			"race": "Black",
+			"gender": "Male",
+			"age": "38",
+			"reportNo": "67716",
+			"where": "2115 N. Pearl St., Jacksonville, FL",
+			"date": "1/28/2013",
+			"result": "killed",
+			"status": "unarmed (attempting to disarm officer)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.579843, 30.319993]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201302",
+			"name": "John Dawson Parker",
+			"race": "Black",
+			"gender": "Male",
+			"age": "23",
+			"reportNo": "120554",
+			"where": "300 Arlington Pl., Jacksonville, FL",
+			"date": "2/19/2013",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.547059, 30.08205]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "201303",
+			"name": "Brandon Cheques Rich",
+			"race": "Black",
+			"gender": "Male",
+			"age": "17",
+			"reportNo": "NA",
+			"where": "Quality Inn, 2310 FL-16, St. Johns, FL",
+			"date": "2/21/2013",
+			"result": "wounded",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.710409, 30.472417]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201304",
+			"name": "Clifton Joel Day",
+			"race": "White",
+			"gender": "Male",
+			"age": "55",
+			"reportNo": "161727",
+			"where": "13300 Lem Turner Rd., Jacksonville, FL",
+			"date": "3/7/2013",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.534348, 30.286706]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201305",
+			"name": "Todd Christopher Jones",
+			"race": "White",
+			"gender": "Male",
+			"age": "41",
+			"reportNo": "291044",
+			"where": "Countryside Village mobile homes park, 10960 Beach Blvd., Jacksonville, FL",
+			"date": "4/30/2013",
+			"result": "killed",
+			"status": "armed (with a pellet gun)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.687937, 30.494071]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201306",
+			"name": "Xavier Payne",
+			"race": "Black",
+			"gender": "Male",
+			"age": "17",
+			"reportNo": "327880",
+			"where": "Jacksonville International Airport, 2400 Yankee Clipper Rd., Jacksonville, FL",
+			"date": "5/15/2013",
+			"result": "wounded",
+			"status": "a passenger in suspect vehicle"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.750134, 30.178352]
+		},
+		"properties": {
+			"jurisdiction": "Clay",
+			"id": "201307",
+			"name": "Hadrian Rabadan",
+			"race": "White",
+			"gender": "Male",
+			"age": "15",
+			"reportNo": "16158",
+			"where": "109 Hercules Drive, Orange Park, FL",
+			"date": "6/8/2013",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.74886, 30.282333]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201308",
+			"name": "Herman Isiah Pickens",
+			"race": "Black",
+			"gender": "Male",
+			"age": "24",
+			"reportNo": "466184",
+			"where": "Mr. Dragon Chinese Restaurant, 6429 San Juan Ave., Jacksonville, FL",
+			"date": "7/9/2013",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.680918, 30.423723]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201309",
+			"name": "Jarmel Anthony Cosby",
+			"race": "Black",
+			"gender": "Male",
+			"age": "28",
+			"reportNo": "742694",
+			"where": "2300 Broward Rd., Jacksonville, FL",
+			"date": "10/27/2013",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.581521, 29.609332]
+		},
+		"properties": {
+			"jurisdiction": "Putnam",
+			"id": "201310",
+			"name": "Timothy Mahoney",
+			"race": "White",
+			"gender": "Male",
+			"age": "58",
+			"reportNo": "NA",
+			"where": "730 Old San Mateo Road, San Mateo, FL",
+			"date": "11/21/2013",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.377346, 30.009525]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "201311",
+			"name": "Rodney Wayne Stevens",
+			"race": "White",
+			"gender": "Male",
+			"age": "64",
+			"reportNo": "NA",
+			"where": "385 Katnack Rd., St. Johns, FL",
+			"date": "12/11/2013",
+			"result": "killed",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.630418, 29.644917]
+		},
+		"properties": {
+			"jurisdiction": "Putnam",
+			"id": "201312",
+			"name": "Somourian Jamal Wingo",
+			"race": "Black",
+			"gender": "Male",
+			"age": "24",
+			"reportNo": "NA",
+			"where": "Second St. and Laurel St., Palatka, FL",
+			"date": "12/28/2013",
+			"result": "killed",
+			"status": "armed"
+		}
+	}]}

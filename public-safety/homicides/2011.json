@@ -1,0 +1,1552 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.789516, 30.24821]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "1",
+            "reportDate": "1/7/2011",
+            "victimName": "Marcus Rashaun Johnson",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "29",
+            "incidentLoci": "Advance Auto, 8365 103rd St.",
+            "causeDeath": "shot",
+            "reportNumber": "019286"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.753513, 30.246763]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "2",
+            "reportDate": "1/9/2011",
+            "victimName": "Sulaimin Allah-Muhammad Murray",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "28",
+            "incidentLoci": "Windy Pines apartments, 6650 103rd St.",
+            "causeDeath": "shot",
+            "reportNumber": "022454"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.684117, 30.403725]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "3",
+            "reportDate": "1/10/2011",
+            "victimName": "Michelle Lee McCoy",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "20",
+            "incidentLoci": "8917 Washington Ave.",
+            "causeDeath": "beaten",
+            "reportNumber": "26898"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.786453, 30.248613]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "4",
+            "reportDate": "1/10/2011",
+            "victimName": "Sandra Sulier",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "0.33",
+            "incidentLoci": "8226 Firetower Road",
+            "causeDeath": "beaten",
+            "reportNumber": "26089"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.648635, 30.359454]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "5",
+            "reportDate": "1/15/2011",
+            "victimName": "Travis Jamaal Green",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "21",
+            "incidentLoci": "3338 Westlake Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "40561"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.706529, 30.370084]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "6",
+            "reportDate": "1/28/2011",
+            "victimName": "B. Barrington Jevone Nickerson II",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "24",
+            "incidentLoci": "5421 Bunche Drive",
+            "causeDeath": "shot",
+            "reportNumber": "077425"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.797083, 30.238735]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "7",
+            "reportDate": "2/2/2011",
+            "victimName": "Ananias Brevard",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "29",
+            "incidentLoci": "8745 Hencken Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "89588"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.797083, 30.238735]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "8",
+            "reportDate": "2/2/2011",
+            "victimName": "Bruce Lamar Clark",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "40",
+            "incidentLoci": "8745 Hencken Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "89588"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.735127, 30.360053]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "9",
+            "reportDate": "2/6/2011",
+            "victimName": "Justin Kyle Hall",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "22",
+            "incidentLoci": "5251 Amazon Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "102703"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.54464, 30.336496]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "10",
+            "reportDate": "2/11/2011",
+            "victimName": "Barion A. Blake",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "30",
+            "incidentLoci": "Colonnade at Regency apartments, 989 Monument Rd.",
+            "causeDeath": "shot by police",
+            "reportNumber": "114948"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.692925, 30.347915]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "11",
+            "reportDate": "2/17/2011",
+            "victimName": "Laterance Willie Sellers",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "26",
+            "incidentLoci": "2004 Palafox Street",
+            "causeDeath": "shot",
+            "reportNumber": "131473"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.675856, 30.352181]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "12",
+            "reportDate": "2/20/2011",
+            "victimName": "Eddie Chaplin",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "60",
+            "incidentLoci": "2414 N. Myrtle Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "141914"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.647425, 30.33453]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "13",
+            "reportDate": "2/25/2011",
+            "victimName": "Lorenza Walter Williams",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "75",
+            "incidentLoci": "300 block of Phelps Street",
+            "causeDeath": "shot",
+            "reportNumber": "155463"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.731442, 30.393452]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "14",
+            "reportDate": "3/12/2011",
+            "victimName": "Tommie Lee Torrence Jenkins",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "30",
+            "incidentLoci": "7640 Bronson Lane",
+            "causeDeath": "shot",
+            "reportNumber": "200589"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.514078, 30.303445]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "15",
+            "reportDate": "3/14/2011",
+            "victimName": "David Galarraga",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "2",
+            "incidentLoci": "11815 Alden Road",
+            "causeDeath": "beaten",
+            "reportNumber": "205809"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.707985, 30.364497]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "16",
+            "reportDate": "3/17/2011",
+            "victimName": "Herbert Earl Harris Jr.",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "29",
+            "incidentLoci": "Cleveland Arms apartments, 5020 Cleveland Rd. ",
+            "causeDeath": "shot by police",
+            "reportNumber": "215207"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.716986, 30.408272]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "17",
+            "reportDate": "3/25/2011",
+            "victimName": "Charles J. Jenkins",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "23",
+            "incidentLoci": "Beverly Hills Park, 4511 Portsmouth Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "239200"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.608507, 30.47269]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "18",
+            "reportDate": "3/29/2011",
+            "victimName": "Richard D. Chabot",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "33",
+            "incidentLoci": "New Berlin Road and Richfield Boulevard",
+            "causeDeath": "shot by police",
+            "reportNumber": "248900"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.636087, 30.350077]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "19",
+            "reportDate": "4/8/2011",
+            "victimName": "George Maxwell III",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "31",
+            "incidentLoci": "2115 Tilden St.",
+            "causeDeath": "shot",
+            "reportNumber": "277907"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.570839, 30.217731]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "20",
+            "reportDate": "4/18/2011",
+            "victimName": "Vasudevbhai Barot",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "47",
+            "incidentLoci": "Quality Inn & Suites, 8333 Dix Ellis Trail",
+            "causeDeath": "beaten",
+            "reportNumber": "307654"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.618164, 30.264553]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "21",
+            "reportDate": "4/22/2011",
+            "victimName": "Kenneth Michael Chatman",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "21",
+            "incidentLoci": "Tiffany's Premier Gentlemen's Club and Club Climax, 5800 Philips Highway",
+            "causeDeath": "shot",
+            "reportNumber": "319419"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.544555, 30.334495]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "22",
+            "reportDate": "4/30/2011",
+            "victimName": "Japheth-Emanuel Bell",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "22",
+            "incidentLoci": "The Oaks at Mill Creek, 653 Monument Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "344290"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.678444, 30.358984]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "23",
+            "reportDate": "5/7/2011",
+            "victimName": "Charles Andrew Jones",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "38",
+            "incidentLoci": "1427 W 24th Street",
+            "causeDeath": "shot",
+            "reportNumber": "362932"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.782626, 30.244608]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "24",
+            "reportDate": "5/9/2011",
+            "victimName": "William Rene McFaline",
+            "race": "Hispanic",
+            "gender": "Male",
+            "victimAge": "34",
+            "incidentLoci": "Grassy Ponds apartments, 5641 California Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "370544"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.748312, 30.303978]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "25",
+            "reportDate": "5/13/2011",
+            "victimName": "Hossain Meah",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "50",
+            "incidentLoci": "Deerfield Apartments, 1171 S. Lane Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "380608"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.745589, 30.281302]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "26",
+            "reportDate": "5/14/2011",
+            "victimName": "Helen Kim Edwards",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "47",
+            "incidentLoci": "2073 Hyde Park Road",
+            "causeDeath": "suffocated",
+            "reportNumber": "385447"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.747283, 30.274378]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "27",
+            "reportDate": "5/15/2011",
+            "victimName": "Antwan Maurice Johnson",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "20",
+            "incidentLoci": "2401 Jammes Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "388133"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.641406, 30.330301]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "28",
+            "reportDate": "5/16/2011",
+            "victimName": "Anthony Warren Geddes",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "30",
+            "incidentLoci": "1038 Oakley St. at Van Buren Street",
+            "causeDeath": "shot",
+            "reportNumber": "391426"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.737082, 30.241687]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "29",
+            "reportDate": "5/19/2011",
+            "victimName": "Deliah R. King",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "46",
+            "incidentLoci": "5946 Oaklane Drive",
+            "causeDeath": "shot",
+            "reportNumber": "397860"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.580035, 30.329007]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "30",
+            "reportDate": "5/20/2011",
+            "victimName": "Denon Everest Hall",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "34",
+            "incidentLoci": "Spanish Oaks Apartments, 7557 Arlington Expressway",
+            "causeDeath": "shot",
+            "reportNumber": "402541"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.617452, 30.247508]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "31",
+            "reportDate": "5/20/2011",
+            "victimName": "Sebastian Jimenez Morales",
+            "race": "Hispanic",
+            "gender": "Male",
+            "victimAge": "22",
+            "incidentLoci": "Kings Crossing Apartments, 7241 S. Old Kings Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "403607"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.609739, 30.286756]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "32",
+            "reportDate": "5/22/2011",
+            "victimName": "Basam Amouri Alkhoury",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "56",
+            "incidentLoci": "5454 N. Robert Scott Drive",
+            "causeDeath": "shot",
+            "reportNumber": "408037"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.653494, 30.355842]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "33",
+            "reportDate": "5/23/2011",
+            "victimName": "Eric Lamont Mangram",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "20",
+            "incidentLoci": "2907 N. Main St. at East 19th Street",
+            "causeDeath": "shot",
+            "reportNumber": "411568"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.628823, 30.302848]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "34",
+            "reportDate": "5/24/2011",
+            "victimName": "Antonio Lamont Cooks",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "32",
+            "incidentLoci": "Mayfair Village Apartments, 3539 Beach Blvd.",
+            "causeDeath": "shot by police",
+            "reportNumber": "411909"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.682069, 30.339691]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "35",
+            "reportDate": "5/27/2011",
+            "victimName": "Dorsette Lamont James",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "30",
+            "incidentLoci": "1106 Tyler St.",
+            "causeDeath": "shot",
+            "reportNumber": "421332"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.590821, 30.276908]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "36",
+            "reportDate": "5/30/2011",
+            "victimName": "Makayla Lynn Wofford",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "0.25",
+            "incidentLoci": "2715 Laten Lane",
+            "causeDeath": "beaten",
+            "reportNumber": "431519"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.642522, 30.36004]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "37",
+            "reportDate": "6/4/2011",
+            "victimName": "Gregory Lamar Kinder",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "44",
+            "incidentLoci": "3485 Evergreen Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "443700"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.572145, 30.326726]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "38",
+            "reportDate": "6/15/2011",
+            "victimName": "Ripp Harold Louder",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "50",
+            "incidentLoci": "Kings Inn, 8016 Arlington Expressway",
+            "causeDeath": "stabbed",
+            "reportNumber": "477273"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.636243, 30.363567]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "39",
+            "reportDate": "6/19/2011",
+            "victimName": "Kalil Rennea Paris McCoy",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "20",
+            "incidentLoci": "Little Diamonds Big Heart Day Care, 1441 E. 31st St.",
+            "causeDeath": "shot",
+            "reportNumber": "493794"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.568452, 30.316365]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "40",
+            "reportDate": "6/24/2011",
+            "victimName": "Ramana Selena Bones",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "13",
+            "incidentLoci": "8428 Cocoa Ave.",
+            "causeDeath": "beaten",
+            "reportNumber": "502300"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.689883, 30.373817]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "41",
+            "reportDate": "6/26/2011",
+            "victimName": "Dewarn Lamar Jones",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "24",
+            "incidentLoci": "5645 Benedict Road",
+            "causeDeath": "shot",
+            "reportNumber": "507159"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.694427, 30.240892]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "42",
+            "reportDate": "6/26/2011",
+            "victimName": "Stephanie Ann Slevin",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "31",
+            "incidentLoci": "Madison at Savannah Oaks Apartments, 6017 Roosevelt Blvd.",
+            "causeDeath": "beaten",
+            "reportNumber": "507188"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.649082, 30.38489]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "43",
+            "reportDate": "6/28/2011",
+            "victimName": "Jacoby Randall Sorkness",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "36",
+            "incidentLoci": "W. 63rd St. and Main St.",
+            "causeDeath": "shot",
+            "reportNumber": "511004"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.721063, 30.207066]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "44",
+            "reportDate": "6/29/2011",
+            "victimName": "John Franklin Ragin",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "33",
+            "incidentLoci": "5443 Bristol Bay Court",
+            "causeDeath": "shot",
+            "reportNumber": "513588"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.721063, 30.207066]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "45",
+            "reportDate": "6/29/2011",
+            "victimName": "Eric Dwayne Stubbs",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "36",
+            "incidentLoci": "5443 Bristol Bay Court",
+            "causeDeath": "shot",
+            "reportNumber": "513588"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.684312, 30.337777]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "46",
+            "reportDate": "6/29/2011",
+            "victimName": "Theodore McMullin",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "52",
+            "incidentLoci": "1656 Windle Street",
+            "causeDeath": "shot or beaten",
+            "reportNumber": "515680"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.566924, 30.469399]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "47",
+            "reportDate": "7/2/2011",
+            "victimName": "Jill Marie Lukens",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "Age 41",
+            "incidentLoci": "12827 Black Angus Drive",
+            "causeDeath": "shot",
+            "reportNumber": "522335"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.538039, 30.319859]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "48",
+            "reportDate": "7/2/2011",
+            "victimName": "Marco Martrell Jones",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "Commons Apartments, 1755 Leon Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "524363"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.659564, 30.330592]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "49",
+            "reportDate": "7/4/2011",
+            "victimName": "Samuel Sahr Kollie",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "500 Hogan Street",
+            "causeDeath": "shot",
+            "reportNumber": "530241"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.702856, 30.321292]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "50",
+            "reportDate": "7/9/2011",
+            "victimName": "Lamarca Deshon Wilcox",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "37",
+            "incidentLoci": "2900 Waller Street",
+            "causeDeath": "run over",
+            "reportNumber": "542338"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.764822, 30.427648]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "51",
+            "reportDate": "7/9/2011",
+            "victimName": "Emma Jean Beasley",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "83",
+            "incidentLoci": "7019 Civic Club Drive",
+            "causeDeath": "beaten",
+            "reportNumber": "543624"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.845741, 30.316946]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "52",
+            "reportDate": "7/11/2011",
+            "victimName": "Cody Lee Griffin",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "22",
+            "incidentLoci": "120 Hinson Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "547310"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.602424, 30.329374]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "53",
+            "reportDate": "7/22/2011",
+            "victimName": "Rodney Allen Adams",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "43",
+            "incidentLoci": "903 University Blvd. N.",
+            "causeDeath": "shot",
+            "reportNumber": "580875"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.623042, 30.476338]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "54",
+            "reportDate": "8/1/2011",
+            "victimName": "Paula (Baker) Francis Milam",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "61",
+            "incidentLoci": "330 S. Galway Ave.",
+            "causeDeath": "strangled",
+            "reportNumber": "607009"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.734111, 30.301399]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "55",
+            "reportDate": "8/5/2011",
+            "victimName": "Marquis D. Bing",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "18",
+            "incidentLoci": "Eureka Garden, 1214 Labelle St.",
+            "causeDeath": "shot",
+            "reportNumber": "620471"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.574026, 30.323627]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "56",
+            "reportDate": "8/14/2011",
+            "victimName": "Darius Nathaniel Foster",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "22",
+            "incidentLoci": "Oak Hammock apartments, 500 Acme St.",
+            "causeDeath": "shot",
+            "reportNumber": "644382"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.785967, 30.327583]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "57",
+            "reportDate": "8/20/2011",
+            "victimName": "Michael Jay Wilson",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "21",
+            "incidentLoci": "N. Jackson Avenue and Texas Street",
+            "causeDeath": "stabbed",
+            "reportNumber": "661788"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.717065, 30.341282]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "58",
+            "reportDate": "8/23/2011",
+            "victimName": "Mark Elliott Lee",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "37",
+            "incidentLoci": "2929 W. Second St.",
+            "causeDeath": "shot",
+            "reportNumber": "670223"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.565411, 30.349471]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "59",
+            "reportDate": "8/24/2011",
+            "victimName": "Jeanette Williams Hawkins",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "36",
+            "incidentLoci": "2658 Woolery Drive",
+            "causeDeath": "shot",
+            "reportNumber": "675332"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.565411, 30.349471]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "60",
+            "reportDate": "8/24/2011",
+            "victimName": "Ricky Morgan",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "31",
+            "incidentLoci": "2658 Woolery Drive",
+            "causeDeath": "shot",
+            "reportNumber": "675332"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.676322, 30.339977]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "61",
+            "reportDate": "8/30/2011",
+            "victimName": "Kenneth Eugene Curry",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "26",
+            "incidentLoci": "1324 Prince St.",
+            "causeDeath": "shot",
+            "reportNumber": "693416"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.676322, 30.339977]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "62",
+            "reportDate": "8/30/2011",
+            "victimName": "Billy Lorenzo Johnson",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "31",
+            "incidentLoci": "1324 Prince St.",
+            "causeDeath": "shot",
+            "reportNumber": "693416"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.676322, 30.339977]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "63",
+            "reportDate": "8/30/2011",
+            "victimName": "Danielle Dominique Melton",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "19",
+            "incidentLoci": "1324 Prince St.",
+            "causeDeath": "shot",
+            "reportNumber": "693416"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.752781, 30.282528]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "64",
+            "reportDate": "9/2/2011",
+            "victimName": "Vickie Jones",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "38",
+            "incidentLoci": "6595 San Juan Ave.",
+            "causeDeath": "run over",
+            "reportNumber": "679282"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.67061, 30.351958]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "65",
+            "reportDate": "9/3/2011",
+            "victimName": "Jerry Ford",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "46",
+            "incidentLoci": "2316 Moncrief Road",
+            "causeDeath": "shot",
+            "reportNumber": "704639"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.702297, 30.326699]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "66",
+            "reportDate": "9/11/2011",
+            "victimName": "Anthony Renardo Norman",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "33",
+            "incidentLoci": "238 Shortreed St.",
+            "causeDeath": "stabbed",
+            "reportNumber": "728826"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.679292, 30.409788]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "67",
+            "reportDate": "9/11/2011",
+            "victimName": "Sherry Ann Desravines",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "27",
+            "incidentLoci": "9117 Polk Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "729168"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.737904, 30.300243]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "68",
+            "reportDate": "9/14/2011",
+            "victimName": "Daniel R. Riggle",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "44",
+            "incidentLoci": "1269 Peacefield Drive",
+            "causeDeath": "shot",
+            "reportNumber": "740810"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.676893, 30.344674]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "69",
+            "reportDate": "9/21/2011",
+            "victimName": "Jimmie Gatlin",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "52",
+            "incidentLoci": "1348 Steele St.",
+            "causeDeath": "shot",
+            "reportNumber": "757604"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.700232, 30.339771]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "70",
+            "reportDate": "9/25/2011",
+            "victimName": "Alexandria Denise Williams",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "1",
+            "incidentLoci": "2237 West First St.",
+            "causeDeath": "beaten",
+            "reportNumber": "769421"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.650339, 30.383627]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "71",
+            "reportDate": "10/6/2011",
+            "victimName": "Rominique Demone Jordan",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "30",
+            "incidentLoci": "Trailer Village of North Jacksonville, 7000 N Main St.",
+            "causeDeath": "shot",
+            "reportNumber": "801910"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.640095, 30.185509]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "72",
+            "reportDate": "10/31/2011",
+            "victimName": "Robert E. Byrd",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "83",
+            "incidentLoci": "2540 Kirkwood Cove Lane",
+            "causeDeath": "beaten",
+            "reportNumber": "36324"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.755222, 30.247017]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "73",
+            "reportDate": "11/4/2011",
+            "victimName": "Cordero Anthony Jr.",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "0.417",
+            "incidentLoci": "Forest Gardens Apartments, 6756 103rd St.",
+            "causeDeath": "neglected",
+            "reportNumber": "881885"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.731486, 30.357803]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "74",
+            "reportDate": "11/11/2011",
+            "victimName": "Robert Coleman",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "22",
+            "incidentLoci": "Golden Crab House, 2808 Edgewood Ave. N.",
+            "causeDeath": "shot",
+            "reportNumber": "899590"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.532784, 30.329556]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "75",
+            "reportDate": "11/15/2011",
+            "victimName": "Kelli J. Daidone",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "40",
+            "incidentLoci": "10228 Spivey Terrace",
+            "causeDeath": "shot",
+            "reportNumber": "909716"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.532784, 30.329556]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "76",
+            "reportDate": "11/15/2011",
+            "victimName": "Richard Douglas Barley",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "42",
+            "incidentLoci": "10228 Spivey Terrace",
+            "causeDeath": "shot",
+            "reportNumber": "909716"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.677599, 30.352099]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "77",
+            "reportDate": "11/23/2011",
+            "victimName": "Terrell J. Holsey",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "2400 Barnett St.",
+            "causeDeath": "shot",
+            "reportNumber": "931626"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.71509, 30.389862]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "78",
+            "reportDate": "11/25/2011",
+            "victimName": "Christopher Edward Green",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "25",
+            "incidentLoci": "Washington Heights apartments, 4229 W. Moncrief Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "936932"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.748697, 30.258666]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "79",
+            "reportDate": "11/30/2011",
+            "victimName": "Christopher Lance Holman",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "22",
+            "incidentLoci": "4407 W. Ish Brant Road",
+            "causeDeath": "stabbed",
+            "reportNumber": "948771"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.462732, 30.262968]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "80",
+            "reportDate": "12/2/2011",
+            "victimName": "Michele O'Dowd",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "67",
+            "incidentLoci": "Grand Reserve condominiums, 13810 N. Sutton Park Drive",
+            "causeDeath": "strangled",
+            "reportNumber": "953226"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.578723, 30.194014]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "81",
+            "reportDate": "12/4/2011",
+            "victimName": "Paulin Gavoci",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "44",
+            "incidentLoci": "Cafe Milan, 5285 Shad Road",
+            "causeDeath": "shot",
+            "reportNumber": "957622"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.72443, 30.333137]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "82",
+            "reportDate": "12/9/2011",
+            "victimName": "Terrance Lee Jones",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "24",
+            "incidentLoci": "3273 Broadway Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "972004"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.748312, 30.303978]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "83",
+            "reportDate": "12/9/2011",
+            "victimName": "Dominique Deandre Starks",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "23",
+            "incidentLoci": "Deerfield Apartments, 1171 S. Lane Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "972332"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.757969, 30.281418]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "84",
+            "reportDate": "12/13/2011",
+            "victimName": "Patrick James Jones",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "24",
+            "incidentLoci": "6829 Dayton Lane",
+            "causeDeath": "shot",
+            "reportNumber": "981532"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.679766, 30.343434]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "85",
+            "reportDate": "12/15/2011",
+            "victimName": "Brandon Rashod Brightman",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "Whitner Street and W. Fifth Street",
+            "causeDeath": "shot",
+            "reportNumber": "985122"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.598412, 30.1829]
+        },
+        "properties": {
+            "idYr": "2011",
+            "idNo": "86",
+            "reportDate": "12/17/2011",
+            "victimName": "Nicole Trina Catignani",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "24",
+            "incidentLoci": "10626 Hearthstone Drive",
+            "causeDeath": "shot",
+            "reportNumber": "992000"
+        }
+    }]
+}

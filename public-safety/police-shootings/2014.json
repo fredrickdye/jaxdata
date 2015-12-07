@@ -1,0 +1,400 @@
+{"type":"FeatureCollection","features":[{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.791014, 30.28478]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201401",
+			"name": "Gary Robert Schiwart",
+			"race": "White",
+			"gender": "Male",
+			"age": "45",
+			"reportNo": "3283",
+			"where": "8421 Herlong Rd., Jacksonville, FL",
+			"date": "1/2/2014",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.855058, 29.62338]
+		},
+		"properties": {
+			"jurisdiction": "Putnam",
+			"id": "201402",
+			"name": "Diana Lucille Conner",
+			"race": "White",
+			"gender": "Female",
+			"age": "61",
+			"reportNo": "NA",
+			"where": "131 Twin Lake Grove Dr., Interlachen, FL",
+			"date": "1/20/2014",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.552165, 30.597917]
+		},
+		"properties": {
+			"jurisdiction": "Nassau",
+			"id": "201403",
+			"name": "Anthony Jamul Bartley",
+			"race": "Black",
+			"gender": "Male",
+			"age": "21",
+			"reportNo": "NA",
+			"where": "Amagansett Dr., Fernandina Beach, FL",
+			"date": "2/10/2014",
+			"result": "killed",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.687992, 30.740903]
+		},
+		"properties": {
+			"jurisdiction": "Nassau",
+			"id": "201404",
+			"name": "Donnie McCoy Carroll",
+			"race": "White",
+			"gender": "Male",
+			"age": "28",
+			"reportNo": "NA",
+			"where": "U.S. 17 at St. Marys River, Nassau County, FL",
+			"date": "3/19/2014",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.701688, 30.35894]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201405",
+			"name": "Homer Ken Warren",
+			"race": "Black",
+			"gender": "Male",
+			"age": "21",
+			"reportNo": "194689",
+			"where": "3410 Division St., Jacksonville, FL",
+			"date": "3/21/2014",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.696968, 30.384988]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201406",
+			"name": "Larry Anthony Mixson",
+			"race": "Black",
+			"gender": "Male",
+			"age": "65",
+			"reportNo": "235670",
+			"where": "6263 W. Barry Dr., Jacksonville, FL",
+			"date": "4/7/2014",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.58376, 29.948975]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "201407",
+			"name": "Abbott Scott Bennett",
+			"race": "White",
+			"gender": "Male",
+			"age": "66",
+			"reportNo": "NA",
+			"where": "8349 Colee Cove Rd., St. Augustine, FL",
+			"date": "4/8/2014",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.670095, 30.350035]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201408",
+			"name": "Devon Rashad Spencer",
+			"race": "Black",
+			"gender": "Male",
+			"age": "23",
+			"reportNo": "285101",
+			"where": "1031 Frazier St., Jacksonville, FL",
+			"date": "4/26/2014",
+			"result": "wounded",
+			"status": "among a group that fired on on a police officer"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.808744, 30.416495]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201409",
+			"name": "Brandon Daniel Peters",
+			"race": "White",
+			"gender": "Male",
+			"age": "29",
+			"reportNo": "300904",
+			"where": "8810 Doe Lane, Jacksonville, FL",
+			"date": "5/2/2014",
+			"result": "killed",
+			"status": "armed (with a knife)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.701754, 30.180378]
+		},
+		"properties": {
+			"jurisdiction": "Clay",
+			"id": "201410",
+			"name": "Jarvis Tyrone Lee",
+			"race": "Black",
+			"gender": "Male",
+			"age": "27",
+			"reportNo": "NA",
+			"where": "800 Park Ave., Orange Park, FL",
+			"date": "6/2/2014",
+			"result": "wounded",
+			"status": "armed (using vehicle)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.753263, 30.253306]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201411",
+			"name": "Thomas Dewitt Johnson",
+			"race": "Black",
+			"gender": "Male",
+			"age": "28",
+			"reportNo": "383552",
+			"where": "6700 London Bridge Lane, Jacksonville, FL",
+			"date": "6/4/2014",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.332342, 29.874223]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "201412",
+			"name": "John Vincent DeSanto",
+			"race": "White",
+			"gender": "Male",
+			"age": "43",
+			"reportNo": "NA",
+			"where": "FL-207 & Sunrise Blvd., St. Augustine, FL",
+			"date": "6/8/2014",
+			"result": "wounded",
+			"status": "armed (with a knife)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.753146, 30.269393]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201413",
+			"name": "Michael Jones Keys",
+			"race": "White",
+			"gender": "Male",
+			"age": "59",
+			"reportNo": "450043",
+			"where": "3623 MacGregor Dr., Jacksonville, FL",
+			"date": "7/1/2014",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.310587, 29.506859]
+		},
+		"properties": {
+			"jurisdiction": "Flagler",
+			"id": "201414",
+			"name": "Corey Levert Tanner",
+			"race": "Black",
+			"gender": "Male",
+			"age": "24",
+			"reportNo": "NA",
+			"where": "64 Espanola Dr., Bunnell, FL",
+			"date": "8/13/2014",
+			"result": "killed",
+			"status": "not reported as armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.390706, 29.911799]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "201415",
+			"name": "Aaron Brinson Ray",
+			"race": "White",
+			"gender": "Male",
+			"age": "43",
+			"reportNo": "NA",
+			"where": "2655 Race Track Rd., St. Augustine, FL",
+			"date": "9/6/2014",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.760279, 30.247919]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201416",
+			"name": "Leonardo Marquette Little",
+			"race": "Black",
+			"gender": "Male",
+			"age": "33",
+			"reportNo": "817312",
+			"where": "7000 103rd St., Jacksonville, FL",
+			"date": "11/24/2014",
+			"result": "killed",
+			"status": "armed (with officer's Taser)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.529262, 30.67316]
+		},
+		"properties": {
+			"jurisdiction": "Nassau",
+			"id": "201417",
+			"name": "Joshua David Merritt",
+			"race": "White",
+			"gender": "Male",
+			"age": "31",
+			"reportNo": "NA",
+			"where": "97119 Pirates Way, Yulee, FL",
+			"date": "12/7/2014",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.481645, 30.097898]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "201418",
+			"name": "Daniel Torres",
+			"race": "White",
+			"gender": "Male",
+			"age": "51",
+			"reportNo": "NA",
+			"where": "900 Black Cherry Dr. S, St. Johns, FL",
+			"date": "12/15/2014",
+			"result": "killed",
+			"status": "armed (with a knife)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.695635, 30.415765]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201419",
+			"name": "Michael Kevin Hollis",
+			"race": "Black",
+			"gender": "Male",
+			"age": "27",
+			"reportNo": "884514",
+			"where": "Gate Liquors, 9929 Lem Turner Rd., Jacksonville, FL",
+			"date": "12/24/2014",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.598443, 30.36899]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201420",
+			"name": "David Andre Scott",
+			"race": "Black",
+			"gender": "Male",
+			"age": "28",
+			"reportNo": "892334",
+			"where": "The Plaza Apartments, 3780 University Club Blvd., Jacksonville, FL",
+			"date": "12/27/2014",
+			"result": "killed",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.327623, 29.842797]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "201421",
+			"name": "Timothy Edward West",
+			"race": "White",
+			"gender": "Male",
+			"age": "48",
+			"reportNo": "NA",
+			"where": "173 Summerhill Circle, St. Augustine, FL",
+			"date": "12/29/2014",
+			"result": "killed",
+			"status": "armed"
+		}
+	}]}

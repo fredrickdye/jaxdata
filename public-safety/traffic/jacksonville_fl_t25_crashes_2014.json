@@ -1,0 +1,404 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.559152, 30.28659]
+        },
+        "properties": {
+            "eleven": "77",
+            "twelve": "81",
+            "thirteen": "109",
+            "fourteen": "65",
+            "roadOne": "Beach Blvd.",
+            "roadTwo": "Southside Blvd.",
+            "cameras": "2",
+            "cameraDate": "3/28/2013"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.558845, 30.316482]
+        },
+        "properties": {
+            "eleven": "70",
+            "twelve": "75",
+            "thirteen": "87",
+            "fourteen": "61",
+            "roadOne": "Atlantic Blvd.",
+            "roadTwo": "Southside Blvd.",
+            "cameras": "1",
+            "cameraDate": "3/28/2013"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.73939, 30.193994]
+        },
+        "properties": {
+            "eleven": "87",
+            "twelve": "74",
+            "thirteen": "56",
+            "fourteen": "58",
+            "roadOne": "Blanding Blvd.",
+            "roadTwo": "Youngerman Cir.",
+            "cameras": "1",
+            "cameraDate": "1/31/2014"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.458905, 30.28765]
+        },
+        "properties": {
+            "eleven": "63",
+            "twelve": "85",
+            "thirteen": "55",
+            "fourteen": "53",
+            "roadOne": "Beach Blvd.",
+            "roadTwo": "Hodges Blvd.",
+            "cameras": "2",
+            "cameraDate": "3/24/2013"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.551904, 30.2185]
+        },
+        "properties": {
+            "eleven": "107",
+            "twelve": "85",
+            "thirteen": "87",
+            "fourteen": "52",
+            "roadOne": "Baymeadows Rd.",
+            "roadTwo": "Southside Blvd.",
+            "cameras": "2",
+            "cameraDate": "3/1/2013"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.764507, 30.248296]
+        },
+        "properties": {
+            "eleven": "64",
+            "twelve": "58",
+            "thirteen": "56",
+            "fourteen": "50",
+            "roadOne": "103rd St.",
+            "roadTwo": "Firestone Rd.",
+            "cameras": "1",
+            "cameraDate": "3/30/2013"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.739394, 30.192179]
+        },
+        "properties": {
+            "eleven": "84",
+            "twelve": "72",
+            "thirteen": "73",
+            "fourteen": "50",
+            "roadOne": "Blanding Blvd.",
+            "roadTwo": "Argyle Forest",
+            "cameras": "1",
+            "cameraDate": "1/31/2014"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.739498, 30.204373]
+        },
+        "properties": {
+            "eleven": "72",
+            "twelve": "70",
+            "thirteen": "78",
+            "fourteen": "49",
+            "roadOne": "Blanding Blvd.",
+            "roadTwo": "Collins Rd.",
+            "cameras": "2",
+            "cameraDate": "1/31/2014"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.489436, 30.319574]
+        },
+        "properties": {
+            "eleven": "50",
+            "twelve": "63",
+            "thirteen": "-",
+            "fourteen": "47",
+            "roadOne": "Atlantic Blvd.",
+            "roadTwo": "Kernan Blvd.",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.773047, 30.248258]
+        },
+        "properties": {
+            "eleven": "63",
+            "twelve": "57",
+            "thirteen": "70",
+            "fourteen": "46",
+            "roadOne": "103rd St.",
+            "roadTwo": "Ricker Rd.",
+            "cameras": "2",
+            "cameraDate": "3/30/2013"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.59696, 30.327412]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "60",
+            "thirteen": "92",
+            "fourteen": "40",
+            "roadOne": "Arlington Expy.",
+            "roadTwo": "Cesery Blvd.",
+            "cameras": "1",
+            "cameraDate": "5/1/2014"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.525697, 30.28693]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "58",
+            "thirteen": "56",
+            "fourteen": "40",
+            "roadOne": "Beach Blvd.",
+            "roadTwo": "St. Johns Bluff Rd.",
+            "cameras": "2",
+            "cameraDate": "8/30/2014"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.601956, 30.292549]
+        },
+        "properties": {
+            "eleven": "51",
+            "twelve": "61",
+            "thirteen": "80",
+            "fourteen": "38",
+            "roadOne": "Beach Blvd.",
+            "roadTwo": "University Blvd.",
+            "cameras": "2",
+            "cameraDate": "3/16/2013"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.628287, 30.185554]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "-",
+            "thirteen": "-",
+            "fourteen": "37",
+            "roadOne": "San Jose Blvd.",
+            "roadTwo": "Hartley Rd.",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.705298, 30.310864]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "-",
+            "thirteen": "44",
+            "fourteen": "36",
+            "roadOne": "Roosevelt Blvd.",
+            "roadTwo": "McDuff Ave.",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.743047, 30.248416]
+        },
+        "properties": {
+            "eleven": "54",
+            "twelve": "49",
+            "thirteen": "46",
+            "fourteen": "36",
+            "roadOne": "103rd St.",
+            "roadTwo": "Blanding Blvd.",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.577575, 30.352048]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "45",
+            "thirteen": "-",
+            "fourteen": "34",
+            "roadOne": "Merrill Rd.",
+            "roadTwo": "Townsend Blvd.",
+            "cameras": "1",
+            "cameraDate": "5/1/2014"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.52306, 30.324492]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "-",
+            "thirteen": "-",
+            "fourteen": "33",
+            "roadOne": "Atlantic Blvd.",
+            "roadTwo": "St. Johns Bluff",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.556146, 30.260083]
+        },
+        "properties": {
+            "eleven": "64",
+            "twelve": "46",
+            "thirteen": "71",
+            "fourteen": "31",
+            "roadOne": "Southside Blvd.",
+            "roadTwo": "Gate Pkwy.",
+            "cameras": "2",
+            "cameraDate": "4/7/2013"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.610973, 30.27007]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "-",
+            "thirteen": "-",
+            "fourteen": "29",
+            "roadOne": "University Blvd.",
+            "roadTwo": "Spring Park Rd.",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.799195, 30.247674]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "-",
+            "thirteen": "43",
+            "fourteen": "27",
+            "roadOne": "103rd St.",
+            "roadTwo": "Old Middleburg Rd.",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.559025, 30.274152]
+        },
+        "properties": {
+            "eleven": "50",
+            "twelve": "-",
+            "thirteen": "42",
+            "fourteen": "25",
+            "roadOne": "Southside Blvd.",
+            "roadTwo": "Hogan Rd.",
+            "cameras": "2",
+            "cameraDate": "9/30/2014"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.604438, 30.327347]
+        },
+        "properties": {
+            "eleven": "54",
+            "twelve": "-",
+            "thirteen": "-",
+            "fourteen": "23",
+            "roadOne": "University Blvd.",
+            "roadTwo": "Arlington Expy.",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.527757, 30.286875]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "-",
+            "thirteen": "-",
+            "fourteen": "23",
+            "roadOne": "Beach Blvd.",
+            "roadTwo": "Cortez Rd.",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.548606, 30.286645]
+        },
+        "properties": {
+            "eleven": "-",
+            "twelve": "-",
+            "thirteen": "-",
+            "fourteen": "22",
+            "roadOne": "Beach Blvd.",
+            "roadTwo": "Peach Dr.",
+            "cameras": "",
+            "cameraDate": ""
+        }
+    }]
+}

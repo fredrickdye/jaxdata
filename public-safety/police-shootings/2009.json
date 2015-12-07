@@ -1,0 +1,381 @@
+{"type":"FeatureCollection","features":[{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.764247, 30.218125]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200901",
+			"name": "Justin McMillian",
+			"race": "Black",
+			"gender": "Male",
+			"age": "24",
+			"reportNo": "37969",
+			"where": "7200 Firestone Dr., Jacksonville, FL",
+			"date": "1/14/2009",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.718457, 30.407736]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200902",
+			"name": "Theo James Brenner",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "103022",
+			"where": "4600 Porstmouth Ave., Jacksonville, FL",
+			"date": "2/5/2009",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.666768, 30.356588]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200903",
+			"name": "Rachel Lynette Etheridge",
+			"race": "White",
+			"gender": "Female",
+			"age": "25",
+			"reportNo": "103661",
+			"where": "Martin Luther King Jr. Parkway and Interstate 95, Jacksonville, FL",
+			"date": "2/5/2009",
+			"result": "killed",
+			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.605218, 30.329496]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200904",
+			"name": "Michael Devaughn Felder",
+			"race": "Black",
+			"gender": "Male",
+			"age": "24",
+			"reportNo": "110619",
+			"where": "Plush, 900 University Blvd. N., Jacksonville, FL",
+			"date": "2/8/2009",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.722676, 30.271818]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200905",
+			"name": "Darrell Ernest Phillips",
+			"race": "White",
+			"gender": "Male",
+			"age": "40",
+			"reportNo": "128078",
+			"where": "3300 Lake Shore Blvd., Jacksonville, FL",
+			"date": "2/13/2009",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.547059, 30.08205]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "200906",
+			"name": "Rodney Joseph Lasseigne",
+			"race": "White",
+			"gender": "Male",
+			"age": "52",
+			"reportNo": "NA",
+			"where": "Flying J, Interstate 95 and Florida 206, St. Johns, FL",
+			"date": "4/18/2009",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.254929, 29.767427]
+		},
+		"properties": {
+			"jurisdiction": "St. Johns",
+			"id": "200907",
+			"name": "Jackie Byron Beasley",
+			"race": "White",
+			"gender": "Male",
+			"age": "55",
+			"reportNo": "NA",
+			"where": "274 Gracy St., Crescent Beach, FL",
+			"date": "5/28/2009",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.659815, 30.362964]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200908",
+			"name": "Dominic Levon Davis",
+			"race": "Black",
+			"gender": "Male",
+			"age": "29",
+			"reportNo": "458790",
+			"where": "3900 Boulevard, Jacksonville, FL",
+			"date": "6/2/2009",
+			"result": "killed",
+			"status": "armed (with a knife)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.732924, 30.39027]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200909",
+			"name": "Ronald Alan Evans",
+			"race": "Black",
+			"gender": "Male",
+			"age": "26",
+			"reportNo": "490923",
+			"where": "5454 Ageson Rd., Jacksonville, FL",
+			"date": "6/12/2009",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.655435, 30.354977]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200910",
+			"name": "Kiko Battle",
+			"race": "Black",
+			"gender": "Male",
+			"age": "24",
+			"reportNo": "500379",
+			"where": "18th St. and Laura St., Jacksonville, FL",
+			"date": "6/15/2009",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.688022, 30.740043]
+		},
+		"properties": {
+			"jurisdiction": "Nassau",
+			"id": "200911",
+			"name": "Fernando Dubose",
+			"race": "White",
+			"gender": "Male",
+			"age": "44",
+			"reportNo": "NA",
+			"where": "852760 N. U.S. 17, Yulee, FL",
+			"date": "6/26/2009",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.661565, 29.668309]
+		},
+		"properties": {
+			"jurisdiction": "Putnam",
+			"id": "200912",
+			"name": "Michael A. Campbell",
+			"race": "White",
+			"gender": "Male",
+			"age": "31",
+			"reportNo": "NA",
+			"where": "Putnam County jail, 130 Orie Griffin Blvd., Putnam County, FL",
+			"date": "8/5/2009",
+			"result": "killed",
+			"status": "a prisoner"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.741003, 30.257632]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200913",
+			"name": "Antonio Devel Kendrick",
+			"race": "Black",
+			"gender": "Male",
+			"age": "21",
+			"reportNo": "699764",
+			"where": "4645 Blanding Blvd., Jacksonville, FL",
+			"date": "8/22/2009",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.435398, 30.276573]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200914",
+			"name": "Christopher Reynoso",
+			"race": "White",
+			"gender": "Male",
+			"age": "31",
+			"reportNo": "785991",
+			"where": "Spinnaker Reach Apartments, 3875 S. San Pablo Rd., Jacksonville, FL",
+			"date": "9/20/2009",
+			"result": "killed",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.646792, 30.339801]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200915",
+			"name": "Robert Louis Johnson",
+			"race": "Black",
+			"gender": "Male",
+			"age": "44",
+			"reportNo": "798600",
+			"where": "500 E. 4th St., Jacksonville, FL",
+			"date": "9/24/2009",
+			"result": "killed",
+			"status": "armed (using vehicle)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.813662, 30.099675]
+		},
+		"properties": {
+			"jurisdiction": "Clay",
+			"id": "200916",
+			"name": "Charles M. Ross",
+			"race": "White",
+			"gender": "Male",
+			"age": "51",
+			"reportNo": "NA",
+			"where": "1823 Killarn Cir., Clay County, FL",
+			"date": "10/17/2009",
+			"result": "killed",
+			"status": "armed (with a knife)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.687116, 30.406576]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200917",
+			"name": "Awar Kareen Browder",
+			"race": "Black",
+			"gender": "Male",
+			"age": "31",
+			"reportNo": "932604",
+			"where": "Family Dollar, 9114 Lem Turner Rd., Jacksonville, FL",
+			"date": "11/7/2009",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.72707, 30.404119]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200918",
+			"name": "Bruce Alexander Kohn",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "966875",
+			"where": "5047 Princely Ave., Jacksonville, FL",
+			"date": "11/20/2009",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.621691, 30.159888]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200919",
+			"name": "Neil Don Southerland",
+			"race": "White",
+			"gender": "Male",
+			"age": "30",
+			"reportNo": "1030038",
+			"where": "3400 Loretto Rd., Jacksonville, FL",
+			"date": "12/14/2009",
+			"result": "killed",
+			"status": "armed (using vehicle)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.677843, 30.36569]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "200920",
+			"name": "Trumaine Antearro Corbitt",
+			"race": "Black",
+			"gender": "Male",
+			"age": "27",
+			"reportNo": "1044458",
+			"where": "Baldwin Lane and Golfair Blvd., Jacksonville, FL",
+			"date": "12/19/2009",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}]}

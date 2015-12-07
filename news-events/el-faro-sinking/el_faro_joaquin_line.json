@@ -1,0 +1,241 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-68.5, 23],
+					[-68.5, 23.5],
+					[-68.5, 24],
+					[-68.5, 24.5],
+					[-68.599998, 25.5],
+					[-68.699997, 26.4],
+					[-68.699997, 26.799999]
+				]
+			]
+		},
+		"properties": {
+			"id": 1,
+			"stormnum": 11,
+			"stormtype": "Disturbance",
+			"ss": 0
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-68.699997, 26.799999],
+					[-68.599998, 26.9],
+					[-68.5, 27],
+					[-68.5, 27.1],
+					[-68.5, 27.200001],
+					[-68.599998, 27.299999]
+				]
+			]
+		},
+		"properties": {
+			"id": 2,
+			"stormnum": 11,
+			"stormtype": "Low",
+			"ss": 0
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-68.599998, 27.299999],
+					[-68.900002, 27.4],
+					[-69.300003, 27.5],
+					[-70, 27.5],
+					[-70.099998, 26.700001]
+				]
+			]
+		},
+		"properties": {
+			"id": 3,
+			"stormnum": 11,
+			"stormtype": "Tropical Depression",
+			"ss": 0
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-70.099998, 26.700001],
+					[-70.300003, 26.5],
+					[-70.5, 26.299999],
+					[-70.800003, 26],
+					[-71.5, 25.700001],
+					[-71.800003, 25.5],
+					[-72.300003, 24.799999]
+				]
+			]
+		},
+		"properties": {
+			"id": 4,
+			"stormnum": 11,
+			"stormtype": "Tropical Storm",
+			"ss": 0
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-72.300003, 24.799999],
+					[-72.800003, 24.4],
+					[-73, 23.9]
+				]
+			]
+		},
+		"properties": {
+			"id": 5,
+			"stormnum": 11,
+			"stormtype": "Hurricane1",
+			"ss": 1
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-73, 23.9],
+					[-73.5, 23.5],
+					[-73.699997, 23.1],
+					[-74.199997, 23]
+				]
+			]
+		},
+		"properties": {
+			"id": 6,
+			"stormnum": 11,
+			"stormtype": "Hurricane3",
+			"ss": 3
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-74.199997, 23],
+					[-74.400002, 22.9],
+					[-74.699997, 23],
+					[-74.800003, 23.299999],
+					[-74.800003, 23.799999]
+				]
+			]
+		},
+		"properties": {
+			"id": 7,
+			"stormnum": 11,
+			"stormtype": "Hurricane4",
+			"ss": 4
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-74.800003, 23.799999],
+					[-74.300003, 24.299999],
+					[-73.599998, 24.9],
+					[-72.599998, 25.4]
+				]
+			]
+		},
+		"properties": {
+			"id": 8,
+			"stormnum": 11,
+			"stormtype": "Hurricane3",
+			"ss": 3
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-72.599998, 25.4],
+					[-71, 26.4],
+					[-69.5, 27.4]
+				]
+			]
+		},
+		"properties": {
+			"id": 9,
+			"stormnum": 11,
+			"stormtype": "Hurricane4",
+			"ss": 4
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-69.5, 27.4],
+					[-68.300003, 28.9],
+					[-67.099998, 30.4],
+					[-66.5, 31.700001]
+				]
+			]
+		},
+		"properties": {
+			"id": 10,
+			"stormnum": 11,
+			"stormtype": "Hurricane3",
+			"ss": 3
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-66.5, 31.700001],
+					[-65.800003, 32.599998]
+				]
+			]
+		},
+		"properties": {
+			"id": 11,
+			"stormnum": 11,
+			"stormtype": "Hurricane2",
+			"ss": 2
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "MultiLineString",
+			"coordinates": [
+				[
+					[-65.800003, 32.599998],
+					[-65.5, 33.599998],
+					[-64.900002, 34.599998],
+					[-64.300003, 35.400002],
+					[-63.599998, 36.200001],
+					[-62.299999, 37],
+					[-60.400002, 37.900002]
+				]
+			]
+		},
+		"properties": {
+			"id": 12,
+			"stormnum": 11,
+			"stormtype": "Hurricane1",
+			"ss": 1
+		}
+	}]
+}
