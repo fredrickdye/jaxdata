@@ -73,7 +73,7 @@
 			"rshare": 0.37059,
 			"rvotes": 252,
 			"name": "905",
-			"id": 24,
+			"id": 24
 		}
 	}, {
 		"type": "Feature",
@@ -131,7 +131,7 @@
 			"rshare": 0.60892,
 			"rvotes": 232,
 			"name": "1101",
-			"id": 51,
+			"id": 51
 		}
 	}, {
 		"type": "Feature",
@@ -259,7 +259,7 @@
 			"rshare": 0.6669,
 			"rvotes": 973,
 			"name": "1307",
-			"id": 58,
+			"id": 58
 		}
 	}, {
 		"type": "Feature",
@@ -351,7 +351,7 @@
 			"rshare": 0.69778,
 			"rvotes": 598,
 			"name": "1310",
-			"id": 62,
+			"id": 62
 		}
 	}, {
 		"type": "Feature",
@@ -470,7 +470,7 @@
 			"rshare": 0.72072,
 			"rvotes": 880,
 			"name": "303",
-			"id": 71,
+			"id": 71
 		}
 	}, {
 		"type": "Feature",
@@ -588,7 +588,7 @@
 			"rshare": 0.01943,
 			"rvotes": 21,
 			"name": "904",
-			"id": 79,
+			"id": 79
 		}
 	}, {
 		"type": "Feature",
@@ -646,7 +646,7 @@
 			"rshare": 0.627,
 			"rvotes": 548,
 			"name": "309",
-			"id": 98,
+			"id": 98
 		}
 	}, {
 		"type": "Feature",
@@ -763,7 +763,7 @@
 			"rshare": 0.73522,
 			"rvotes": 597,
 			"name": "311",
-			"id": 108,
+			"id": 108
 		}
 	}, {
 		"type": "Feature",
@@ -895,7 +895,7 @@
 			"rshare": 0.67933,
 			"rvotes": 1252,
 			"name": "603",
-			"id": 146,
+			"id": 146
 		}
 	}, {
 		"type": "Feature",
@@ -1455,7 +1455,7 @@
 			"rshare": 0.54016,
 			"rvotes": 1076,
 			"name": "703",
-			"id": 156,
+			"id": 156
 		}
 	}, {
 		"type": "Feature",
@@ -1569,7 +1569,7 @@
 			"rshare": 0.64747,
 			"rvotes": 371,
 			"name": "609",
-			"id": 158,
+			"id": 158
 		}
 	}, {
 		"type": "Feature",
@@ -1730,7 +1730,7 @@
 			"rshare": 0.02767,
 			"rvotes": 14,
 			"name": "811",
-			"id": 183,
+			"id": 183
 		}
 	}, {
 		"type": "Feature",
@@ -1806,7 +1806,7 @@
 			"rshare": 0.58508,
 			"rvotes": 502,
 			"name": "1115",
-			"id": 1,
+			"id": 1
 		}
 	}, {
 		"type": "Feature",
@@ -1906,7 +1906,7 @@
 			"rshare": 0.69688,
 			"rvotes": 715,
 			"name": "1311",
-			"id": 2,
+			"id": 2
 		}
 	}, {
 		"type": "Feature",
@@ -1961,7 +1961,7 @@
 			"rshare": 0.56698,
 			"rvotes": 182,
 			"name": "1207",
-			"id": 3,
+			"id": 3
 		}
 	}, {
 		"type": "Feature",
@@ -2092,7 +2092,7 @@
 			"rshare": 0.02562,
 			"rvotes": 33,
 			"name": "1004",
-			"id": 4,
+			"id": 4
 		}
 	}, {
 		"type": "Feature",
@@ -2222,7 +2222,7 @@
 			"rshare": 0.50868,
 			"rvotes": 469,
 			"name": "104",
-			"id": 5,
+			"id": 5
 		}
 	}, {
 		"type": "Feature",
@@ -2290,7 +2290,7 @@
 			"rshare": 0.4784,
 			"rvotes": 465,
 			"name": "306",
-			"id": 6,
+			"id": 6
 		}
 	}, {
 		"type": "Feature",
@@ -2370,7 +2370,7 @@
 			"rshare": 0.34509,
 			"rvotes": 137,
 			"name": "701",
-			"id": 7,
+			"id": 7
 		}
 	}, {
 		"type": "Feature",
@@ -2468,7 +2468,7 @@
 			"rshare": 0.59894,
 			"rvotes": 454,
 			"name": "1304",
-			"id": 8,
+			"id": 8
 		}
 	}, {
 		"type": "Feature",
@@ -2650,7 +2650,7 @@
 			"rshare": 0.02445,
 			"rvotes": 10,
 			"name": "912",
-			"id": 9,
+			"id": 9
 		}
 	}, {
 		"type": "Feature",
@@ -2749,7 +2749,7 @@
 			"rshare": 0.18684,
 			"rvotes": 176,
 			"name": "805",
-			"id": 10,
+			"id": 10
 		}
 	}, {
 		"type": "Feature",
@@ -2895,7 +2895,7 @@
 			"rshare": 0.8008,
 			"rvotes": 402,
 			"name": "1203",
-			"id": 11,
+			"id": 11
 		}
 	}, {
 		"type": "Feature",
@@ -3004,7 +3004,7 @@
 			"rshare": 0.66034,
 			"rvotes": 661,
 			"name": "1305",
-			"id": 12,
+			"id": 12
 		}
 	}, {
 		"type": "Feature",
@@ -3112,7 +3112,7 @@
 			"rshare": 0.57769,
 			"rvotes": 554,
 			"name": "1306",
-			"id": 13,
+			"id": 13
 		}
 	}, {
 		"type": "Feature",
@@ -3212,7 +3212,7 @@
 			"rshare": 0.25397,
 			"rvotes": 112,
 			"name": "1407",
-			"id": 14,
+			"id": 14
 		}
 	}, {
 		"type": "Feature",
@@ -3296,7 +3296,7 @@
 			"rshare": 0.69036,
 			"rvotes": 136,
 			"name": "1102",
-			"id": 15,
+			"id": 15
 		}
 	}, {
 		"type": "Feature",
@@ -3479,7 +3479,7 @@
 			"rshare": 0.03662,
 			"rvotes": 29,
 			"name": "1003",
-			"id": 16,
+			"id": 16
 		}
 	}, {
 		"type": "Feature",
@@ -3578,7 +3578,7 @@
 			"rshare": 0.76625,
 			"rvotes": 731,
 			"name": "1109",
-			"id": 17,
+			"id": 17
 		}
 	}, {
 		"type": "Feature",
@@ -3831,7 +3831,7 @@
 			"rshare": 0.04335,
 			"rvotes": 61,
 			"name": "1001",
-			"id": 18,
+			"id": 18
 		}
 	}, {
 		"type": "Feature",
@@ -4026,7 +4026,7 @@
 			"rshare": 0.01398,
 			"rvotes": 20,
 			"name": "1002",
-			"id": 19,
+			"id": 19
 		}
 	}, {
 		"type": "Feature",
@@ -4218,7 +4218,7 @@
 			"rshare": 0.59649,
 			"rvotes": 272,
 			"name": "1007",
-			"id": 20,
+			"id": 20
 		}
 	}, {
 		"type": "Feature",
@@ -4512,7 +4512,7 @@
 			"rshare": 0.02771,
 			"rvotes": 48,
 			"name": "1005",
-			"id": 21,
+			"id": 21
 		}
 	}, {
 		"type": "Feature",
@@ -4645,7 +4645,7 @@
 			"rshare": 0.53931,
 			"rvotes": 439,
 			"name": "1403",
-			"id": 22,
+			"id": 22
 		}
 	}, {
 		"type": "Feature",
@@ -4923,7 +4923,7 @@
 			"rshare": 0.34112,
 			"rvotes": 409,
 			"name": "1008",
-			"id": 25,
+			"id": 25
 		}
 	}, {
 		"type": "Feature",
@@ -5130,7 +5130,7 @@
 			"rshare": 0.52239,
 			"rvotes": 280,
 			"name": "1006",
-			"id": 23,
+			"id": 23
 		}
 	}, {
 		"type": "Feature",
@@ -5267,7 +5267,7 @@
 			"rshare": 0.65162,
 			"rvotes": 664,
 			"name": "1103",
-			"id": 26,
+			"id": 26
 		}
 	}, {
 		"type": "Feature",
@@ -5411,7 +5411,7 @@
 			"rshare": 0.6177,
 			"rvotes": 328,
 			"name": "1013",
-			"id": 34,
+			"id": 34
 		}
 	}, {
 		"type": "Feature",
@@ -5652,7 +5652,7 @@
 			"rshare": 0.5,
 			"rvotes": 518,
 			"name": "101",
-			"id": 27,
+			"id": 27
 		}
 	}, {
 		"type": "Feature",
@@ -5867,7 +5867,7 @@
 			"rshare": 0.67188,
 			"rvotes": 301,
 			"name": "1011",
-			"id": 28,
+			"id": 28
 		}
 	}, {
 		"type": "Feature",
@@ -6180,7 +6180,7 @@
 			"rshare": 0.43069,
 			"rvotes": 407,
 			"name": "1009",
-			"id": 29,
+			"id": 29
 		}
 	}, {
 		"type": "Feature",
@@ -6298,7 +6298,7 @@
 			"rshare": 0.6195,
 			"rvotes": 324,
 			"name": "307",
-			"id": 30,
+			"id": 30
 		}
 	}, {
 		"type": "Feature",
@@ -6505,7 +6505,7 @@
 			"rshare": 0.5467,
 			"rvotes": 439,
 			"name": "1010",
-			"id": 31,
+			"id": 31
 		}
 	}, {
 		"type": "Feature",
@@ -6671,7 +6671,7 @@
 			"rshare": 0.26123,
 			"rvotes": 221,
 			"name": "1012",
-			"id": 32,
+			"id": 32
 		}
 	}, {
 		"type": "Feature",
@@ -6766,7 +6766,7 @@
 			"rshare": 0.67776,
 			"rvotes": 448,
 			"name": "308",
-			"id": 33,
+			"id": 33
 		}
 	}, {
 		"type": "Feature",
@@ -6904,7 +6904,7 @@
 			"rshare": 0.50372,
 			"rvotes": 406,
 			"name": "1108",
-			"id": 35,
+			"id": 35
 		}
 	}, {
 		"type": "Feature",
@@ -6994,7 +6994,7 @@
 			"rshare": 0.72485,
 			"rvotes": 735,
 			"name": "1302",
-			"id": 42,
+			"id": 42
 		}
 	}, {
 		"type": "Feature",
@@ -7166,7 +7166,7 @@
 			"rshare": 0.36686,
 			"rvotes": 186,
 			"name": "1016",
-			"id": 36,
+			"id": 36
 		}
 	}, {
 		"type": "Feature",
@@ -7259,7 +7259,7 @@
 			"rshare": 0.65356,
 			"rvotes": 715,
 			"name": "1301",
-			"id": 37,
+			"id": 37
 		}
 	}, {
 		"type": "Feature",
@@ -7510,7 +7510,7 @@
 			"rshare": 0.39618,
 			"rvotes": 477,
 			"name": "1014",
-			"id": 38,
+			"id": 38
 		}
 	}, {
 		"type": "Feature",
@@ -7662,7 +7662,7 @@
 			"rshare": 0.44276,
 			"rvotes": 410,
 			"name": "1015",
-			"id": 39,
+			"id": 39
 		}
 	}, {
 		"type": "Feature",
@@ -7787,7 +7787,7 @@
 			"rshare": 0.50361,
 			"rvotes": 279,
 			"name": "109",
-			"id": 40,
+			"id": 40
 		}
 	}, {
 		"type": "Feature",
@@ -7989,7 +7989,7 @@
 			"rshare": 0.59386,
 			"rvotes": 329,
 			"name": "103",
-			"id": 41,
+			"id": 41
 		}
 	}, {
 		"type": "Feature",
@@ -8197,7 +8197,7 @@
 			"rshare": 0.49818,
 			"rvotes": 274,
 			"name": "1114",
-			"id": 43,
+			"id": 43
 		}
 	}, {
 		"type": "Feature",
@@ -8469,7 +8469,7 @@
 			"rshare": 0.56412,
 			"rvotes": 893,
 			"name": "105",
-			"id": 44,
+			"id": 44
 		}
 	}, {
 		"type": "Feature",
@@ -8872,7 +8872,7 @@
 			"rshare": 0.2917,
 			"rvotes": 341,
 			"name": "102",
-			"id": 45,
+			"id": 45
 		}
 	}, {
 		"type": "Feature",
@@ -9095,7 +9095,7 @@
 			"rshare": 0.58333,
 			"rvotes": 497,
 			"name": "108",
-			"id": 46,
+			"id": 46
 		}
 	}, {
 		"type": "Feature",
@@ -9393,7 +9393,7 @@
 			"rshare": 0.47056,
 			"rvotes": 847,
 			"name": "106",
-			"id": 47,
+			"id": 47
 		}
 	}, {
 		"type": "Feature",
@@ -9519,7 +9519,7 @@
 			"rshare": 0.72462,
 			"rvotes": 621,
 			"name": "1303",
-			"id": 48,
+			"id": 48
 		}
 	}, {
 		"type": "Feature",
@@ -9723,7 +9723,7 @@
 			"rshare": 0.3681,
 			"rvotes": 180,
 			"name": "107",
-			"id": 49,
+			"id": 49
 		}
 	}, {
 		"type": "Feature",
@@ -9999,7 +9999,7 @@
 			"rshare": 0.63131,
 			"rvotes": 613,
 			"name": "110",
-			"id": 50,
+			"id": 50
 		}
 	}, {
 		"type": "Feature",
@@ -10133,7 +10133,7 @@
 			"rshare": 0.67025,
 			"rvotes": 1059,
 			"name": "305",
-			"id": 87,
+			"id": 87
 		}
 	}, {
 		"type": "Feature",
@@ -10393,7 +10393,7 @@
 			"rshare": 0.57425,
 			"rvotes": 495,
 			"name": "1104",
-			"id": 52,
+			"id": 52
 		}
 	}, {
 		"type": "Feature",
@@ -10546,7 +10546,7 @@
 			"rshare": 0.58862,
 			"rvotes": 445,
 			"name": "1105",
-			"id": 53,
+			"id": 53
 		}
 	}, {
 		"type": "Feature",
@@ -10602,7 +10602,7 @@
 			"rshare": 0.63233,
 			"rvotes": 1240,
 			"name": "1106",
-			"id": 54,
+			"id": 54
 		}
 	}, {
 		"type": "Feature",
@@ -10691,7 +10691,7 @@
 			"rshare": 0.73871,
 			"rvotes": 540,
 			"name": "1107",
-			"id": 55,
+			"id": 55
 		}
 	}, {
 		"type": "Feature",
@@ -11032,7 +11032,7 @@
 			"rshare": 0.56948,
 			"rvotes": 709,
 			"name": "111",
-			"id": 56,
+			"id": 56
 		}
 	}, {
 		"type": "Feature",
@@ -11183,7 +11183,7 @@
 			"rshare": 0.49251,
 			"rvotes": 329,
 			"name": "1113",
-			"id": 57,
+			"id": 57
 		}
 	}, {
 		"type": "Feature",
@@ -11297,7 +11297,7 @@
 			"rshare": 0.5226,
 			"rvotes": 555,
 			"name": "402",
-			"id": 114,
+			"id": 114
 		}
 	}, {
 		"type": "Feature",
@@ -11587,7 +11587,7 @@
 			"rshare": 0.59214,
 			"rvotes": 482,
 			"name": "1110",
-			"id": 59,
+			"id": 59
 		}
 	}, {
 		"type": "Feature",
@@ -11670,7 +11670,7 @@
 			"rshare": 0.43544,
 			"rvotes": 172,
 			"name": "1111",
-			"id": 60,
+			"id": 60
 		}
 	}, {
 		"type": "Feature",
@@ -11836,7 +11836,7 @@
 			"rshare": 0.60944,
 			"rvotes": 465,
 			"name": "1112",
-			"id": 61,
+			"id": 61
 		}
 	}, {
 		"type": "Feature",
@@ -12001,7 +12001,7 @@
 			"rshare": 0.39794,
 			"rvotes": 193,
 			"name": "112",
-			"id": 63,
+			"id": 63
 		}
 	}, {
 		"type": "Feature",
@@ -12118,7 +12118,7 @@
 			"rshare": 0.49834,
 			"rvotes": 450,
 			"name": "1415",
-			"id": 64,
+			"id": 64
 		}
 	}, {
 		"type": "Feature",
@@ -12323,7 +12323,7 @@
 			"rshare": 0.45632,
 			"rvotes": 956,
 			"name": "113",
-			"id": 65,
+			"id": 65
 		}
 	}, {
 		"type": "Feature",
@@ -12511,7 +12511,7 @@
 			"rshare": 0.32816,
 			"rvotes": 169,
 			"name": "114",
-			"id": 66,
+			"id": 66
 		}
 	}, {
 		"type": "Feature",
@@ -12734,7 +12734,7 @@
 			"rshare": 0.69338,
 			"rvotes": 744,
 			"name": "1201",
-			"id": 67,
+			"id": 67
 		}
 	}, {
 		"type": "Feature",
@@ -12989,7 +12989,7 @@
 			"rshare": 0.67063,
 			"rvotes": 733,
 			"name": "1202",
-			"id": 68,
+			"id": 68
 		}
 	}, {
 		"type": "Feature",
@@ -13193,7 +13193,7 @@
 			"rshare": 0.7148,
 			"rvotes": 396,
 			"name": "1204",
-			"id": 69,
+			"id": 69
 		}
 	}, {
 		"type": "Feature",
@@ -13499,7 +13499,7 @@
 			"rshare": 0.57338,
 			"rvotes": 883,
 			"name": "1205",
-			"id": 70,
+			"id": 70
 		}
 	}, {
 		"type": "Feature",
@@ -13935,7 +13935,7 @@
 			"rshare": 0.57304,
 			"rvotes": 863,
 			"name": "1206",
-			"id": 72,
+			"id": 72
 		}
 	}, {
 		"type": "Feature",
@@ -14273,7 +14273,7 @@
 			"rshare": 0.54281,
 			"rvotes": 634,
 			"name": "1208",
-			"id": 73,
+			"id": 73
 		}
 	}, {
 		"type": "Feature",
@@ -14355,7 +14355,7 @@
 			"rshare": 0.76759,
 			"rvotes": 720,
 			"name": "304",
-			"id": 74,
+			"id": 74
 		}
 	}, {
 		"type": "Feature",
@@ -14499,7 +14499,7 @@
 			"rshare": 0.50102,
 			"rvotes": 490,
 			"name": "1211",
-			"id": 75,
+			"id": 75
 		}
 	}, {
 		"type": "Feature",
@@ -14643,7 +14643,7 @@
 			"rshare": 0.52703,
 			"rvotes": 273,
 			"name": "1312",
-			"id": 76,
+			"id": 76
 		}
 	}, {
 		"type": "Feature",
@@ -14999,7 +14999,7 @@
 			"rshare": 0.71789,
 			"rvotes": 911,
 			"name": "1209",
-			"id": 77,
+			"id": 77
 		}
 	}, {
 		"type": "Feature",
@@ -15166,7 +15166,7 @@
 			"rshare": 0.58467,
 			"rvotes": 473,
 			"name": "1210",
-			"id": 78,
+			"id": 78
 		}
 	}, {
 		"type": "Feature",
@@ -15645,7 +15645,7 @@
 			"rshare": 0.48317,
 			"rvotes": 890,
 			"name": "1212",
-			"id": 80,
+			"id": 80
 		}
 	}, {
 		"type": "Feature",
@@ -15895,7 +15895,7 @@
 			"rshare": 0.53592,
 			"rvotes": 746,
 			"name": "1213",
-			"id": 81,
+			"id": 81
 		}
 	}, {
 		"type": "Feature",
@@ -16050,7 +16050,7 @@
 			"rshare": 0.57996,
 			"rvotes": 602,
 			"name": "1308",
-			"id": 82,
+			"id": 82
 		}
 	}, {
 		"type": "Feature",
@@ -16181,7 +16181,7 @@
 			"rshare": 0.69048,
 			"rvotes": 725,
 			"name": "1309",
-			"id": 83,
+			"id": 83
 		}
 	}, {
 		"type": "Feature",
@@ -16352,7 +16352,7 @@
 			"rshare": 0.73506,
 			"rvotes": 1107,
 			"name": "1313",
-			"id": 84,
+			"id": 84
 		}
 	}, {
 		"type": "Feature",
@@ -16449,7 +16449,7 @@
 			"rshare": 0.65487,
 			"rvotes": 74,
 			"name": "1314",
-			"id": 85,
+			"id": 85
 		}
 	}, {
 		"type": "Feature",
@@ -16607,7 +16607,7 @@
 			"rshare": 0.56651,
 			"rvotes": 592,
 			"name": "1315",
-			"id": 86,
+			"id": 86
 		}
 	}, {
 		"type": "Feature",
@@ -16734,7 +16734,7 @@
 			"rshare": 0.2,
 			"rvotes": 107,
 			"name": "818",
-			"id": 188,
+			"id": 188
 		}
 	}, {
 		"type": "Feature",
@@ -16948,7 +16948,7 @@
 			"rshare": 0.55569,
 			"rvotes": 444,
 			"name": "1401",
-			"id": 88,
+			"id": 88
 		}
 	}, {
 		"type": "Feature",
@@ -17160,7 +17160,7 @@
 			"rshare": 0.54642,
 			"rvotes": 565,
 			"name": "1402",
-			"id": 89,
+			"id": 89
 		}
 	}, {
 		"type": "Feature",
@@ -17371,7 +17371,7 @@
 			"rshare": 0.50551,
 			"rvotes": 918,
 			"name": "1404",
-			"id": 90,
+			"id": 90
 		}
 	}, {
 		"type": "Feature",
@@ -17591,7 +17591,7 @@
 			"rshare": 0.5144,
 			"rvotes": 393,
 			"name": "1405",
-			"id": 91,
+			"id": 91
 		}
 	}, {
 		"type": "Feature",
@@ -17747,7 +17747,7 @@
 			"rshare": 0.59628,
 			"rvotes": 353,
 			"name": "1406",
-			"id": 92,
+			"id": 92
 		}
 	}, {
 		"type": "Feature",
@@ -17878,7 +17878,7 @@
 			"rshare": 0.65143,
 			"rvotes": 684,
 			"name": "1408",
-			"id": 93,
+			"id": 93
 		}
 	}, {
 		"type": "Feature",
@@ -18166,7 +18166,7 @@
 			"rshare": 0.5283,
 			"rvotes": 728,
 			"name": "1410",
-			"id": 94,
+			"id": 94
 		}
 	}, {
 		"type": "Feature",
@@ -18281,7 +18281,7 @@
 			"rshare": 0.69061,
 			"rvotes": 125,
 			"name": "210",
-			"id": 95,
+			"id": 95
 		}
 	}, {
 		"type": "Feature",
@@ -18720,7 +18720,7 @@
 			"rshare": 0.64029,
 			"rvotes": 785,
 			"name": "1409",
-			"id": 96,
+			"id": 96
 		}
 	}, {
 		"type": "Feature",
@@ -18885,7 +18885,7 @@
 			"rshare": 0.75169,
 			"rvotes": 2004,
 			"name": "1411",
-			"id": 97,
+			"id": 97
 		}
 	}, {
 		"type": "Feature",
@@ -19107,7 +19107,7 @@
 			"rshare": 0.62897,
 			"rvotes": 673,
 			"name": "1412",
-			"id": 99,
+			"id": 99
 		}
 	}, {
 		"type": "Feature",
@@ -19260,7 +19260,7 @@
 			"rshare": 0.43588,
 			"rvotes": 605,
 			"name": "1413",
-			"id": 100,
+			"id": 100
 		}
 	}, {
 		"type": "Feature",
@@ -19392,7 +19392,7 @@
 			"rshare": 0.72495,
 			"rvotes": 680,
 			"name": "310",
-			"id": 101,
+			"id": 101
 		}
 	}, {
 		"type": "Feature",
@@ -19618,7 +19618,7 @@
 			"rshare": 0.5412,
 			"rvotes": 243,
 			"name": "1414",
-			"id": 102,
+			"id": 102
 		}
 	}, {
 		"type": "Feature",
@@ -19808,7 +19808,7 @@
 			"rshare": 0.49861,
 			"rvotes": 717,
 			"name": "203",
-			"id": 103,
+			"id": 103
 		}
 	}, {
 		"type": "Feature",
@@ -20069,7 +20069,7 @@
 			"rshare": 0.71306,
 			"rvotes": 1578,
 			"name": "206",
-			"id": 104,
+			"id": 104
 		}
 	}, {
 		"type": "Feature",
@@ -20500,7 +20500,7 @@
 			"rshare": 0.66643,
 			"rvotes": 937,
 			"name": "201",
-			"id": 105,
+			"id": 105
 		}
 	}, {
 		"type": "Feature",
@@ -20859,7 +20859,7 @@
 			"rshare": 0.60382,
 			"rvotes": 948,
 			"name": "202",
-			"id": 106,
+			"id": 106
 		}
 	}, {
 		"type": "Feature",
@@ -21027,7 +21027,7 @@
 			"rshare": 0.74768,
 			"rvotes": 726,
 			"name": "204",
-			"id": 107,
+			"id": 107
 		}
 	}, {
 		"type": "Feature",
@@ -21534,7 +21534,7 @@
 			"rshare": 0.6526,
 			"rvotes": 1608,
 			"name": "205",
-			"id": 109,
+			"id": 109
 		}
 	}, {
 		"type": "Feature",
@@ -21777,7 +21777,7 @@
 			"rshare": 0.56436,
 			"rvotes": 1026,
 			"name": "207",
-			"id": 110,
+			"id": 110
 		}
 	}, {
 		"type": "Feature",
@@ -22074,7 +22074,7 @@
 			"rshare": 0.76409,
 			"rvotes": 732,
 			"name": "301",
-			"id": 111,
+			"id": 111
 		}
 	}, {
 		"type": "Feature",
@@ -22192,7 +22192,7 @@
 			"rshare": 0.69306,
 			"rvotes": 499,
 			"name": "213",
-			"id": 112,
+			"id": 112
 		}
 	}, {
 		"type": "Feature",
@@ -22520,7 +22520,7 @@
 			"rshare": 0.76738,
 			"rvotes": 861,
 			"name": "208",
-			"id": 113,
+			"id": 113
 		}
 	}, {
 		"type": "Feature",
@@ -22935,7 +22935,7 @@
 			"rshare": 0.71972,
 			"rvotes": 814,
 			"name": "209",
-			"id": 115,
+			"id": 115
 		}
 	}, {
 		"type": "Feature",
@@ -23349,7 +23349,7 @@
 			"rshare": 0.61334,
 			"rvotes": 947,
 			"name": "211",
-			"id": 116,
+			"id": 116
 		}
 	}, {
 		"type": "Feature",
@@ -23763,7 +23763,7 @@
 			"rshare": 0.80743,
 			"rvotes": 239,
 			"name": "212",
-			"id": 117,
+			"id": 117
 		}
 	}, {
 		"type": "Feature",
@@ -23975,7 +23975,7 @@
 			"rshare": 0.61202,
 			"rvotes": 448,
 			"name": "302",
-			"id": 118,
+			"id": 118
 		}
 	}, {
 		"type": "Feature",
@@ -24145,7 +24145,7 @@
 			"rshare": 0.65586,
 			"rvotes": 1153,
 			"name": "312",
-			"id": 119,
+			"id": 119
 		}
 	}, {
 		"type": "Feature",
@@ -24277,7 +24277,7 @@
 			"rshare": 0.57431,
 			"rvotes": 796,
 			"name": "313",
-			"id": 120,
+			"id": 120
 		}
 	}, {
 		"type": "Feature",
@@ -24402,7 +24402,7 @@
 			"rshare": 0.55977,
 			"rvotes": 693,
 			"name": "501",
-			"id": 121,
+			"id": 121
 		}
 	}, {
 		"type": "Feature",
@@ -24643,7 +24643,7 @@
 			"rshare": 0.58505,
 			"rvotes": 313,
 			"name": "315",
-			"id": 122,
+			"id": 122
 		}
 	}, {
 		"type": "Feature",
@@ -24836,7 +24836,7 @@
 			"rshare": 0.64865,
 			"rvotes": 336,
 			"name": "401",
-			"id": 123,
+			"id": 123
 		}
 	}, {
 		"type": "Feature",
@@ -25050,7 +25050,7 @@
 			"rshare": 0.52057,
 			"rvotes": 797,
 			"name": "403",
-			"id": 124,
+			"id": 124
 		}
 	}, {
 		"type": "Feature",
@@ -25269,7 +25269,7 @@
 			"rshare": 0.73788,
 			"rvotes": 974,
 			"name": "404",
-			"id": 125,
+			"id": 125
 		}
 	}, {
 		"type": "Feature",
@@ -25536,7 +25536,7 @@
 			"rshare": 0.44103,
 			"rvotes": 258,
 			"name": "405",
-			"id": 126,
+			"id": 126
 		}
 	}, {
 		"type": "Feature",
@@ -25702,7 +25702,7 @@
 			"rshare": 0.62462,
 			"rvotes": 1035,
 			"name": "407",
-			"id": 127,
+			"id": 127
 		}
 	}, {
 		"type": "Feature",
@@ -25900,7 +25900,7 @@
 			"rshare": 0.67886,
 			"rvotes": 1002,
 			"name": "408",
-			"id": 128,
+			"id": 128
 		}
 	}, {
 		"type": "Feature",
@@ -26067,7 +26067,7 @@
 			"rshare": 0.59919,
 			"rvotes": 592,
 			"name": "409",
-			"id": 129,
+			"id": 129
 		}
 	}, {
 		"type": "Feature",
@@ -26229,7 +26229,7 @@
 			"rshare": 0.58021,
 			"rvotes": 651,
 			"name": "410",
-			"id": 130,
+			"id": 130
 		}
 	}, {
 		"type": "Feature",
@@ -26444,7 +26444,7 @@
 			"rshare": 0.62538,
 			"rvotes": 611,
 			"name": "411",
-			"id": 131,
+			"id": 131
 		}
 	}, {
 		"type": "Feature",
@@ -26577,7 +26577,7 @@
 			"rshare": 0.71452,
 			"rvotes": 1319,
 			"name": "605",
-			"id": 132,
+			"id": 132
 		}
 	}, {
 		"type": "Feature",
@@ -26732,7 +26732,7 @@
 			"rshare": 0.54967,
 			"rvotes": 581,
 			"name": "504",
-			"id": 133,
+			"id": 133
 		}
 	}, {
 		"type": "Feature",
@@ -26934,7 +26934,7 @@
 			"rshare": 0.52427,
 			"rvotes": 216,
 			"name": "412",
-			"id": 134,
+			"id": 134
 		}
 	}, {
 		"type": "Feature",
@@ -27105,7 +27105,7 @@
 			"rshare": 0.50392,
 			"rvotes": 193,
 			"name": "502",
-			"id": 135,
+			"id": 135
 		}
 	}, {
 		"type": "Feature",
@@ -27322,7 +27322,7 @@
 			"rshare": 0.32737,
 			"rvotes": 128,
 			"name": "503",
-			"id": 136,
+			"id": 136
 		}
 	}, {
 		"type": "Feature",
@@ -27456,7 +27456,7 @@
 			"rshare": 0.70399,
 			"rvotes": 899,
 			"name": "505",
-			"id": 137,
+			"id": 137
 		}
 	}, {
 		"type": "Feature",
@@ -27739,7 +27739,7 @@
 			"rshare": 0.60587,
 			"rvotes": 1382,
 			"name": "508",
-			"id": 138,
+			"id": 138
 		}
 	}, {
 		"type": "Feature",
@@ -28004,7 +28004,7 @@
 			"rshare": 0.67314,
 			"rvotes": 1178,
 			"name": "509",
-			"id": 139,
+			"id": 139
 		}
 	}, {
 		"type": "Feature",
@@ -28325,7 +28325,7 @@
 			"rshare": 0.51659,
 			"rvotes": 654,
 			"name": "506",
-			"id": 140,
+			"id": 140
 		}
 	}, {
 		"type": "Feature",
@@ -28500,7 +28500,7 @@
 			"rshare": 0.36677,
 			"rvotes": 245,
 			"name": "507",
-			"id": 141,
+			"id": 141
 		}
 	}, {
 		"type": "Feature",
@@ -28717,7 +28717,7 @@
 			"rshare": 0.56541,
 			"rvotes": 523,
 			"name": "513",
-			"id": 142,
+			"id": 142
 		}
 	}, {
 		"type": "Feature",
@@ -28983,7 +28983,7 @@
 			"rshare": 0.68261,
 			"rvotes": 942,
 			"name": "602",
-			"id": 143,
+			"id": 143
 		}
 	}, {
 		"type": "Feature",
@@ -29154,7 +29154,7 @@
 			"rshare": 0.16406,
 			"rvotes": 147,
 			"name": "704",
-			"id": 144,
+			"id": 144
 		}
 	}, {
 		"type": "Feature",
@@ -29434,7 +29434,7 @@
 			"rshare": 0.67223,
 			"rvotes": 1007,
 			"name": "510",
-			"id": 145,
+			"id": 145
 		}
 	}, {
 		"type": "Feature",
@@ -29569,7 +29569,7 @@
 			"rshare": 0.01948,
 			"rvotes": 6,
 			"name": "806",
-			"id": 147,
+			"id": 147
 		}
 	}, {
 		"type": "Feature",
@@ -29856,7 +29856,7 @@
 			"rshare": 0.56266,
 			"rvotes": 449,
 			"name": "511",
-			"id": 148,
+			"id": 148
 		}
 	}, {
 		"type": "Feature",
@@ -30090,7 +30090,7 @@
 			"rshare": 0.54369,
 			"rvotes": 728,
 			"name": "512",
-			"id": 149,
+			"id": 149
 		}
 	}, {
 		"type": "Feature",
@@ -30370,7 +30370,7 @@
 			"rshare": 0.74018,
 			"rvotes": 1131,
 			"name": "601",
-			"id": 150,
+			"id": 150
 		}
 	}, {
 		"type": "Feature",
@@ -30501,7 +30501,7 @@
 			"rshare": 0.67865,
 			"rvotes": 321,
 			"name": "614",
-			"id": 151,
+			"id": 151
 		}
 	}, {
 		"type": "Feature",
@@ -30669,7 +30669,7 @@
 			"rshare": 0.74725,
 			"rvotes": 680,
 			"name": "604",
-			"id": 152,
+			"id": 152
 		}
 	}, {
 		"type": "Feature",
@@ -30995,7 +30995,7 @@
 			"rshare": 0.72334,
 			"rvotes": 1655,
 			"name": "606",
-			"id": 153,
+			"id": 153
 		}
 	}, {
 		"type": "Feature",
@@ -31067,7 +31067,7 @@
 			"rshare": 0.64463,
 			"rvotes": 468,
 			"name": "607",
-			"id": 154,
+			"id": 154
 		}
 	}, {
 		"type": "Feature",
@@ -31220,7 +31220,7 @@
 			"rshare": 0.20347,
 			"rvotes": 82,
 			"name": "702",
-			"id": 155,
+			"id": 155
 		}
 	}, {
 		"type": "Feature",
@@ -31514,7 +31514,7 @@
 			"rshare": 0.64492,
 			"rvotes": 1275,
 			"name": "608",
-			"id": 157,
+			"id": 157
 		}
 	}, {
 		"type": "Feature",
@@ -31664,7 +31664,7 @@
 			"rshare": 0.02857,
 			"rvotes": 13,
 			"name": "812",
-			"id": 159,
+			"id": 159
 		}
 	}, {
 		"type": "Feature",
@@ -31955,7 +31955,7 @@
 			"rshare": 0.72188,
 			"rvotes": 1412,
 			"name": "610",
-			"id": 160,
+			"id": 160
 		}
 	}, {
 		"type": "Feature",
@@ -32101,7 +32101,7 @@
 			"rshare": 0.62189,
 			"rvotes": 500,
 			"name": "611",
-			"id": 161,
+			"id": 161
 		}
 	}, {
 		"type": "Feature",
@@ -32248,7 +32248,7 @@
 			"rshare": 0.025,
 			"rvotes": 15,
 			"name": "808",
-			"id": 162,
+			"id": 162
 		}
 	}, {
 		"type": "Feature",
@@ -32529,7 +32529,7 @@
 			"rshare": 0.66735,
 			"rvotes": 979,
 			"name": "612",
-			"id": 163,
+			"id": 163
 		}
 	}, {
 		"type": "Feature",
@@ -32628,7 +32628,7 @@
 			"rshare": 0.66733,
 			"rvotes": 670,
 			"name": "613",
-			"id": 164,
+			"id": 164
 		}
 	}, {
 		"type": "Feature",
@@ -32798,7 +32798,7 @@
 			"rshare": 0.0245,
 			"rvotes": 11,
 			"name": "706",
-			"id": 165,
+			"id": 165
 		}
 	}, {
 		"type": "Feature",
@@ -32967,7 +32967,7 @@
 			"rshare": 0.06768,
 			"rvotes": 71,
 			"name": "707",
-			"id": 166,
+			"id": 166
 		}
 	}, {
 		"type": "Feature",
@@ -33129,7 +33129,7 @@
 			"rshare": 0.08586,
 			"rvotes": 34,
 			"name": "708",
-			"id": 167,
+			"id": 167
 		}
 	}, {
 		"type": "Feature",
@@ -33651,7 +33651,7 @@
 			"rshare": 0.31613,
 			"rvotes": 533,
 			"name": "705",
-			"id": 168,
+			"id": 168
 		}
 	}, {
 		"type": "Feature",
@@ -33820,7 +33820,7 @@
 			"rshare": 0.03612,
 			"rvotes": 76,
 			"name": "709",
-			"id": 169,
+			"id": 169
 		}
 	}, {
 		"type": "Feature",
@@ -34015,7 +34015,7 @@
 			"rshare": 0.08414,
 			"rvotes": 139,
 			"name": "710",
-			"id": 170,
+			"id": 170
 		}
 	}, {
 		"type": "Feature",
@@ -34177,7 +34177,7 @@
 			"rshare": 0.0654,
 			"rvotes": 24,
 			"name": "711",
-			"id": 171,
+			"id": 171
 		}
 	}, {
 		"type": "Feature",
@@ -34382,7 +34382,7 @@
 			"rshare": 0.1386,
 			"rvotes": 79,
 			"name": "712",
-			"id": 172,
+			"id": 172
 		}
 	}, {
 		"type": "Feature",
@@ -34555,7 +34555,7 @@
 			"rshare": 0.15706,
 			"rvotes": 308,
 			"name": "803",
-			"id": 173,
+			"id": 173
 		}
 	}, {
 		"type": "Feature",
@@ -34729,7 +34729,7 @@
 			"rshare": 0.29742,
 			"rvotes": 265,
 			"name": "804",
-			"id": 174,
+			"id": 174
 		}
 	}, {
 		"type": "Feature",
@@ -34991,7 +34991,7 @@
 			"rshare": 0.27503,
 			"rvotes": 217,
 			"name": "713",
-			"id": 175,
+			"id": 175
 		}
 	}, {
 		"type": "Feature",
@@ -35204,7 +35204,7 @@
 			"rshare": 0.02031,
 			"rvotes": 26,
 			"name": "802",
-			"id": 176,
+			"id": 176
 		}
 	}, {
 		"type": "Feature",
@@ -35528,7 +35528,7 @@
 			"rshare": 0.0607,
 			"rvotes": 38,
 			"name": "714",
-			"id": 177,
+			"id": 177
 		}
 	}, {
 		"type": "Feature",
@@ -35693,7 +35693,7 @@
 			"rshare": 0.15737,
 			"rvotes": 141,
 			"name": "801",
-			"id": 178,
+			"id": 178
 		}
 	}, {
 		"type": "Feature",
@@ -35897,7 +35897,7 @@
 			"rshare": 0.02751,
 			"rvotes": 17,
 			"name": "807",
-			"id": 179,
+			"id": 179
 		}
 	}, {
 		"type": "Feature",
@@ -36063,7 +36063,7 @@
 			"rshare": 0.02203,
 			"rvotes": 15,
 			"name": "809",
-			"id": 180,
+			"id": 180
 		}
 	}, {
 		"type": "Feature",
@@ -36340,7 +36340,7 @@
 			"rshare": 0.83514,
 			"rvotes": 461,
 			"name": "810",
-			"id": 181,
+			"id": 181
 		}
 	}, {
 		"type": "Feature",
@@ -36474,7 +36474,7 @@
 			"rshare": 0.15152,
 			"rvotes": 35,
 			"name": "816",
-			"id": 182,
+			"id": 182
 		}
 	}, {
 		"type": "Feature",
@@ -36912,7 +36912,7 @@
 			"rshare": 0.36665,
 			"rvotes": 818,
 			"name": "813",
-			"id": 184,
+			"id": 184
 		}
 	}, {
 		"type": "Feature",
@@ -37189,7 +37189,7 @@
 			"rshare": 0.8111,
 			"rvotes": 1052,
 			"name": "814",
-			"id": 185,
+			"id": 185
 		}
 	}, {
 		"type": "Feature",
@@ -37309,7 +37309,7 @@
 			"rshare": 0.02295,
 			"rvotes": 14,
 			"name": "815",
-			"id": 186,
+			"id": 186
 		}
 	}, {
 		"type": "Feature",
@@ -37473,7 +37473,7 @@
 			"rshare": 0.31353,
 			"rvotes": 401,
 			"name": "817",
-			"id": 187,
+			"id": 187
 		}
 	}, {
 		"type": "Feature",
@@ -37705,7 +37705,7 @@
 			"rshare": 0.4669,
 			"rvotes": 402,
 			"name": "903",
-			"id": 189,
+			"id": 189
 		}
 	}, {
 		"type": "Feature",
@@ -38027,7 +38027,7 @@
 			"rshare": 0.31834,
 			"rvotes": 276,
 			"name": "901",
-			"id": 190,
+			"id": 190
 		}
 	}, {
 		"type": "Feature",
@@ -38176,7 +38176,7 @@
 			"rshare": 0.02663,
 			"rvotes": 27,
 			"name": "902",
-			"id": 191,
+			"id": 191
 		}
 	}, {
 		"type": "Feature",
@@ -38403,7 +38403,7 @@
 			"rshare": 0.62186,
 			"rvotes": 347,
 			"name": "906",
-			"id": 192,
+			"id": 192
 		}
 	}, {
 		"type": "Feature",
@@ -38557,7 +38557,7 @@
 			"rshare": 0.62197,
 			"rvotes": 385,
 			"name": "907",
-			"id": 193,
+			"id": 193
 		}
 	}, {
 		"type": "Feature",
@@ -38733,7 +38733,7 @@
 			"rshare": 0.08594,
 			"rvotes": 66,
 			"name": "910",
-			"id": 194,
+			"id": 194
 		}
 	}, {
 		"type": "Feature",
@@ -38974,7 +38974,7 @@
 			"rshare": 0.43234,
 			"rvotes": 393,
 			"name": "908",
-			"id": 195,
+			"id": 195
 		}
 	}, {
 		"type": "Feature",
@@ -39166,7 +39166,7 @@
 			"rshare": 0.03139,
 			"rvotes": 14,
 			"name": "909",
-			"id": 196,
+			"id": 196
 		}
 	}, {
 		"type": "Feature",
@@ -39366,7 +39366,7 @@
 			"rshare": 0.18112,
 			"rvotes": 190,
 			"name": "911",
-			"id": 197,
+			"id": 197
 		}
 	}, {
 		"type": "Feature",
@@ -39601,7 +39601,7 @@
 			"rshare": 0.39199,
 			"rvotes": 225,
 			"name": "913",
-			"id": 198,
+			"id": 198
 		}
 	}, {
 		"type": "Feature",
@@ -39767,7 +39767,7 @@
 			"rshare": 0.4211,
 			"rvotes": 451,
 			"name": "914",
-			"id": 199,
+			"id": 199
 		}
 	}]
 }
