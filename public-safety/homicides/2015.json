@@ -1768,5 +1768,22 @@
             "incidentLoci": "9373 Maidstone Mill Dr. E",
             "causeDeath": "824055"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.733698, 30.406348]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "105",
+            "reportDate": "12/9/2015",
+            "victimName": "Kaheem R. Simmons",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "15",
+            "incidentLoci": "5403 Tubman Dr. N",
+            "causeDeath": "stabbed"
+        }
     }]
 }
