@@ -1772,11 +1772,28 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.733698, 30.406348]
+            "coordinates": [-81.705471, 30.321313]
         },
         "properties": {
             "idYr": "2015",
             "idNo": "105",
+            "reportDate": "12/6/2015",
+            "victimName": "Keshaun James Coleman",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "McDuff Avenue and Waller Street",
+            "causeDeath": "shot"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.733698, 30.406348]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "106",
             "reportDate": "12/9/2015",
             "victimName": "Kaheem R. Simmons",
             "race": "Black",
