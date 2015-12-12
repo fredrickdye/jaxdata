@@ -302,4 +302,23 @@
 			"result": "killed",
 			"status": "armed"
 		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.66249, 30.437093]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201517",
+			"name": "Unidentified juvenile",
+			"race": "Black",
+			"gender": "Male",
+			"age": "14",
+			"reportNo": "839194",
+			"where": "Maple Crest Townhomes, 11050 Harts Rd.",
+			"date": "12/11/2015",
+			"result": "wounded",
+			"status": "armed"
+		}
 	}]}
