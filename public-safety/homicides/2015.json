@@ -1802,5 +1802,22 @@
             "incidentLoci": "5403 Tubman Dr. N",
             "causeDeath": "stabbed"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.655904, 30.379652]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "107",
+            "reportDate": "12/14/2015",
+            "victimName": "Jocolby Michael Moss",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "29",
+            "incidentLoci": "6500 Evelyn Rd.",
+            "causeDeath": "shot"
+        }
     }]
 }
