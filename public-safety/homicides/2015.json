@@ -1819,5 +1819,22 @@
             "incidentLoci": "6500 Evelyn Rd.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.7013, 30.335605]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "108",
+            "reportDate": "12/15/2015",
+            "victimName": "Augusto Collado",
+            "race": "Hispanic",
+            "gender": "Male",
+            "victimAge": "64",
+            "incidentLoci": "2306 Labelle St.",
+            "causeDeath": "shot"
+        }
     }]
 }
