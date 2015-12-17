@@ -1836,5 +1836,22 @@
             "incidentLoci": "2306 Labelle St.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.726845, 30.406777]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "109",
+            "reportDate": "12/16/2015",
+            "victimName": "Unidentified",
+            "race": "Unreported",
+            "gender": "Male",
+            "victimAge": "Unreported",
+            "incidentLoci": "5001 Portsmouth Ave.",
+            "causeDeath": "undetermiend"
+        }
     }]
 }
