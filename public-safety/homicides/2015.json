@@ -1853,5 +1853,56 @@
             "incidentLoci": "5001 Portsmouth Ave.",
             "causeDeath": "undetermiend"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.676226, 30.379172]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "110",
+            "reportDate": "12/20/2015",
+            "victimName": "Jacoby Joshua Wright",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "17",
+            "incidentLoci": "7000 Alan Ave.",
+            "causeDeath": "undetermined"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.540474, 30.273463]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "111",
+            "reportDate": "12/21/2015",
+            "victimName": "Anatoliy Glavnik",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "54",
+            "incidentLoci": "4031 Skycrest Dr.",
+            "causeDeath": "shot"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.716962, 30.407775]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "112",
+            "reportDate": "12/21/2015",
+            "victimName": "Unidentified",
+            "race": "Unreported",
+            "gender": "Male",
+            "victimAge": "Unreported",
+            "incidentLoci": "4400 Portsmouth Ave.",
+            "causeDeath": "shot"
+        }
     }]
 }
