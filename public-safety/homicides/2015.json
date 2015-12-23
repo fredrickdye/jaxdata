@@ -1846,10 +1846,10 @@
             "idYr": "2015",
             "idNo": "109",
             "reportDate": "12/16/2015",
-            "victimName": "Unidentified",
-            "race": "Unreported",
+            "victimName": "Antreenio George Hardwick",
+            "race": "Black",
             "gender": "Male",
-            "victimAge": "Unreported",
+            "victimAge": "27",
             "incidentLoci": "5001 Portsmouth Ave.",
             "causeDeath": "undetermiend"
         }
@@ -1867,7 +1867,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "7000 Alan Ave.",
+            "incidentLoci": "7015 Alan Ave.",
             "causeDeath": "undetermined"
         }
     }, {
@@ -1897,11 +1897,11 @@
             "idYr": "2015",
             "idNo": "112",
             "reportDate": "12/21/2015",
-            "victimName": "Antreenio George Hardwick",
+            "victimName": "Justin Jermaine Grant",
             "race": "Black",
             "gender": "Male",
-            "victimAge": "27",
-            "incidentLoci": "4400 Portsmouth Ave.",
+            "victimAge": "28",
+            "incidentLoci": "4603 Portsmouth Ave.",
             "causeDeath": "shot"
         }
     }]
