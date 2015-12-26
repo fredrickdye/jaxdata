@@ -1845,13 +1845,13 @@
         "properties": {
             "idYr": "2015",
             "idNo": "109",
-            "reportDate": "12/16/2015",
+            "reportDate": "12/15/2015",
             "victimName": "Antreenio George Hardwick",
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
             "incidentLoci": "5001 Portsmouth Ave.",
-            "causeDeath": "undetermiend"
+            "causeDeath": "shot"
         }
     }, {
         "type": "Feature",
@@ -1868,7 +1868,7 @@
             "gender": "Male",
             "victimAge": "17",
             "incidentLoci": "7015 Alan Ave.",
-            "causeDeath": "undetermined"
+            "causeDeath": "shot"
         }
     }, {
         "type": "Feature",
