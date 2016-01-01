@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.761041, 30.453911]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "1",
+            "reportDate": "1/1/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "Unreported",
+            "incidentLoci": "12300 Cadley Circle",
+            "causeDeath": "shot"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.676569, 30.346498]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "2",
+            "reportDate": "1/1/2016",
+            "victimName": "Unidentified",
+            "race": "Unreported",
+            "gender": "Male",
+            "victimAge": "Unreported",
+            "incidentLoci": "1330 McConihe St.",
+            "causeDeath": "shot"
+        }
+    }]
+}
