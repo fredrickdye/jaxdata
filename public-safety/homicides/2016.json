@@ -34,5 +34,22 @@
             "incidentLoci": "1330 McConihe St.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.574727, 30.316061]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "3",
+            "reportDate": "1/3/2016",
+            "victimName": "Mikel Stewart",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "7900 Cocoa Ave.",
+            "causeDeath": "shot"
+        }
     }]
 }
