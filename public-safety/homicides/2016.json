@@ -51,5 +51,22 @@
             "incidentLoci": "7900 Cocoa Ave.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.721354, 30.254498]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "4",
+            "reportDate": "1/4/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "unreported",
+            "incidentLoci": "Ortega Pines Apartments, 4800 Ortega Farms Blvd.",
+            "causeDeath": "shot"
+        }
     }]
 }
