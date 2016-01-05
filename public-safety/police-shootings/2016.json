@@ -1,0 +1,21 @@
+{"type":"FeatureCollection","features":[{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.602751, 30.291929]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201601",
+			"name": "Dominion Bradshaw",
+			"race": "Black",
+			"gender": "Male",
+			"age": "16",
+			"reportNo": "6152",
+			"where": "5800 Beach Blvd.",
+			"date": "1/3/2016",
+			"result": "wounded",
+			"status": "armed"
+		}
+	}
+]}
