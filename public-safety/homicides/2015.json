@@ -48,7 +48,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "Reserve At Waters Inlet, 6100 Arlington Expressway",
+            "incidentLoci": "Reserve At Waters Inlet, 6100 Arlington Expressway, Apt. Q204",
             "causeDeath": "shot"
         }
     }, {
@@ -72,7 +72,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.530187, 30.28028]
+            "coordinates": [-81.52116, 30.307576]
         },
         "properties": {
             "idYr": "2015",
@@ -82,7 +82,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "72",
-            "incidentLoci": "11200 St Johns Industrial Pkwy N",
+            "incidentLoci": "2372 Bitternut Way",
             "causeDeath": "suffocated"
         }
     }, {
@@ -116,7 +116,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "4",
-            "incidentLoci": "Fountains at Deerwood apartments, 7816 Southside Blvd.",
+            "incidentLoci": "Fountains at Deerwood apartments, 7816 Southside Blvd., Apt. 3",
             "causeDeath": "beaten"
         }
     }, {
@@ -150,7 +150,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "5611 Norwood Ave.",
+            "incidentLoci": "5603 Norwood Ave.",
             "causeDeath": "shot"
         }
     }, {
@@ -184,14 +184,14 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "33",
-            "incidentLoci": "Barcelona Apartments, 4300 Degail Ln.",
+            "incidentLoci": "Barcelona Apartments, 4373 Degail Ln.",
             "causeDeath": "shot"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.682112, 30.343331]
+            "coordinates": [-81.682807, 30.33897]
         },
         "properties": {
             "idYr": "2015",
@@ -201,7 +201,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "1600 Kings Rd.",
+            "incidentLoci": "1023 Grunthal St.",
             "causeDeath": "shot"
         }
     }, {
@@ -225,7 +225,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.743318, 30.262189]
+            "coordinates": [-81.743312, 30.26214]
         },
         "properties": {
             "idYr": "2015",
@@ -235,7 +235,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "6100 Harlow Blvd.",
+            "incidentLoci": "6148 Harlow Blvd.",
             "causeDeath": "shot"
         }
     }, {
@@ -259,7 +259,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.682135, 30.335658]
+            "coordinates": [-81.68248, 30.335708]
         },
         "properties": {
             "idYr": "2015",
@@ -269,14 +269,14 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "1",
-            "incidentLoci": "1500 Beaver St.",
+            "incidentLoci": "1563 Beaver St.",
             "causeDeath": "drowned"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.691771, 30.365852]
+            "coordinates": [-81.6892, 30.366666]
         },
         "properties": {
             "idYr": "2015",
@@ -286,7 +286,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "The Yard, Spring Grove Ave.",
+            "incidentLoci": "The Yard, 4343 Spring Grove Ave.",
             "causeDeath": "shot"
         }
     }, {
@@ -338,7 +338,7 @@
             "gender": "Female",
             "victimAge": "21",
             "incidentLoci": "1117 W 23rd St.",
-            "causeDeath": "stabbed"
+            "causeDeath": "strangled"
         }
     }, {
         "type": "Feature",
@@ -371,7 +371,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "16",
-            "incidentLoci": "Whispering Oaks Apartments, 4800 Atlantic Blvd.",
+            "incidentLoci": "Whispering Oaks Apartments, 4800 Atlantic Blvd., Apt. 264",
             "causeDeath": "shot"
         }
     }, {
@@ -405,7 +405,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "69",
-            "incidentLoci": "3044 Walton St. Apt. 3",
+            "incidentLoci": "2207 Spring Park Rd., Apt. 11",
             "causeDeath": "undetermined"
         }
     }, {
@@ -456,7 +456,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "32",
-            "incidentLoci": "Tyler Street and Windle Street",
+            "incidentLoci": "852 Tyler St.",
             "causeDeath": "shot"
         }
     }, {
@@ -473,7 +473,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "25",
-            "incidentLoci": "Tyler Street and Windle Street",
+            "incidentLoci": "852 Tyler St.",
             "causeDeath": "shot"
         }
     }, {
@@ -514,7 +514,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.710355, 30.389549]
+            "coordinates": [-81.710525, 30.389725]
         },
         "properties": {
             "idYr": "2015",
@@ -524,7 +524,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "64",
-            "incidentLoci": "3800 Ribault Ter.",
+            "incidentLoci": "3821 Ribault Ter.",
             "causeDeath": "shot"
         }
     }, {
@@ -541,7 +541,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "Planters Walk Apartments, 7350 Blanding Blvd.",
+            "incidentLoci": "Planters Walk Apartments, 7350 Blanding Blvd., Apt. 130",
             "causeDeath": "police shooting"
         }
     }, {
@@ -626,7 +626,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "45",
-            "incidentLoci": "W. 15th Street and Silver Street",
+            "incidentLoci": "2513 Silver St.",
             "causeDeath": "shot"
         }
     }, {
@@ -728,7 +728,7 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "426 Chestnut Dr.",
+            "incidentLoci": "425 Chestnut Dr.",
             "causeDeath": "shot"
         }
     }, {
@@ -888,7 +888,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.706252, 30.387225]
+            "coordinates": [-81.70581, 30.386526]
         },
         "properties": {
             "idYr": "2015",
@@ -898,14 +898,14 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "3500 Owen Dr.",
+            "incidentLoci": "3549 Owen Dr.",
             "causeDeath": "shot"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.62873, 30.30294]
+            "coordinates": [-81.626536, 30.300361]
         },
         "properties": {
             "idYr": "2015",
@@ -915,7 +915,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "Mayfair Village, 3539 Beach Blvd.",
+            "incidentLoci": "3605 Drexel St.",
             "causeDeath": "police shooting"
         }
     }, {
@@ -1000,7 +1000,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "63",
-            "incidentLoci": "800 Bert Rd.",
+            "incidentLoci": "851 Bert Rd., Apt. 9",
             "causeDeath": "shot"
         }
     }, {
@@ -1085,7 +1085,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "34",
-            "incidentLoci": "Heron Walk Apartments, 7400 Powers Ave",
+            "incidentLoci": "Heron Walk Apartments, 7400 Powers Ave, Apt. 303",
             "causeDeath": "beaten"
         }
     }, {
@@ -1153,7 +1153,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "52",
-            "incidentLoci": "La Esperanza Apartments, 3800 University Blvd S",
+            "incidentLoci": "La Esperanza Apartments, 3800 University Blvd S, Apt. 20",
             "causeDeath": "shot"
         }
     }, {
@@ -1238,14 +1238,14 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "39",
-            "incidentLoci": "Candlewood Suites, 2700 Jane St.",
+            "incidentLoci": "Candlewood Suites, 2700 Jane St., Apt. 215",
             "causeDeath": "shot"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.739118, 30.299232]
+            "coordinates": [-81.73923, 30.295681]
         },
         "properties": {
             "idYr": "2015",
@@ -1255,7 +1255,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "1300 Lake Shore Blvd",
+            "incidentLoci": "1376 Lake Shore Blvd.",
             "causeDeath": "shot"
         }
     }, {
@@ -1272,7 +1272,7 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "Kings Trail apartments, 3770 Toledo Rd.",
+            "incidentLoci": "Kings Trail apartments, 3770 Toledo Rd., Apt. 45",
             "causeDeath": "shot"
         }
     }, {
@@ -1306,7 +1306,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "35",
-            "incidentLoci": "200 Ponce Blvd.",
+            "incidentLoci": "202 Ponce Blvd.",
             "causeDeath": "shot"
         }
     }, {
@@ -1330,7 +1330,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.637246, 30.349753]
+            "coordinates": [-81.637553, 30.349539]
         },
         "properties": {
             "idYr": "2015",
@@ -1340,7 +1340,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "1300 E 11th St. ",
+            "incidentLoci": "1336 E 11th St.",
             "causeDeath": "shot"
         }
     }, {
@@ -1364,7 +1364,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.70195, 30.333144]
+            "coordinates": [-81.702141, 30.332796]
         },
         "properties": {
             "idYr": "2015",
@@ -1374,14 +1374,14 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "2300 Broadway Ave.",
+            "incidentLoci": "2316 Broadway Ave.",
             "causeDeath": "shot"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.70195, 30.333144]
+            "coordinates": [-81.702141, 30.332796]
         },
         "properties": {
             "idYr": "2015",
@@ -1391,7 +1391,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2300 Broadway Ave.",
+            "incidentLoci": "2316 Broadway Ave.",
             "causeDeath": "shot"
         }
     }, {
@@ -1578,7 +1578,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "2",
-            "incidentLoci": "Hollybrook Homes Apartments, 104 King St.",
+            "incidentLoci": "Hollybrook Homes Apartments, 104 King St., Apt. 65",
             "causeDeath": "beaten"
         }
     }, {
@@ -1646,7 +1646,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "54",
-            "incidentLoci": "16th and Market streets",
+            "incidentLoci": "2604 Market St. N",
             "causeDeath": "shot"
         }
     }, {
@@ -1714,7 +1714,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "5300 Astral St.",
+            "incidentLoci": "5350 Astral St.",
             "causeDeath": "shot"
         }
     }, {
@@ -1731,7 +1731,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "2500 D St.",
+            "incidentLoci": "2552 D St.",
             "causeDeath": "shot"
         }
     }, {
@@ -1748,7 +1748,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "1200 Odessa St.",
+            "incidentLoci": "1204 Odessa St.",
             "causeDeath": "shot"
         }
     }, {
