@@ -68,5 +68,22 @@
             "incidentLoci": "Ortega Pines Apartments, 4800 Ortega Farms Blvd.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.655405, 30.377114]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "5",
+            "reportDate": "1/14/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "Unreported",
+            "incidentLoci": "203 W. 48th St.",
+            "causeDeath": "shot"
+        }
     }]
 }
