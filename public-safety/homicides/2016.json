@@ -21,7 +21,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.676569, 30.346498]
+            "coordinates": [-81.676238, 30.346685]
         },
         "properties": {
             "idYr": "2016",
@@ -31,24 +31,24 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "70",
-            "incidentLoci": "1330 McConihe St.",
+            "incidentLoci": "1317 Mc Conihe St.",
             "causeDeath": "shot"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.574727, 30.316061]
+            "coordinates": [-81.572902, 30.316547]
         },
         "properties": {
             "idYr": "2016",
             "idNo": "3",
             "reportDate": "1/3/2016",
-            "victimName": "Mikel LaShawn Stewart",
+            "victimName": "Mi'kel LaShawn Stewart",
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "7900 Cocoa Ave.",
+            "incidentLoci": "8099 Cocoa Ave.",
             "causeDeath": "shot"
         }
     }, {
@@ -78,11 +78,45 @@
             "idYr": "2016",
             "idNo": "5",
             "reportDate": "1/14/2016",
-            "victimName": "Unidentified",
+            "victimName": "Maurice Cardell Sutton",
             "race": "Black",
             "gender": "Male",
-            "victimAge": "Unreported",
-            "incidentLoci": "203 W. 48th St.",
+            "victimAge": "33",
+            "incidentLoci": "Maxway Shopping Plaza, 203 W. 48th St.",
+            "causeDeath": "shot"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.677319, 30.327872]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "6",
+            "reportDate": "1/16/2016",
+            "victimName": "Shalinda Eugenia Rosier",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "22",
+            "incidentLoci": "1500 Harper St.",
+            "causeDeath": "injured by undetermined means"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.731104, 30.319902]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "7",
+            "reportDate": "1/18/2016",
+            "victimName": "Erick David Smith ",
+            "race": "Black ",
+            "gender": "Male",
+            "victimAge": "29",
+            "incidentLoci": "502 Cassat Ave.",
             "causeDeath": "shot"
         }
     }]
