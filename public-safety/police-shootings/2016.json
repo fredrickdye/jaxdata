@@ -17,5 +17,43 @@
 			"result": "wounded",
 			"status": "armed"
 		}
+	},{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.647456, 30.341205]
+		},
+		"properties": {
+			"jurisdiction": "Federal",
+			"id": "201602",
+			"name": "Talmadge King",
+			"race": "White",
+			"gender": "Male",
+			"age": "47",
+			"reportNo": "NA",
+			"where": "400 E. 5th St.",
+			"date": "1/17/2016",
+			"result": "wounded",
+			"status": "armed (with a knife)"
+		}
+	},{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.691571, 30.32316]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201603",
+			"name": "Unidentified",
+			"race": "Unreported",
+			"gender": "Male",
+			"age": "Unreported",
+			"reportNo": "46692",
+			"where": "2421 Edison Ave.",
+			"date": "1/22/2016",
+			"result": "wounded",
+			"status": "armed"
+		}
 	}
 ]}
