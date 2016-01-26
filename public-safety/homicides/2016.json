@@ -119,5 +119,22 @@
             "incidentLoci": "502 Cassat Ave.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.672537, 30.363708]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "8",
+            "reportDate": "1/26/2016",
+            "victimName": "Malcolm Anthony Davis",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "36",
+            "incidentLoci": "1130 W. 31st St.",
+            "causeDeath": "shot"
+        }
     }]
 }
