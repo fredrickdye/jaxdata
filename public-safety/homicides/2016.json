@@ -136,7 +136,7 @@
             "incidentLoci": "1130 W. 31st St.",
             "causeDeath": "shot"
         }
-    }{
+    }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
