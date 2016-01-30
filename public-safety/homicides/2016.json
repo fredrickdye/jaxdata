@@ -221,5 +221,22 @@
             "incidentLoci": "3500 Henrietta St.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.644139, 30.330252]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "13",
+            "reportDate": "1/29/2016",
+            "victimName": "Aiden Michael McClendon",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "1",
+            "incidentLoci": "700 Spearing St.",
+            "causeDeath": "shot"
+        }
     }]
 }
