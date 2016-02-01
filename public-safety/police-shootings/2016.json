@@ -55,22 +55,5 @@
 			"result": "wounded",
 			"status": "unarmed"
 		}
-	}, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.645001, 30.383035]
-        },
-        "properties": {
-            "idYr": "2016",
-            "idNo": "14",
-            "reportDate": "1/30/2016",
-            "victimName": "Melvin Wright",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "60",
-            "incidentLoci": "Bloxham and Wakefield avenues",
-            "causeDeath": "shot"
-        }
-    }
+	}
 ]}
