@@ -117,7 +117,7 @@
             "gender": "Female",
             "victimAge": "22",
             "incidentLoci": "1500 Harper St.",
-            "causeDeath": "injured by undetermined means"
+            "causeDeath": "shot"
         }
     }, {
         "type": "Feature",
@@ -157,7 +157,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.702779, 30.336978]
+            "coordinates": [-81.702579, 30.336778]
         },
         "properties": {
             "idYr": "2016",
