@@ -157,7 +157,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.702579, 30.336778]
+            "coordinates": [-81.702579, 30.336978]
         },
         "properties": {
             "idYr": "2016",
