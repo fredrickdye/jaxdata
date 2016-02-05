@@ -1908,7 +1908,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [0, 0]
+            "coordinates": [-81.708135, 30.353416]
         },
         "properties": {
             "idYr": "2016",
