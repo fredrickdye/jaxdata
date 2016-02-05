@@ -1904,5 +1904,22 @@
             "incidentLoci": "4603 Portsmouth Ave.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [0, 0]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "113",
+            "reportDate": "12/25/2016",
+            "victimName": "Matthew Max Jones",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "22",
+            "incidentLoci": "2600 Old Kings Rd.",
+            "causeDeath": "unreported"
+        }
     }]
 }
