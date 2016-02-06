@@ -16,7 +16,8 @@
             "victimAge": "23",
             "incidentLoci": "Silver Springs Apartments, 3737 S. St. Johns Bluff Rd.",
             "causeDeath": "shot",
-            "reportNumber": "000286"
+            "reportNumber": "0000286",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -34,7 +35,8 @@
             "victimAge": "19",
             "incidentLoci": "1000 Franklin St. at East First Street",
             "causeDeath": "shot",
-            "reportNumber": "22844"
+            "reportNumber": "0022844",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -51,8 +53,9 @@
             "gender": "Female",
             "victimAge": "26",
             "incidentLoci": "8378 Pineverde Lane",
-            "causeDeath": "Undetermined",
-            "reportNumber": "30515"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0030515",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -70,7 +73,8 @@
             "victimAge": "34",
             "incidentLoci": "1963 W. 17th St.",
             "causeDeath": "shot",
-            "reportNumber": "49012"
+            "reportNumber": "0049012",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -88,7 +92,8 @@
             "victimAge": "31",
             "incidentLoci": "Cleveland Arms Apartments, 5020 Cleveland Rd.",
             "causeDeath": "shot",
-            "reportNumber": "52870"
+            "reportNumber": "0052870",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -106,7 +111,8 @@
             "victimAge": "25",
             "incidentLoci": "3600 Charles St.",
             "causeDeath": "shot",
-            "reportNumber": "83643"
+            "reportNumber": "0083643",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -123,8 +129,9 @@
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "3160 Dignan St.",
-            "causeDeath": "Undetermined",
-            "reportNumber": "88050"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0088050",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -142,7 +149,8 @@
             "victimAge": "22",
             "incidentLoci": "Porstmouth Ave. and Fitzwalter Rd.",
             "causeDeath": "shot by police",
-            "reportNumber": "103022"
+            "reportNumber": "0103022",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -160,7 +168,8 @@
             "victimAge": "25",
             "incidentLoci": "Interstate 95 and Martin Luther King Jr. Parkway",
             "causeDeath": "shot by police",
-            "reportNumber": "103661"
+            "reportNumber": "0103661",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -178,7 +187,8 @@
             "victimAge": "26",
             "incidentLoci": "Club Aqua, 11000 Beach Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "107637"
+            "reportNumber": "0107637",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -196,7 +206,8 @@
             "victimAge": "24",
             "incidentLoci": "Plush, 845 University Blvd. N.",
             "causeDeath": "shot by police",
-            "reportNumber": "110619"
+            "reportNumber": "0110619",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -214,7 +225,8 @@
             "victimAge": "16",
             "incidentLoci": "Betty's Tavern, 8943 Lem Turner Rd.",
             "causeDeath": "shot",
-            "reportNumber": "CCR134526"
+            "reportNumber": "0134526",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -232,43 +244,8 @@
             "victimAge": "45",
             "incidentLoci": "Deer Pointe Trailer Park, 9381 103rd St.",
             "causeDeath": "shot",
-            "reportNumber": "154948"
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.60088, 30.357982]
-        },
-        "properties": {
-            "idYr": "2009",
-            "idNo": "14",
-            "reportDate": "3/6/2009",
-            "victimName": "Darrell L. Stringfield",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "39",
-            "incidentLoci": "3239 Justina Road",
-            "causeDeath": "shot",
-            "reportNumber": "08-995710"
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.723213, 30.408539]
-        },
-        "properties": {
-            "idYr": "2009",
-            "idNo": "15",
-            "reportDate": "3/6/2009",
-            "victimName": "Sheldon Bryant",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "48",
-            "incidentLoci": "9339 Norfolk Blvd.",
-            "causeDeath": "beaten",
-            "reportNumber": "08-448641"
+            "reportNumber": "0154948",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -278,7 +255,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "16",
+            "idNo": "14",
             "reportDate": "3/11/2009",
             "victimName": "Robert L Kearney Jr.",
             "race": "Black",
@@ -286,25 +263,8 @@
             "victimAge": "23",
             "incidentLoci": "Preserve at Cedar River apartments, 4301 Confederate Point Rd.",
             "causeDeath": "shot",
-            "reportNumber": "205957"
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.436639, 30.278527]
-        },
-        "properties": {
-            "idYr": "2009",
-            "idNo": "17",
-            "reportDate": "3/12/2009",
-            "victimName": "Kyla Joy Hall",
-            "race": "Black",
-            "gender": "Female",
-            "victimAge": "1",
-            "incidentLoci": "Coquina Bay Apartments, 3709 S. San Pablo Rd.",
-            "causeDeath": "beaten",
-            "reportNumber": "1027864"
+            "reportNumber": "0205957",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -314,7 +274,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "18",
+            "idNo": "15",
             "reportDate": "3/14/2009",
             "victimName": "Carolyn Denise McKinney",
             "race": "Black",
@@ -322,7 +282,8 @@
             "victimAge": "37",
             "incidentLoci": "Hilltop Village apartments, 1646 W. 45th St.",
             "causeDeath": "shot",
-            "reportNumber": "214081"
+            "reportNumber": "0214081",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -332,7 +293,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "19",
+            "idNo": "16",
             "reportDate": "3/17/2009",
             "victimName": "Kendall L. Williams",
             "race": "Black",
@@ -340,7 +301,8 @@
             "victimAge": "21",
             "incidentLoci": "Lake Park Colonial Apartments, 1865 Edgewood Ave. W.",
             "causeDeath": "shot",
-            "reportNumber": "224000"
+            "reportNumber": "0224000",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -350,7 +312,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "20",
+            "idNo": "17",
             "reportDate": "3/18/2009",
             "victimName": "Tracy Lee Lewis",
             "race": "White",
@@ -358,7 +320,8 @@
             "victimAge": "41",
             "incidentLoci": "BP gas station, 3037 Philips Highway",
             "causeDeath": "shot",
-            "reportNumber": "227345"
+            "reportNumber": "0227345",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -368,7 +331,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "21",
+            "idNo": "18",
             "reportDate": "3/19/2009",
             "victimName": "Devaughn Durham",
             "race": "Black",
@@ -376,7 +339,8 @@
             "victimAge": "22",
             "incidentLoci": "1740 Whitner St.",
             "causeDeath": "shot",
-            "reportNumber": "229997"
+            "reportNumber": "0229997",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -386,7 +350,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "22",
+            "idNo": "19",
             "reportDate": "3/20/2009",
             "victimName": "Mario Wynn",
             "race": "Black",
@@ -394,7 +358,8 @@
             "victimAge": "27",
             "incidentLoci": "University Plaza Apartments, 719 Venus Mars Ct.",
             "causeDeath": "shot",
-            "reportNumber": "233662"
+            "reportNumber": "0233662",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -404,15 +369,16 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "23",
+            "idNo": "20",
             "reportDate": "3/22/2009",
             "victimName": "Marcus Cole",
             "race": "Black",
             "gender": "Male",
             "victimAge": "0.25",
             "incidentLoci": "3333 Valley Drive",
-            "causeDeath": "beaten",
-            "reportNumber": "238869"
+            "causeDeath": "abused",
+            "reportNumber": "0238869",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -422,7 +388,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "24",
+            "idNo": "21",
             "reportDate": "3/23/2009",
             "victimName": "Jacob M. King",
             "race": "Black",
@@ -430,7 +396,8 @@
             "victimAge": "21",
             "incidentLoci": "8018 Paul Jones Drive",
             "causeDeath": "shot",
-            "reportNumber": "241077"
+            "reportNumber": "0241077",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -440,7 +407,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "25",
+            "idNo": "22",
             "reportDate": "3/30/2009",
             "victimName": "Marc Brian Schreibman",
             "race": "White",
@@ -448,7 +415,8 @@
             "victimAge": "49",
             "incidentLoci": "1717 E. Beaver St.",
             "causeDeath": "beaten",
-            "reportNumber": "260638"
+            "reportNumber": "0260638",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -458,7 +426,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "26",
+            "idNo": "23",
             "reportDate": "4/3/2009",
             "victimName": "Jose Santos Guzman",
             "race": "Hispanic",
@@ -466,7 +434,8 @@
             "victimAge": "34",
             "incidentLoci": "Lighthouse Bay apartments, 8090 Atlantic Bvld.",
             "causeDeath": "shot",
-            "reportNumber": "275164"
+            "reportNumber": "0275164",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -476,7 +445,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "27",
+            "idNo": "24",
             "reportDate": "4/8/2009",
             "victimName": "Edwin Alberto Velez-Garay",
             "race": "White",
@@ -484,7 +453,8 @@
             "victimAge": "36",
             "incidentLoci": "3643 Post St.",
             "causeDeath": "stabbed",
-            "reportNumber": "289888"
+            "reportNumber": "0289888",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -494,7 +464,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "28",
+            "idNo": "25",
             "reportDate": "4/10/2009",
             "victimName": "James L. Ellis",
             "race": "Black",
@@ -502,7 +472,8 @@
             "victimAge": "44",
             "incidentLoci": "600 E. Union St.",
             "causeDeath": "shot",
-            "reportNumber": "296536"
+            "reportNumber": "0296536",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -512,7 +483,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "29",
+            "idNo": "26",
             "reportDate": "4/22/2009",
             "victimName": "Bryan James Clemons",
             "race": "Black",
@@ -520,7 +491,8 @@
             "victimAge": "23",
             "incidentLoci": "2229 W. 13th St.",
             "causeDeath": "shot",
-            "reportNumber": "331723"
+            "reportNumber": "0331723",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -530,7 +502,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "30",
+            "idNo": "27",
             "reportDate": "4/25/2009",
             "victimName": "Dominique Andrew Waters",
             "race": "Black",
@@ -538,7 +510,8 @@
             "victimAge": "21",
             "incidentLoci": "200 Bronson St.",
             "causeDeath": "shot",
-            "reportNumber": "341876"
+            "reportNumber": "0341876",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -548,7 +521,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "31",
+            "idNo": "28",
             "reportDate": "5/5/2009",
             "victimName": "Emily Scott Cook",
             "race": "White",
@@ -556,7 +529,8 @@
             "victimAge": "1",
             "incidentLoci": "Mission Pointe Apartments, 12450 Biscayne Blvd.",
             "causeDeath": "drowned",
-            "reportNumber": "372223"
+            "reportNumber": "0372223",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -566,7 +540,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "32",
+            "idNo": "29",
             "reportDate": "5/9/2009",
             "victimName": "Ricardo A. Higgins",
             "race": "Black",
@@ -574,7 +548,8 @@
             "victimAge": "39",
             "incidentLoci": "Hilltop Village apartments, 1646 W. 45th St.",
             "causeDeath": "shot",
-            "reportNumber": "384733"
+            "reportNumber": "0384733",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -584,7 +559,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "33",
+            "idNo": "30",
             "reportDate": "5/10/2009",
             "victimName": "Freddie Lee Jones",
             "race": "Black",
@@ -592,7 +567,8 @@
             "victimAge": "27",
             "incidentLoci": "Royal Terrace Mens Club, 5668 Avenue B.",
             "causeDeath": "shot",
-            "reportNumber": "386255"
+            "reportNumber": "0386255",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -602,7 +578,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "34",
+            "idNo": "31",
             "reportDate": "5/13/2009",
             "victimName": "Roderick Antonio Barnett",
             "race": "Black",
@@ -610,7 +586,8 @@
             "victimAge": "26",
             "incidentLoci": "Hilltop Village apartments, 1646 W. 45th St.",
             "causeDeath": "shot",
-            "reportNumber": "395507"
+            "reportNumber": "0395507",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -620,7 +597,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "35",
+            "idNo": "32",
             "reportDate": "5/13/2009",
             "victimName": "Michael R. Brooks",
             "race": "Black",
@@ -628,7 +605,8 @@
             "victimAge": "29",
             "incidentLoci": "Saddle Creek apartments, 9455 103rd St.",
             "causeDeath": "shot",
-            "reportNumber": "395975"
+            "reportNumber": "0395975",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -638,7 +616,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "36",
+            "idNo": "33",
             "reportDate": "5/15/2009",
             "victimName": "Gregg Anthony Muller",
             "race": "Black",
@@ -646,7 +624,8 @@
             "victimAge": "36",
             "incidentLoci": "E. 21st St. and Franklin St.",
             "causeDeath": "shot",
-            "reportNumber": "403846"
+            "reportNumber": "0403846",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -656,7 +635,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "37",
+            "idNo": "34",
             "reportDate": "5/21/2009",
             "victimName": "Henry Jamal Duhart",
             "race": "Black",
@@ -664,7 +643,8 @@
             "victimAge": "20",
             "incidentLoci": "Eureka Garden, 1214 Labelle St.",
             "causeDeath": "shot",
-            "reportNumber": "423034"
+            "reportNumber": "0423034",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -674,7 +654,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "38",
+            "idNo": "35",
             "reportDate": "5/25/2009",
             "victimName": "Hagos Admasu Gebreegziabher",
             "race": "Black",
@@ -682,7 +662,8 @@
             "victimAge": "41",
             "incidentLoci": "Family Food Store, 2172 W. 13th St.",
             "causeDeath": "shot",
-            "reportNumber": "435154"
+            "reportNumber": "0435154",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -692,7 +673,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "39",
+            "idNo": "36",
             "reportDate": "5/26/2009",
             "victimName": "Brian Martonio Lewis",
             "race": "Black",
@@ -700,7 +681,8 @@
             "victimAge": "21",
             "incidentLoci": "Kendall Court Apartments, 10535 Lem Turner Rd.",
             "causeDeath": "shot",
-            "reportNumber": "435654"
+            "reportNumber": "0435654",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -710,7 +692,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "40",
+            "idNo": "37",
             "reportDate": "5/27/2009",
             "victimName": "Timonthy Weatherington",
             "race": "Black",
@@ -718,7 +700,8 @@
             "victimAge": "37",
             "incidentLoci": "2644 W. 25th St.",
             "causeDeath": "shot",
-            "reportNumber": "439462"
+            "reportNumber": "0439462",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -728,7 +711,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "41",
+            "idNo": "38",
             "reportDate": "6/2/2009",
             "victimName": "Dominic Levon Davis",
             "race": "Black",
@@ -736,7 +719,8 @@
             "victimAge": "29",
             "incidentLoci": "3900 Boulevard",
             "causeDeath": "shot by police",
-            "reportNumber": "458790"
+            "reportNumber": "0458790",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -746,7 +730,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "42",
+            "idNo": "39",
             "reportDate": "6/6/2009",
             "victimName": "Tiffany Nicole Williams",
             "race": "Black",
@@ -754,7 +738,8 @@
             "victimAge": "24",
             "incidentLoci": "Stonewood Apartments, 8300 S. Old Kings Rd.",
             "causeDeath": "strangled",
-            "reportNumber": "472376"
+            "reportNumber": "0472376",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -764,7 +749,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "43",
+            "idNo": "40",
             "reportDate": "6/7/2009",
             "victimName": "Roberto Donald Barragan IV",
             "race": "Black",
@@ -772,7 +757,8 @@
             "victimAge": "21",
             "incidentLoci": "Days Inn, 510 S. Lane Ave.",
             "causeDeath": "shot",
-            "reportNumber": "474170"
+            "reportNumber": "0474170",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -782,7 +768,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "44",
+            "idNo": "41",
             "reportDate": "6/13/2009",
             "victimName": "Gina S. Mangram",
             "race": "Black",
@@ -790,7 +776,8 @@
             "victimAge": "20",
             "incidentLoci": "Savannah Oaks apartments, 6017 Roosevelt Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "493498"
+            "reportNumber": "0493498",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -800,7 +787,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "45",
+            "idNo": "42",
             "reportDate": "6/14/2009",
             "victimName": "Karen Wood",
             "race": "White",
@@ -808,7 +795,8 @@
             "victimAge": "28",
             "incidentLoci": "2743 Phyllis St.",
             "causeDeath": "shot",
-            "reportNumber": "496407"
+            "reportNumber": "0496407",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -818,7 +806,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "46",
+            "idNo": "43",
             "reportDate": "6/15/2009",
             "victimName": "Kiko Battle",
             "race": "Black",
@@ -826,7 +814,8 @@
             "victimAge": "24",
             "incidentLoci": "18th St. and Laura St.",
             "causeDeath": "shot by police",
-            "reportNumber": "500379"
+            "reportNumber": "0500379",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -836,7 +825,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "47",
+            "idNo": "44",
             "reportDate": "6/18/2009",
             "victimName": "Juanese Miller",
             "race": "Black",
@@ -844,7 +833,27 @@
             "victimAge": "22",
             "incidentLoci": "Wendy's, 3625 S. St. Johns Bluff Rd.",
             "causeDeath": "shot",
-            "reportNumber": "508970"
+            "reportNumber": "0508970",
+            "urls": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.78488, 30.235465]
+        },
+        "properties": {
+            "idYr": "2010",
+            "idNo": "45",
+            "reportDate": "6/24/2009",
+            "victimName": "Bernard Renard Davis Jr.",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "1",
+            "incidentLoci": "8126 Chaucer Court",
+            "causeDeath": "abused",
+            "reportNumber": "0526516",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -854,7 +863,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "48",
+            "idNo": "46",
             "reportDate": "7/3/2009",
             "victimName": "Robert Jon Montigny",
             "race": "White",
@@ -862,7 +871,8 @@
             "victimAge": "27",
             "incidentLoci": "1621 Hubbard St.",
             "causeDeath": "strangled",
-            "reportNumber": "552020"
+            "reportNumber": "0552020",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -872,7 +882,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "49",
+            "idNo": "47",
             "reportDate": "7/8/2009",
             "victimName": "Tiffany Sue Cecconi",
             "race": "White",
@@ -880,7 +890,8 @@
             "victimAge": "18",
             "incidentLoci": "The Cove subdivision, 4600 Royal Port Dr.",
             "causeDeath": "drowned",
-            "reportNumber": "5679527"
+            "reportNumber": "5679527",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -890,7 +901,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "50",
+            "idNo": "48",
             "reportDate": "7/8/2009",
             "victimName": "Kaylani Cecconi",
             "race": "White",
@@ -898,7 +909,8 @@
             "victimAge": "1",
             "incidentLoci": "The Cove subdivision, 4600 Royal Port Dr.",
             "causeDeath": "drowned",
-            "reportNumber": "567952"
+            "reportNumber": "0567952",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -908,7 +920,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "51",
+            "idNo": "49",
             "reportDate": "7/9/2009",
             "victimName": "Kelly Rishard Hill",
             "race": "Black",
@@ -916,7 +928,8 @@
             "victimAge": "23",
             "incidentLoci": "832 Linda Dr.",
             "causeDeath": "shot",
-            "reportNumber": "571953"
+            "reportNumber": "0571953",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -926,7 +939,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "52",
+            "idNo": "50",
             "reportDate": "7/16/2009",
             "victimName": "Dominique Nichole Brown",
             "race": "Black",
@@ -934,7 +947,8 @@
             "victimAge": "17",
             "incidentLoci": "New Kings Rd. and Edgewood Ave. W.",
             "causeDeath": "shot",
-            "reportNumber": "592017"
+            "reportNumber": "0592017",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -944,7 +958,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "53",
+            "idNo": "51",
             "reportDate": "7/18/2009",
             "victimName": "Julian C. Hall",
             "race": "Black",
@@ -952,7 +966,8 @@
             "victimAge": "19",
             "incidentLoci": "5321 Golfbrook Dr.",
             "causeDeath": "shot",
-            "reportNumber": "none"
+            "reportNumber": "0000000",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -962,7 +977,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "54",
+            "idNo": "52",
             "reportDate": "7/23/2009",
             "victimName": "Fred Rye Harris",
             "race": "White",
@@ -970,7 +985,8 @@
             "victimAge": "60",
             "incidentLoci": "Waffle House, 580 Busch Dr.",
             "causeDeath": "beaten",
-            "reportNumber": "610558"
+            "reportNumber": "0610558",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -980,7 +996,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "55",
+            "idNo": "53",
             "reportDate": "7/24/2009",
             "victimName": "Vincent Leonard Boswell",
             "race": "Black",
@@ -988,7 +1004,8 @@
             "victimAge": "26",
             "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "614682"
+            "reportNumber": "0614682",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -998,7 +1015,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "56",
+            "idNo": "54",
             "reportDate": "7/26/2009",
             "victimName": "Lola Edenfield Faulk",
             "race": "White",
@@ -1006,7 +1023,8 @@
             "victimAge": "70",
             "incidentLoci": "16050 Shellcracker Road",
             "causeDeath": "shot",
-            "reportNumber": "619562"
+            "reportNumber": "0619562",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1016,7 +1034,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "57",
+            "idNo": "55",
             "reportDate": "7/26/2009",
             "victimName": "Hari Adhikari",
             "race": "White",
@@ -1024,7 +1042,8 @@
             "victimAge": "22",
             "incidentLoci": "Stonemont Village Apartments, 2930 Stonemont St.",
             "causeDeath": "shot",
-            "reportNumber": "621749"
+            "reportNumber": "0621749",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1034,7 +1053,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "58",
+            "idNo": "56",
             "reportDate": "8/1/2009",
             "victimName": "Trina Joseph",
             "race": "Black",
@@ -1042,7 +1061,8 @@
             "victimAge": "38",
             "incidentLoci": "Silver Springs Apartments, 3737 S. St Johns Bluff Rd.",
             "causeDeath": "stabbed",
-            "reportNumber": "636925"
+            "reportNumber": "0636925",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1052,7 +1072,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "59",
+            "idNo": "57",
             "reportDate": "8/2/2009",
             "victimName": "Mary D. McAllister",
             "race": "Black",
@@ -1060,7 +1080,8 @@
             "victimAge": "54",
             "incidentLoci": "1400 Steele St.",
             "causeDeath": "shot",
-            "reportNumber": "638878"
+            "reportNumber": "0638878",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1070,7 +1091,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "60",
+            "idNo": "58",
             "reportDate": "8/5/2009",
             "victimName": "Keith Curtis Dinkins",
             "race": "Black",
@@ -1078,7 +1099,8 @@
             "victimAge": "23",
             "incidentLoci": "A and E Grocery Store, 2072 Phoenix Ave.",
             "causeDeath": "shot",
-            "reportNumber": "649007"
+            "reportNumber": "0649007",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1088,7 +1110,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "61",
+            "idNo": "59",
             "reportDate": "8/8/2009",
             "victimName": "Kimwa Smith",
             "race": "Black",
@@ -1096,7 +1118,8 @@
             "victimAge": "18",
             "incidentLoci": "1856 W. 10th St.",
             "causeDeath": "shot",
-            "reportNumber": "660266"
+            "reportNumber": "0660266",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1106,7 +1129,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "62",
+            "idNo": "60",
             "reportDate": "8/12/2009",
             "victimName": "Kenneth Leroy Pittman Jr.",
             "race": "Black",
@@ -1114,7 +1137,8 @@
             "victimAge": "21",
             "incidentLoci": "72 Martin Luther King Jr. Dr.",
             "causeDeath": "shot",
-            "reportNumber": "672132"
+            "reportNumber": "0672132",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1124,7 +1148,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "63",
+            "idNo": "61",
             "reportDate": "8/14/2009",
             "victimName": "Willie James Golden",
             "race": "Black",
@@ -1132,7 +1156,8 @@
             "victimAge": "28",
             "incidentLoci": "1937 W. 24th St.",
             "causeDeath": "shot",
-            "reportNumber": "675615"
+            "reportNumber": "0675615",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1142,7 +1167,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "64",
+            "idNo": "62",
             "reportDate": "8/15/2009",
             "victimName": "Willie Clarence Bell",
             "race": "Black",
@@ -1150,7 +1175,8 @@
             "victimAge": "44",
             "incidentLoci": "636 S. McDuff Ave.",
             "causeDeath": "shot",
-            "reportNumber": "680197"
+            "reportNumber": "0680197",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1160,7 +1186,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "65",
+            "idNo": "63",
             "reportDate": "8/21/2009",
             "victimName": "Seda N. McBride",
             "race": "Black",
@@ -1168,7 +1194,8 @@
             "victimAge": "24",
             "incidentLoci": "6900 block of Robert F. Kennedy Circle",
             "causeDeath": "shot",
-            "reportNumber": "697727"
+            "reportNumber": "0697727",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1178,7 +1205,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "66",
+            "idNo": "64",
             "reportDate": "8/22/2009",
             "victimName": "Antonio Devel Kendrick",
             "race": "Black",
@@ -1186,7 +1213,8 @@
             "victimAge": "21",
             "incidentLoci": "La Moya Ave. and Wesconnett Blvd.",
             "causeDeath": "shot by police",
-            "reportNumber": "699764"
+            "reportNumber": "0699764",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1196,7 +1224,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "67",
+            "idNo": "65",
             "reportDate": "8/25/2009",
             "victimName": "John L. Lee",
             "race": "Black",
@@ -1204,7 +1232,8 @@
             "victimAge": "20",
             "incidentLoci": "Shanty Town Pub, 22 W. Sixth St.",
             "causeDeath": "shot",
-            "reportNumber": "708470"
+            "reportNumber": "0708470",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1214,7 +1243,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "68",
+            "idNo": "66",
             "reportDate": "8/26/2009",
             "victimName": "Elkie Jean-Philippe",
             "race": "Black",
@@ -1222,7 +1251,8 @@
             "victimAge": "24",
             "incidentLoci": "The Preserve at Paradise Island apartments, 8787 Southside Blvd.",
             "causeDeath": "stabbed",
-            "reportNumber": "713495"
+            "reportNumber": "0713495",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1232,7 +1262,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "69",
+            "idNo": "67",
             "reportDate": "8/31/2009",
             "victimName": "James Edward Williams",
             "race": "Black",
@@ -1240,7 +1270,8 @@
             "victimAge": "26",
             "incidentLoci": "Royal Estates apartments, 8050 Arlington Expressway",
             "causeDeath": "shot",
-            "reportNumber": "728730"
+            "reportNumber": "0728730",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1250,15 +1281,16 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "70",
+            "idNo": "68",
             "reportDate": "9/2/2009",
             "victimName": "Kevin L. Lewis",
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
             "incidentLoci": "7430 Hogan Rd.",
-            "causeDeath": "Undetermined",
-            "reportNumber": "733815"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0733815",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1268,15 +1300,16 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "71",
+            "idNo": "69",
             "reportDate": "9/2/2009",
             "victimName": "Antonio T. Fullwood",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "7430 Hogan Rd.",
-            "causeDeath": "Undetermined",
-            "reportNumber": "733815"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0733815",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1286,7 +1319,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "72",
+            "idNo": "70",
             "reportDate": "9/14/2009",
             "victimName": "Ngawne Shango Lee",
             "race": "Black",
@@ -1294,7 +1327,8 @@
             "victimAge": "34",
             "incidentLoci": "Cleveland Arms apartments, 5020 Cleveland Rd.",
             "causeDeath": "beaten",
-            "reportNumber": "767218"
+            "reportNumber": "0767218",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1304,7 +1338,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "73",
+            "idNo": "71",
             "reportDate": "9/18/2009",
             "victimName": "Rosalind R. Brown",
             "race": "Black",
@@ -1312,7 +1346,8 @@
             "victimAge": "27",
             "incidentLoci": "5567 Paris Ave.",
             "causeDeath": "shot",
-            "reportNumber": "779607"
+            "reportNumber": "0779607",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1322,7 +1357,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "74",
+            "idNo": "72",
             "reportDate": "9/19/2009",
             "victimName": "Isaac Gideon Siliman",
             "race": "Black",
@@ -1330,7 +1365,8 @@
             "victimAge": "37",
             "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.",
             "causeDeath": "beaten",
-            "reportNumber": "784960"
+            "reportNumber": "0784960",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1340,7 +1376,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "75",
+            "idNo": "73",
             "reportDate": "9/20/2009",
             "victimName": "Christopher Wayne Reynoso",
             "race": "White",
@@ -1348,7 +1384,8 @@
             "victimAge": "31",
             "incidentLoci": "Spinnaker Reach Apartments, 3875 S. San Pablo Rd.",
             "causeDeath": "shot by police",
-            "reportNumber": "785991"
+            "reportNumber": "0785991",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1358,15 +1395,16 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "76",
+            "idNo": "74",
             "reportDate": "9/20/2009",
             "victimName": "Stephen Merchant",
             "race": "Black",
             "gender": "Male",
             "victimAge": "44",
             "incidentLoci": "2819 E. Cherokee Circle",
-            "causeDeath": "Undetermined",
-            "reportNumber": "819784"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0819784",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1376,7 +1414,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "77",
+            "idNo": "75",
             "reportDate": "9/21/2009",
             "victimName": "Terence Lamar Sallins Jr.",
             "race": "Black",
@@ -1384,7 +1422,8 @@
             "victimAge": "23",
             "incidentLoci": "4500 Clyde Drive",
             "causeDeath": "shot",
-            "reportNumber": "789133"
+            "reportNumber": "0789133",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1394,7 +1433,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "78",
+            "idNo": "76",
             "reportDate": "9/21/2009",
             "victimName": "Ma'kiya Shyvonne Upshaw",
             "race": "Black",
@@ -1402,7 +1441,8 @@
             "victimAge": "1",
             "incidentLoci": "Plaza Apartments, 3780 University Club Blvd.",
             "causeDeath": "beaten",
-            "reportNumber": "789553"
+            "reportNumber": "0789553",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1412,7 +1452,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "79",
+            "idNo": "77",
             "reportDate": "9/22/2009",
             "victimName": "Tammy Lynn Platt",
             "race": "White",
@@ -1420,7 +1460,8 @@
             "victimAge": "27",
             "incidentLoci": "1200 W. Beaver St.",
             "causeDeath": "shot",
-            "reportNumber": "791799"
+            "reportNumber": "0791799",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1430,7 +1471,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "80",
+            "idNo": "78",
             "reportDate": "9/24/2009",
             "victimName": "Robert Louis Johnson",
             "race": "Black",
@@ -1438,7 +1479,8 @@
             "victimAge": "44",
             "incidentLoci": "500 Fourth Street",
             "causeDeath": "shot by police",
-            "reportNumber": "798600"
+            "reportNumber": "0798600",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1448,7 +1490,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "81",
+            "idNo": "79",
             "reportDate": "9/24/2009",
             "victimName": "Reginald V. Morgan Jr.",
             "race": "Black",
@@ -1456,7 +1498,8 @@
             "victimAge": "26",
             "incidentLoci": "2500 Division Street",
             "causeDeath": "shot",
-            "reportNumber": "799133"
+            "reportNumber": "0799133",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1466,7 +1509,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "82",
+            "idNo": "80",
             "reportDate": "10/2/2009",
             "victimName": "Antonio Jose Colon-Rivera",
             "race": "White",
@@ -1474,7 +1517,8 @@
             "victimAge": "16",
             "incidentLoci": "Gregory Cove Apartments, 5601 Edenfield Rd.",
             "causeDeath": "shot",
-            "reportNumber": "826222"
+            "reportNumber": "0826222",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1484,7 +1528,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "83",
+            "idNo": "81",
             "reportDate": "10/5/2009",
             "victimName": "Timothy John Pemberton",
             "race": "White",
@@ -1492,7 +1536,8 @@
             "victimAge": "20",
             "incidentLoci": "The District on Kernan apartments, 3601 S. Kernan Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "834840"
+            "reportNumber": "0834840",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1502,7 +1547,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "84",
+            "idNo": "82",
             "reportDate": "10/10/2009",
             "victimName": "Clifford T. Backmann",
             "race": "White",
@@ -1510,7 +1555,8 @@
             "victimAge": "56",
             "incidentLoci": "6960 Bonneval Road",
             "causeDeath": "shot",
-            "reportNumber": "849241"
+            "reportNumber": "0849241",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1520,7 +1566,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "85",
+            "idNo": "83",
             "reportDate": "10/14/2009",
             "victimName": "Gary E. Edwards",
             "race": "Black",
@@ -1528,7 +1574,8 @@
             "victimAge": "42",
             "incidentLoci": "1850 W. 30th St.",
             "causeDeath": "shot",
-            "reportNumber": "861473"
+            "reportNumber": "0861473",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1538,7 +1585,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "86",
+            "idNo": "84",
             "reportDate": "10/14/2009",
             "victimName": "Willie J. Jackson",
             "race": "Black",
@@ -1546,7 +1593,8 @@
             "victimAge": "24",
             "incidentLoci": "7030 N. Main St.",
             "causeDeath": "shot",
-            "reportNumber": "862341"
+            "reportNumber": "0862341",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1556,7 +1604,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "87",
+            "idNo": "85",
             "reportDate": "10/16/2009",
             "victimName": "King \"Mick\" Holzendorf IV",
             "race": "Black",
@@ -1564,7 +1612,8 @@
             "victimAge": "33",
             "incidentLoci": "Brentwood Park apartments, 3181 Flower Garden Ln.",
             "causeDeath": "shot",
-            "reportNumber": "865336"
+            "reportNumber": "0865336",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1574,7 +1623,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "88",
+            "idNo": "86",
             "reportDate": "10/19/2009",
             "victimName": "Reginald Cortez Grant",
             "race": "Black",
@@ -1582,7 +1631,8 @@
             "victimAge": "32",
             "incidentLoci": "5728 Abelia Road",
             "causeDeath": "shot",
-            "reportNumber": "875594"
+            "reportNumber": "0875594",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1592,7 +1642,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "89",
+            "idNo": "87",
             "reportDate": "10/26/2009",
             "victimName": "Adrian Corwin Floyd",
             "race": "Black",
@@ -1600,7 +1650,8 @@
             "victimAge": "19",
             "incidentLoci": "4100 Jillian Drive",
             "causeDeath": "shot",
-            "reportNumber": "897420"
+            "reportNumber": "0897420",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1610,7 +1661,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "90",
+            "idNo": "88",
             "reportDate": "10/28/2009",
             "victimName": "Javon Abdullah Daniels",
             "race": "Black",
@@ -1618,7 +1669,8 @@
             "victimAge": "19",
             "incidentLoci": "1176 W. 22nd St.",
             "causeDeath": "shot",
-            "reportNumber": "903294"
+            "reportNumber": "0903294",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1628,7 +1680,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "91",
+            "idNo": "89",
             "reportDate": "10/29/2009",
             "victimName": "Brandon Jamal Whaley",
             "race": "Black",
@@ -1636,7 +1688,8 @@
             "victimAge": "15",
             "incidentLoci": "3162 W. Second St. Circle",
             "causeDeath": "shot",
-            "reportNumber": "903351"
+            "reportNumber": "0903351",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1646,7 +1699,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "92",
+            "idNo": "90",
             "reportDate": "10/30/2009",
             "victimName": "Donna Ellington Coldwater",
             "race": "White",
@@ -1654,7 +1707,8 @@
             "victimAge": "50",
             "incidentLoci": "2438 Wilmont Ave.",
             "causeDeath": "shot",
-            "reportNumber": "909577"
+            "reportNumber": "0909577",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1664,7 +1718,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "93",
+            "idNo": "91",
             "reportDate": "11/4/2009",
             "victimName": "Hardy Rouse",
             "race": "Black",
@@ -1672,7 +1726,8 @@
             "victimAge": "63",
             "incidentLoci": "3735 Peachtree St.",
             "causeDeath": "shot",
-            "reportNumber": "923097"
+            "reportNumber": "0923097",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1682,7 +1737,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "94",
+            "idNo": "92",
             "reportDate": "11/4/2009",
             "victimName": "William Thomas Edward Hull",
             "race": "White",
@@ -1690,7 +1745,8 @@
             "victimAge": "27",
             "incidentLoci": "3500 E. Eve Drive",
             "causeDeath": "stabbed",
-            "reportNumber": "924564"
+            "reportNumber": "0924564",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1700,7 +1756,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "95",
+            "idNo": "93",
             "reportDate": "11/11/2009",
             "victimName": "Jerome Keith Bell",
             "race": "Black",
@@ -1708,7 +1764,8 @@
             "victimAge": "37",
             "incidentLoci": "Moncrief Liquor club, 5757 Moncrief Rd.",
             "causeDeath": "shot",
-            "reportNumber": "941187"
+            "reportNumber": "0941187",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1718,7 +1775,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "96",
+            "idNo": "94",
             "reportDate": "11/15/2009",
             "victimName": "Jervey Arrmon Crocker",
             "race": "Black",
@@ -1726,25 +1783,8 @@
             "victimAge": "21",
             "incidentLoci": "7074 Red Robin Dr.",
             "causeDeath": "shot",
-            "reportNumber": "954117"
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.650339, 30.383627]
-        },
-        "properties": {
-            "idYr": "2009",
-            "idNo": "97",
-            "reportDate": "11/18/2009",
-            "victimName": "Leslie Crankfield Hatten",
-            "race": "Black",
-            "gender": "Female",
-            "victimAge": "49",
-            "incidentLoci": "7000 N. Main St.",
-            "causeDeath": "beaten",
-            "reportNumber": "05-555875"
+            "reportNumber": "0954117",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1754,7 +1794,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "98",
+            "idNo": "95",
             "reportDate": "11/21/2009",
             "victimName": "Jeremy Ervin Godboldt Jr.",
             "race": "Black",
@@ -1762,7 +1802,8 @@
             "victimAge": "20",
             "incidentLoci": "757 W. State St.",
             "causeDeath": "shot",
-            "reportNumber": "970643"
+            "reportNumber": "0970643",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1772,7 +1813,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "99",
+            "idNo": "96",
             "reportDate": "11/24/2009",
             "victimName": "Cynthia K. Boyd",
             "race": "White",
@@ -1780,7 +1821,8 @@
             "victimAge": "51",
             "incidentLoci": "4750 N. Old Middleburg Road",
             "causeDeath": "shot",
-            "reportNumber": "979531"
+            "reportNumber": "0979531",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1790,7 +1832,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "100",
+            "idNo": "97",
             "reportDate": "12/1/2009",
             "victimName": "Emanuel Porter II",
             "race": "Black",
@@ -1798,7 +1840,8 @@
             "victimAge": "21",
             "incidentLoci": "BP gas station, 3551 University Blvd. N.",
             "causeDeath": "shot",
-            "reportNumber": "994965"
+            "reportNumber": "0994965",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1808,7 +1851,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "101",
+            "idNo": "98",
             "reportDate": "12/4/2009",
             "victimName": "Sarah Davis Hotham",
             "race": "White",
@@ -1816,7 +1859,8 @@
             "victimAge": "57",
             "incidentLoci": "1130 Comanche St.",
             "causeDeath": "shot",
-            "reportNumber": "1005571"
+            "reportNumber": "1005571",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1826,7 +1870,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "102",
+            "idNo": "99",
             "reportDate": "12/9/2009",
             "victimName": "Breon Deontae Nelson",
             "race": "Black",
@@ -1834,7 +1878,8 @@
             "victimAge": "20",
             "incidentLoci": "Roosevelt Gardens apartments, 702 N. Lincoln Court",
             "causeDeath": "shot",
-            "reportNumber": "1017356"
+            "reportNumber": "1017356",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1844,7 +1889,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "103",
+            "idNo": "100",
             "reportDate": "12/12/2009",
             "victimName": "Bobby Rowdel Chattic",
             "race": "Black",
@@ -1852,7 +1897,8 @@
             "victimAge": "48",
             "incidentLoci": "924 Childrens Way",
             "causeDeath": "shot",
-            "reportNumber": "1026838"
+            "reportNumber": "1026838",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1862,7 +1908,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "104",
+            "idNo": "101",
             "reportDate": "12/14/2009",
             "victimName": "Neil Don Southerland",
             "race": "White",
@@ -1870,7 +1916,8 @@
             "victimAge": "30",
             "incidentLoci": "3400 Loretto Road",
             "causeDeath": "shot by police",
-            "reportNumber": "1030038"
+            "reportNumber": "1030038",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1880,7 +1927,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "105",
+            "idNo": "102",
             "reportDate": "12/14/2009",
             "victimName": "Morgan Ashley Vandusen",
             "race": "White",
@@ -1888,7 +1935,8 @@
             "victimAge": "0.75",
             "incidentLoci": "10201 W. Beaver St.",
             "causeDeath": "neglected",
-            "reportNumber": "1030583"
+            "reportNumber": "1030583",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1898,7 +1946,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "106",
+            "idNo": "103",
             "reportDate": "12/16/2009",
             "victimName": "Mary Ann Geoghagan",
             "race": "White",
@@ -1906,7 +1954,8 @@
             "victimAge": "54",
             "incidentLoci": "12784 Del Rio Drive",
             "causeDeath": "shot",
-            "reportNumber": "1036887"
+            "reportNumber": "1036887",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1916,7 +1965,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "107",
+            "idNo": "104",
             "reportDate": "12/16/2009",
             "victimName": "Michael Bradford Lewit",
             "race": "White",
@@ -1924,7 +1973,8 @@
             "victimAge": "36",
             "incidentLoci": "12784 Del Rio Drive",
             "causeDeath": "shot",
-            "reportNumber": "1036887"
+            "reportNumber": "1036887",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1934,7 +1984,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "108",
+            "idNo": "105",
             "reportDate": "12/19/2009",
             "victimName": "Cory Levar Formey",
             "race": "Black",
@@ -1942,7 +1992,8 @@
             "victimAge": "32",
             "incidentLoci": "Chase Ridge Apartments, 8050 103rd St.",
             "causeDeath": "shot",
-            "reportNumber": "1046195"
+            "reportNumber": "1046195",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1952,7 +2003,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "109",
+            "idNo": "106",
             "reportDate": "12/24/2009",
             "victimName": "Renaldo Antunez-Padilla",
             "race": "Hispanic",
@@ -1960,7 +2011,8 @@
             "victimAge": "30",
             "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "1058492"
+            "reportNumber": "1058492",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1970,7 +2022,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "110",
+            "idNo": "107",
             "reportDate": "12/24/2009",
             "victimName": "Mateo H. Perez",
             "race": "Hispanic",
@@ -1978,7 +2030,8 @@
             "victimAge": "26",
             "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "1058492"
+            "reportNumber": "1058492",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1988,7 +2041,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "111",
+            "idNo": "108",
             "reportDate": "12/27/2009",
             "victimName": "Joshua OBrian Robinson",
             "race": "Black",
@@ -1996,7 +2049,8 @@
             "victimAge": "23",
             "incidentLoci": "2311 Cesery Blvd.",
             "causeDeath": "shot",
-            "reportNumber": "1063847"
+            "reportNumber": "1063847",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2006,7 +2060,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "112",
+            "idNo": "109",
             "reportDate": "12/28/2009",
             "victimName": "Terrese Pernell Stevens",
             "race": "Black",
@@ -2014,7 +2068,8 @@
             "victimAge": "38",
             "incidentLoci": "Club Steppin Out, 2709 N. Pearl St.",
             "causeDeath": "shot",
-            "reportNumber": "1067303"
+            "reportNumber": "1067303",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2024,7 +2079,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "113",
+            "idNo": "110",
             "reportDate": "12/29/2009",
             "victimName": "Renie Telzer-Bain",
             "race": "White",
@@ -2032,7 +2087,8 @@
             "victimAge": "82",
             "incidentLoci": "8824 Goodbys Trace Drive",
             "causeDeath": "beaten",
-            "reportNumber": "1069663"
+            "reportNumber": "1069663",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2042,7 +2098,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "114",
+            "idNo": "111",
             "reportDate": "12/30/2009",
             "victimName": "Johnny Lee Jones",
             "race": "Black",
@@ -2050,7 +2106,8 @@
             "victimAge": "27",
             "incidentLoci": "The Commons apartments, 1780 Leon Rd.",
             "causeDeath": "shot",
-            "reportNumber": "1071685"
+            "reportNumber": "1071685",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2060,7 +2117,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "115",
+            "idNo": "112",
             "reportDate": "12/30/2009",
             "victimName": "Darryl Duanne Caldwell",
             "race": "Black",
@@ -2068,7 +2125,8 @@
             "victimAge": "36",
             "incidentLoci": "1601 Dunn Ave.",
             "causeDeath": "shot",
-            "reportNumber": "1072304"
+            "reportNumber": "1072304",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2078,7 +2136,7 @@
         },
         "properties": {
             "idYr": "2009",
-            "idNo": "116",
+            "idNo": "113",
             "reportDate": "12/30/2009",
             "victimName": "Randall ONeill Johnson",
             "race": "Black",
@@ -2086,7 +2144,8 @@
             "victimAge": "22",
             "incidentLoci": "Eureka Garden, 1214 Labelle St.",
             "causeDeath": "shot",
-            "reportNumber": "1072651"
+            "reportNumber": "1072651",
+            "urls": ""
         }
     }]
 }
