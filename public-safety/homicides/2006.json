@@ -14,8 +14,11 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "44",
-            "incidentLoci": "7400 Powers Ave." 
-       }
+            "incidentLoci": "7400 Powers Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -30,24 +33,11 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "7500 Birdies Road" 
-       }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.679816, 30.362443]
-        },
-        "properties": {
-            "idYr": "2006",
-            "idNo": "3",
-            "reportDate": "1/2/2006",
-            "victimName": "Erin Olglesby",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "28",
-            "incidentLoci": "1477 W. 29th St." 
-       }
+            "incidentLoci": "7500 Birdies Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -56,30 +46,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "4",
+            "idNo": "3",
             "reportDate": "1/5/2006",
             "victimName": "Della Railey",
             "race": "White",
             "gender": "Female",
             "victimAge": "59",
-            "incidentLoci": "1000 Willow Cove Ct. W." 
-       }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.606692, 30.265514]
-        },
-        "properties": {
-            "idYr": "2006",
-            "idNo": "5",
-            "reportDate": "1/5/2006",
-            "victimName": "Diann Gaymon",
-            "race": "Black",
-            "gender": "Female",
-            "victimAge": "27",
-            "incidentLoci": "Bowden Corners Shopping Village, 5711 Bowden Rd." 
-       }
+            "incidentLoci": "1000 Willow Cove Ct. W.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -88,14 +65,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "6",
+            "idNo": "4",
             "reportDate": "1/9/2006",
             "victimName": "Charles Booker",
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "3300 Donzi Way West" 
-       }
+            "incidentLoci": "3300 Donzi Way West",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -104,14 +84,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "7",
+            "idNo": "5",
             "reportDate": "1/11/2006",
             "victimName": "Denise Manning",
             "race": "White",
             "gender": "Female",
             "victimAge": "48",
-            "incidentLoci": "1000 W. Sixth St." 
-       }
+            "incidentLoci": "1000 W. Sixth St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -120,14 +103,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "8",
+            "idNo": "6",
             "reportDate": "1/12/2006",
             "victimName": "Stevon Mitchell",
             "race": "Black",
             "gender": "Male",
             "victimAge": "34",
-            "incidentLoci": "810 Golfair Blvd." 
-       }
+            "incidentLoci": "810 Golfair Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -136,14 +122,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "9",
+            "idNo": "7",
             "reportDate": "1/12/2006",
             "victimName": "Trayonis Allen",
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "5345 Spring Grove Road" 
-       }
+            "incidentLoci": "5345 Spring Grove Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -152,14 +141,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "10",
+            "idNo": "8",
             "reportDate": "1/13/2006",
             "victimName": "Marcus Hall",
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "10970 Lem Turner Road" 
-       }
+            "incidentLoci": "10970 Lem Turner Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -168,14 +160,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "11",
+            "idNo": "9",
             "reportDate": "1/9/2006",
             "victimName": "Albert Porter",
             "race": "Black",
             "gender": "Male",
             "victimAge": "60",
-            "incidentLoci": "318 E. Eighth St." 
-       }
+            "incidentLoci": "318 E. Eighth St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -184,14 +179,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "12",
+            "idNo": "10",
             "reportDate": "1/14/2006",
             "victimName": "Gary Williams Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "1403 W. 22nd St." 
-       }
+            "incidentLoci": "1403 W. 22nd St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -200,14 +198,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "13",
+            "idNo": "11",
             "reportDate": "1/17/2006",
             "victimName": "Kevin Drew",
             "race": "White",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "8163 Joffre Drive" 
-       }
+            "incidentLoci": "8163 Joffre Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -216,14 +217,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "14",
+            "idNo": "12",
             "reportDate": "1/22/2006",
             "victimName": "Joe Harrell",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "3021 Silver St." 
-       }
+            "incidentLoci": "3021 Silver St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -232,14 +236,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "15",
+            "idNo": "13",
             "reportDate": "1/25/2006",
             "victimName": "Virginia Bailey",
             "race": "Black",
             "gender": "Female",
             "victimAge": "42",
-            "incidentLoci": "1844 E. 23rd St." 
-       }
+            "incidentLoci": "1844 E. 23rd St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -248,14 +255,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "16",
+            "idNo": "14",
             "reportDate": "1/25/2006",
             "victimName": "Luke Grimes",
             "race": "Black",
             "gender": "Male",
             "victimAge": "44",
-            "incidentLoci": "715 N. Main St." 
-       }
+            "incidentLoci": "715 N. Main St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -264,14 +274,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "17",
+            "idNo": "15",
             "reportDate": "2/1/2006",
             "victimName": "Lloyd Kluttz",
             "race": "White",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "2360 Mills Court" 
-       }
+            "incidentLoci": "2360 Mills Court",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -280,14 +293,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "18",
+            "idNo": "16",
             "reportDate": "1/29/2006",
             "victimName": "Jennifer Miller",
             "race": "Black",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "471 W. 58th St." 
-       }
+            "incidentLoci": "471 W. 58th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -296,14 +312,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "19",
+            "idNo": "17",
             "reportDate": "2/4/2006",
             "victimName": "Jose Malagon Vega",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "3534 Smithfield St." 
-       }
+            "incidentLoci": "3534 Smithfield St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -312,14 +331,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "20",
+            "idNo": "18",
             "reportDate": "2/7/2006",
             "victimName": "Malcom Higginbotham",
             "race": "White",
             "gender": "Male",
             "victimAge": "47",
-            "incidentLoci": "11337 Duval Road" 
-       }
+            "incidentLoci": "11337 Duval Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -328,14 +350,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "21",
+            "idNo": "19",
             "reportDate": "2/8/2006",
             "victimName": "Corinne Derrick",
             "race": "White",
             "gender": "Female",
             "victimAge": "80",
-            "incidentLoci": "1353 Wolfe St." 
-       }
+            "incidentLoci": "1353 Wolfe St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -344,14 +369,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "22",
+            "idNo": "20",
             "reportDate": "2/8/2006",
             "victimName": "Ferronte Hampton",
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "799 Lincoln Court N." 
-       }
+            "incidentLoci": "799 Lincoln Court N.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -360,14 +388,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "23",
+            "idNo": "21",
             "reportDate": "2/10/2006",
             "victimName": "Adrian Smith",
             "race": "Black",
             "gender": "Male",
             "victimAge": "0.33",
-            "incidentLoci": "2867 Ernest St." 
-       }
+            "incidentLoci": "2867 Ernest St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -376,14 +407,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "24",
+            "idNo": "22",
             "reportDate": "2/12/2006",
             "victimName": "Armando Luna",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "30",
-            "incidentLoci": "3534 Smithfield St." 
-       }
+            "incidentLoci": "3534 Smithfield St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -392,14 +426,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "25",
+            "idNo": "23",
             "reportDate": "2/13/2006",
             "victimName": "Jermaine Taylor",
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "3022 Post St." 
-       }
+            "incidentLoci": "3022 Post St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -408,30 +445,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "26",
+            "idNo": "24",
             "reportDate": "2/17/2006",
             "victimName": "Yaquan Daise",
             "race": "Black",
             "gender": "Female",
             "victimAge": "1",
-            "incidentLoci": "1518 W. 16th St." 
-       }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.562438, 30.21511]
-        },
-        "properties": {
-            "idYr": "2006",
-            "idNo": "27",
-            "reportDate": "2/18/2006",
-            "victimName": "Otis Williams III",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "25",
-            "incidentLoci": "9480 Princeton Square Blvd. S." 
-       }
+            "incidentLoci": "1518 W. 16th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -440,14 +464,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "28",
+            "idNo": "25",
             "reportDate": "2/21/2006",
             "victimName": "Ruth Ann Davis",
             "race": "White",
             "gender": "Female",
             "victimAge": "53",
-            "incidentLoci": "2292 Mayport Road" 
-       }
+            "incidentLoci": "2292 Mayport Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -456,14 +483,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "29",
+            "idNo": "26",
             "reportDate": "2/18/2006",
             "victimName": "Jose Lau",
             "race": "Asian",
             "gender": "Male",
             "victimAge": "64",
-            "incidentLoci": "6540 Hugh Court" 
-       }
+            "incidentLoci": "6540 Hugh Court",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -472,14 +502,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "30",
+            "idNo": "27",
             "reportDate": "2/25/2006",
             "victimName": "Taishay Shanks",
             "race": "Black",
             "gender": "Female",
             "victimAge": "5",
-            "incidentLoci": "River Oaks Apartments, 11291 Harts Rd." 
-       }
+            "incidentLoci": "River Oaks Apartments, 11291 Harts Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -488,14 +521,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "31",
+            "idNo": "28",
             "reportDate": "3/1/2006",
             "victimName": "Gato Sheppard",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "104 Breve Drive" 
-       }
+            "incidentLoci": "104 Breve Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -504,14 +540,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "32",
+            "idNo": "29",
             "reportDate": "3/10/2006",
             "victimName": "Sarah Whitlock",
             "race": "White",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "1606 King St." 
-       }
+            "incidentLoci": "1606 King St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -520,14 +559,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "33",
+            "idNo": "30",
             "reportDate": "3/11/2006",
             "victimName": "Jason Johns",
             "race": "White",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "1241 N. Bluehill Drive" 
-       }
+            "incidentLoci": "1241 N. Bluehill Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -536,14 +578,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "34",
+            "idNo": "31",
             "reportDate": "3/15/2006",
             "victimName": "Terrance Johnson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "940 N. Majestic Cypress Drive" 
-       }
+            "incidentLoci": "940 N. Majestic Cypress Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -552,14 +597,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "35",
+            "idNo": "32",
             "reportDate": "3/16/2006",
             "victimName": "William Starks",
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2854 Philips Highway" 
-       }
+            "incidentLoci": "2854 Philips Highway",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -568,14 +616,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "36",
+            "idNo": "33",
             "reportDate": "3/18/2006",
             "victimName": "Demetrius Jones",
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "5000 Portsmouth Ave." 
-       }
+            "incidentLoci": "5000 Portsmouth Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -584,14 +635,36 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "37",
+            "idNo": "34",
             "reportDate": "3/20/2006",
             "victimName": "Shinita Harris",
             "race": "Black",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "Labelle Shoes, 5240 Timuquana Rd." 
-       }
+            "incidentLoci": "Labelle Shoes, 5240 Timuquana Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.823366, 30.239296]
+        },
+        "properties": {
+            "idYr": "2006",
+            "idNo": "35",
+            "reportDate": "3/21/2006",
+            "victimName": "Brandy Bailey",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "30",
+            "incidentLoci": "Connie Jean Road",
+            "causeDeath": "shot",
+            "reportNumber": "0250461",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -600,14 +673,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "38",
+            "idNo": "36",
             "reportDate": "3/13/2006",
             "victimName": "Jamaris Wade",
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "10549 New Kings Road" 
-       }
+            "incidentLoci": "10549 New Kings Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -616,14 +692,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "39",
+            "idNo": "37",
             "reportDate": "3/23/2006",
             "victimName": "Michael Stafford",
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "1000 Franklin St." 
-       }
+            "incidentLoci": "1000 Franklin St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -632,14 +711,55 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "40",
+            "idNo": "38",
             "reportDate": "3/27/2006",
             "victimName": "Karonn Bloodworth",
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "1651 Lindsey Road" 
-       }
+            "incidentLoci": "1651 Lindsey Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.695093, 30.324398]
+        },
+        "properties": {
+            "idYr": "2006",
+            "idNo": "39",
+            "reportDate": "3/28/2006",
+            "victimName": "DeJuan Battle",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "20",
+            "incidentLoci": "400 Broward St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.674913, 30.354064]
+        },
+        "properties": {
+            "idYr": "2006",
+            "idNo": "40",
+            "reportDate": "3/29/2006",
+            "victimName": "Antonio Brown",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "20",
+            "incidentLoci": "2700 Wilcox St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -649,45 +769,16 @@
         "properties": {
             "idYr": "2006",
             "idNo": "41",
-            "reportDate": "3/28/2006",
-            "victimName": "DeJuan Battle",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "20",
-            "incidentLoci": "400 Broward St." 
-       }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.674913, 30.354064]
-        },
-        "properties": {
-            "idYr": "2006",
-            "idNo": "42",
-            "reportDate": "3/29/2006",
-            "victimName": "Antonio Brown",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "20",
-            "incidentLoci": "2700 Wilcox St." 
-       }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.695093, 30.324398]
-        },
-        "properties": {
-            "idYr": "2006",
-            "idNo": "43",
             "reportDate": "3/29/2006",
             "victimName": "Benjamin L. Christopher",
             "race": "Black",
             "gender": "Male",
             "victimAge": "16",
-            "incidentLoci": "400 Broward St." 
-       }
+            "incidentLoci": "400 Broward St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -696,14 +787,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "44",
+            "idNo": "42",
             "reportDate": "3/31/2006",
             "victimName": "Chiquita Meddler",
             "race": "Black",
             "gender": "Female",
             "victimAge": "19",
-            "incidentLoci": "Monarch Beauty Supply, 865 Golfair Blvd." 
-       }
+            "incidentLoci": "Monarch Beauty Supply, 865 Golfair Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -712,14 +806,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "45",
+            "idNo": "43",
             "reportDate": "4/6/2006",
             "victimName": "Violet Roberts",
             "race": "White",
             "gender": "Female",
             "victimAge": "74",
-            "incidentLoci": "6300 Garette Dr." 
-       }
+            "incidentLoci": "6300 Garette Dr.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -728,14 +825,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "46",
+            "idNo": "44",
             "reportDate": "4/6/2006",
             "victimName": "Kerry Lee Robinson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "2200 W. 30th St." 
-       }
+            "incidentLoci": "2200 W. 30th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -744,14 +844,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "47",
+            "idNo": "45",
             "reportDate": "4/10/2006",
             "victimName": "Hubert McMillan",
             "race": "Black",
             "gender": "Male",
             "victimAge": "51",
-            "incidentLoci": "796 Bunker Hill Blvd." 
-       }
+            "incidentLoci": "796 Bunker Hill Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -760,14 +863,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "48",
+            "idNo": "46",
             "reportDate": "4/15/2006",
             "victimName": "Reginald L. Mack",
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "1400 W. 22nd St." 
-       }
+            "incidentLoci": "1400 W. 22nd St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -776,14 +882,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "49",
+            "idNo": "47",
             "reportDate": "4/16/2006",
             "victimName": "Radarius Jackson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "13",
-            "incidentLoci": "Portsmouth Ave. at Devonshire Blvd." 
-       }
+            "incidentLoci": "Portsmouth Ave. at Devonshire Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -792,14 +901,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "50",
+            "idNo": "48",
             "reportDate": "4/20/2006",
             "victimName": "Desiree Christian Barritt",
             "race": "White",
             "gender": "Female",
             "victimAge": "18",
-            "incidentLoci": "2888 San Pablo Road" 
-       }
+            "incidentLoci": "2888 San Pablo Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -808,14 +920,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "51",
+            "idNo": "49",
             "reportDate": "4/21/2006",
             "victimName": "Ykesha Marie Robinson",
             "race": "Black",
             "gender": "Female",
             "victimAge": "24",
-            "incidentLoci": "Heckscher Dr. and Houston Ave." 
-       }
+            "incidentLoci": "Heckscher Dr. and Houston Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -824,14 +939,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "52",
+            "idNo": "50",
             "reportDate": "4/21/2006",
             "victimName": "Frank Maddox",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "7318 Smyrna St." 
-       }
+            "incidentLoci": "7318 Smyrna St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -840,14 +958,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "53",
+            "idNo": "51",
             "reportDate": "4/25/2006",
             "victimName": "Fernando Rafael Hernandez",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "47",
-            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd." 
-       }
+            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -856,14 +977,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "54",
+            "idNo": "52",
             "reportDate": "4/28/2006",
             "victimName": "Edward Hopkins",
             "race": "White",
             "gender": "Male",
             "victimAge": "48",
-            "incidentLoci": "7536 Algood St." 
-       }
+            "incidentLoci": "7536 Algood St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -872,14 +996,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "55",
+            "idNo": "53",
             "reportDate": "4/29/2006",
             "victimName": "Greaorio Cardosa Ortega",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "5800 University Blvd. W." 
-       }
+            "incidentLoci": "5800 University Blvd. W.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -888,14 +1015,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "56",
+            "idNo": "54",
             "reportDate": "4/30/2006",
             "victimName": "Patricia Ann McCollum",
             "race": "White",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "8030 Old Kings Road S., No. 30" 
-       }
+            "incidentLoci": "8030 Old Kings Road S., No. 30",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -904,14 +1034,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "57",
+            "idNo": "55",
             "reportDate": "5/6/2006",
             "victimName": "Jabray Davias Jones",
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "118th St. and Checkmate St." 
-       }
+            "incidentLoci": "118th St. and Checkmate St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -920,14 +1053,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "58",
+            "idNo": "56",
             "reportDate": "5/6/2006",
             "victimName": "Louis Anthony Nix Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "31",
-            "incidentLoci": "1877 E. 24th St." 
-       }
+            "incidentLoci": "1877 E. 24th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -936,14 +1072,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "59",
+            "idNo": "57",
             "reportDate": "5/11/2006",
             "victimName": "Chad David Henderson",
             "race": "White",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "2160 Mayport Road" 
-       }
+            "incidentLoci": "2160 Mayport Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -952,14 +1091,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "60",
+            "idNo": "58",
             "reportDate": "5/13/2006",
             "victimName": "Drevon Ricks",
             "race": "Black",
             "gender": "Male",
             "victimAge": "10",
-            "incidentLoci": "118th St. and Checkmate St." 
-       }
+            "incidentLoci": "118th St. and Checkmate St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -968,14 +1110,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "61",
+            "idNo": "59",
             "reportDate": "5/13/2006",
             "victimName": "Robert Wayne Coates",
             "race": "Black",
             "gender": "Male",
             "victimAge": "48",
-            "incidentLoci": "143 19th St. W." 
-       }
+            "incidentLoci": "143 19th St. W.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -984,14 +1129,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "62",
+            "idNo": "60",
             "reportDate": "5/14/2006",
             "victimName": "Shenice Tian Holmes",
             "race": "Black",
             "gender": "Female",
             "victimAge": "13",
-            "incidentLoci": "Hartswood Apartments, 11501 Harts Road" 
-       }
+            "incidentLoci": "Hartswood Apartments, 11501 Harts Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1000,30 +1148,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "63",
+            "idNo": "61",
             "reportDate": "5/15/2006",
             "victimName": "Randall Griffin",
             "race": "White",
             "gender": "Male",
             "victimAge": "54",
-            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St." 
-       }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.694959, 30.338052]
-        },
-        "properties": {
-            "idYr": "2006",
-            "idNo": "64",
-            "reportDate": "5/29/2006",
-            "victimName": "Ladarius Davis",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "22",
-            "incidentLoci": "2035 Hartridge St." 
-       }
+            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1032,14 +1167,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "65",
+            "idNo": "62",
             "reportDate": "5/18/2006",
             "victimName": "Joseph Allen Lloyd",
             "race": "White",
             "gender": "Male",
             "victimAge": "49",
-            "incidentLoci": "5705 Sue Lane" 
-       }
+            "incidentLoci": "5705 Sue Lane",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1048,14 +1186,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "66",
+            "idNo": "63",
             "reportDate": "5/26/2006",
             "victimName": "Nicholas Vann James",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "5400 Paris Ave." 
-       }
+            "incidentLoci": "5400 Paris Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1064,14 +1205,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "67",
+            "idNo": "64",
             "reportDate": "5/29/2006",
             "victimName": "Desiree Suzette Smith",
             "race": "Black",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "1982 Lambert St." 
-       }
+            "incidentLoci": "1982 Lambert St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1080,14 +1224,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "68",
+            "idNo": "65",
             "reportDate": "5/29/2006",
             "victimName": "Alden McPherson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "1923 W. Ninth St." 
-       }
+            "incidentLoci": "1923 W. Ninth St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1096,14 +1243,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "69",
+            "idNo": "66",
             "reportDate": "6/1/2006",
             "victimName": "Santos M. Mendoza",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "3952 Atlantic Blvd." 
-       }
+            "incidentLoci": "3952 Atlantic Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1112,14 +1262,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "70",
+            "idNo": "67",
             "reportDate": "6/9/2006",
             "victimName": "Sandra Elaine Winningham",
             "race": "White",
             "gender": "Female",
             "victimAge": "48",
-            "incidentLoci": "Trout River Boulevard Trailer Park, 5809 Trout River Blvd." 
-       }
+            "incidentLoci": "Trout River Boulevard Trailer Park, 5809 Trout River Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1128,14 +1281,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "71",
+            "idNo": "68",
             "reportDate": "6/12/2006",
             "victimName": "Anthony Frazier",
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "2128 Westcott St." 
-       }
+            "incidentLoci": "2128 Westcott St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1144,14 +1300,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "72",
+            "idNo": "69",
             "reportDate": "6/14/2006",
             "victimName": "Stanley Earl Webb",
             "race": "Black",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "7851 Paul Revere Drive" 
-       }
+            "incidentLoci": "7851 Paul Revere Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1160,14 +1319,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "73",
+            "idNo": "70",
             "reportDate": "6/15/2006",
             "victimName": "Martaze D. Harris",
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "9527 Regency Square Blvd." 
-       }
+            "incidentLoci": "9527 Regency Square Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1176,14 +1338,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "74",
+            "idNo": "71",
             "reportDate": "6/17/2006",
             "victimName": "Wayne Fuller",
             "race": "Black",
             "gender": "Male",
             "victimAge": "50",
-            "incidentLoci": "500 E. Fifth St." 
-       }
+            "incidentLoci": "500 E. Fifth St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1192,14 +1357,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "75",
+            "idNo": "72",
             "reportDate": "6/17/2006",
             "victimName": "Charlotte Lee Hancock",
             "race": "White",
             "gender": "Female",
             "victimAge": "58",
-            "incidentLoci": "9104 Tyler Ave." 
-       }
+            "incidentLoci": "9104 Tyler Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1208,30 +1376,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "76",
+            "idNo": "73",
             "reportDate": "6/18/2006",
             "victimName": "Shannon D. Wilhite",
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "8859 Old Kings Rd., No. 710" 
-       }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.626085, 30.257891]
-        },
-        "properties": {
-            "idYr": "2006",
-            "idNo": "77",
-            "reportDate": "6/16/2006",
-            "victimName": "Christopher Muncie",
-            "race": "White",
-            "gender": "Male",
-            "victimAge": "37",
-            "incidentLoci": "6211 St. Augustine Rd." 
-       }
+            "incidentLoci": "8859 Old Kings Rd., No. 710",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1240,14 +1395,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "78",
+            "idNo": "74",
             "reportDate": "6/20/2006",
             "victimName": "Wayne Hawkins",
             "race": "White",
             "gender": "Male",
             "victimAge": "46",
-            "incidentLoci": "Hess gas station, 589 S. Lane Ave." 
-       }
+            "incidentLoci": "Hess gas station, 589 S. Lane Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1256,14 +1414,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "79",
+            "idNo": "75",
             "reportDate": "6/21/2006",
             "victimName": "Michael Alan Ankney",
             "race": "White",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "8803 Berry Ave." 
-       }
+            "incidentLoci": "8803 Berry Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1272,14 +1433,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "80",
+            "idNo": "76",
             "reportDate": "6/26/2006",
             "victimName": "Michael Earl Foster",
             "race": "Black",
             "gender": "Male",
             "victimAge": "50",
-            "incidentLoci": "5122 Ricker Road" 
-       }
+            "incidentLoci": "5122 Ricker Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1288,14 +1452,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "81",
+            "idNo": "77",
             "reportDate": "6/27/2006",
             "victimName": "Beverly Jean Shelton",
             "race": "Hispanic",
             "gender": "Female",
             "victimAge": "56",
-            "incidentLoci": "4614 Morley Lane" 
-       }
+            "incidentLoci": "4614 Morley Lane",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1304,14 +1471,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "82",
+            "idNo": "78",
             "reportDate": "6/27/2006",
             "victimName": "Mary S. Hill",
             "race": "White",
             "gender": "Female",
             "victimAge": "45",
-            "incidentLoci": "9011 Fourth Ave." 
-       }
+            "incidentLoci": "9011 Fourth Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1320,14 +1490,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "83",
+            "idNo": "79",
             "reportDate": "6/28/2006",
             "victimName": "Raymond Lavaughn Jones",
             "race": "Black",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "614 E. 63rd St." 
-       }
+            "incidentLoci": "614 E. 63rd St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1336,14 +1509,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "84",
+            "idNo": "80",
             "reportDate": "7/6/2006",
             "victimName": "Kurt Watkins",
             "race": "Black",
             "gender": "Male",
             "victimAge": "54",
-            "incidentLoci": "343 W. 22nd St." 
-       }
+            "incidentLoci": "343 W. 22nd St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1352,14 +1528,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "85",
+            "idNo": "81",
             "reportDate": "7/6/2006",
             "victimName": "Darius Lamar Waters",
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "1400 Lakeshore Blvd." 
-       }
+            "incidentLoci": "1400 Lakeshore Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1368,14 +1547,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "86",
+            "idNo": "82",
             "reportDate": "7/8/2006",
             "victimName": "Ronnie Trey Murphy",
             "race": "Black",
             "gender": "Male",
             "victimAge": "16",
-            "incidentLoci": "1104 Pheasant Drive" 
-       }
+            "incidentLoci": "1104 Pheasant Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1384,14 +1566,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "87",
+            "idNo": "83",
             "reportDate": "7/15/2006",
             "victimName": "Larry McKenzy",
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "Buy-Rite, 2958 Justina Road" 
-       }
+            "incidentLoci": "Buy-Rite, 2958 Justina Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1400,13 +1585,16 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "88",
+            "idNo": "84",
             "reportDate": "7/17/2006",
             "victimName": "Michael Blakeney",
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "9000 Southside Blvd."
+            "incidentLoci": "9000 Southside Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1416,14 +1604,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "89",
+            "idNo": "85",
             "reportDate": "7/22/2006",
             "victimName": "Martha Kirkley",
             "race": "Black",
             "gender": "Female",
             "victimAge": "51",
-            "incidentLoci": "1612 W. 19th St." 
-       }
+            "incidentLoci": "1612 W. 19th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1432,14 +1623,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "90",
+            "idNo": "86",
             "reportDate": "7/23/2006",
             "victimName": "Luis E Flores-Figueroa",
             "race": "Asian",
             "gender": "Male",
             "victimAge": "42",
-            "incidentLoci": "7200 Powers Ave." 
-       }
+            "incidentLoci": "7200 Powers Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1448,14 +1642,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "91",
+            "idNo": "87",
             "reportDate": "7/25/2006",
             "victimName": "Adrian E. Bullard",
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2955 Willow St." 
-       }
+            "incidentLoci": "2955 Willow St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1464,14 +1661,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "92",
+            "idNo": "88",
             "reportDate": "7/26/2006",
             "victimName": "Nickeshea Gray",
             "race": "Black",
             "gender": "Female",
             "victimAge": "28",
-            "incidentLoci": "8000 Marion St." 
-       }
+            "incidentLoci": "8000 Marion St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1480,14 +1680,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "93",
+            "idNo": "89",
             "reportDate": "7/26/2006",
             "victimName": "Hakeen Muhammad",
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "6545 Ramona Blvd., Room 119" 
-       }
+            "incidentLoci": "6545 Ramona Blvd., Room 119",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1496,14 +1699,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "94",
+            "idNo": "90",
             "reportDate": "7/26/2006",
             "victimName": "DreShawna Monique Washington Davis",
             "race": "Black",
             "gender": "Female",
             "victimAge": "8",
-            "incidentLoci": "8720 Third Ave." 
-       }
+            "incidentLoci": "8720 Third Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1512,14 +1718,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "95",
+            "idNo": "91",
             "reportDate": "7/30/2006",
             "victimName": "Tyrone Jamar Williams",
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "750 Barnett St." 
-       }
+            "incidentLoci": "750 Barnett St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1528,14 +1737,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "96",
+            "idNo": "92",
             "reportDate": "7/30/2006",
             "victimName": "Brian Leonard James",
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2821 Moncrief Road W." 
-       }
+            "incidentLoci": "2821 Moncrief Road W.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1544,14 +1756,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "97",
+            "idNo": "93",
             "reportDate": "8/16/2006",
             "victimName": "Melanie Slappey",
             "race": "Black",
             "gender": "Female",
             "victimAge": "35",
-            "incidentLoci": "5959 Fort Caroline Road" 
-       }
+            "incidentLoci": "5959 Fort Caroline Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1560,14 +1775,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "98",
+            "idNo": "94",
             "reportDate": "8/19/2006",
             "victimName": "Gregory C. Johnson Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "6715 Powers Ave." 
-       }
+            "incidentLoci": "6715 Powers Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1576,14 +1794,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "99",
+            "idNo": "95",
             "reportDate": "8/21/2006",
             "victimName": "Solomon Stinson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "8441 Highgate Drive" 
-       }
+            "incidentLoci": "8441 Highgate Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1592,14 +1813,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "100",
+            "idNo": "96",
             "reportDate": "8/21/2006",
             "victimName": "James McCoy",
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "1129 Arco Drive" 
-       }
+            "incidentLoci": "1129 Arco Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1608,14 +1832,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "101",
+            "idNo": "97",
             "reportDate": "8/26/2006",
             "victimName": "Jonathan Wayne See",
             "race": "White",
             "gender": "Male",
             "victimAge": "4",
-            "incidentLoci": "700 Huron Street" 
-       }
+            "incidentLoci": "700 Huron Street",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1624,14 +1851,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "102",
+            "idNo": "98",
             "reportDate": "8/26/2006",
             "victimName": "Phillip Barnhill",
             "race": "White",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "5516 Brent St." 
-       }
+            "incidentLoci": "5516 Brent St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1640,14 +1870,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "103",
+            "idNo": "99",
             "reportDate": "8/30/2006",
             "victimName": "Daniel Leon Wilson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "702 N. Lincoln Court" 
-       }
+            "incidentLoci": "702 N. Lincoln Court",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1656,14 +1889,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "104",
+            "idNo": "100",
             "reportDate": "9/7/2006",
             "victimName": "Deshawn Butler",
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "700 West Fourth Street" 
-       }
+            "incidentLoci": "700 West Fourth Street",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1672,14 +1908,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "105",
+            "idNo": "101",
             "reportDate": "9/14/2006",
             "victimName": "Reggie Lamar Edge",
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "58 Dudley St., Atlantic Beach, FL" 
-       }
+            "incidentLoci": "58 Dudley St., Atlantic Beach, FL",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1688,14 +1927,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "106",
+            "idNo": "102",
             "reportDate": "9/14/2006",
             "victimName": "Wallace Lee Copelin",
             "race": "White",
             "gender": "Male",
             "victimAge": "81",
-            "incidentLoci": "Interstate 10 and Chaffee Rd." 
-       }
+            "incidentLoci": "Interstate 10 and Chaffee Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1704,14 +1946,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "107",
+            "idNo": "103",
             "reportDate": "9/15/2006",
             "victimName": "Hernandez Williams",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "3200 Fitzgerald Street" 
-       }
+            "incidentLoci": "3200 Fitzgerald Street",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1720,14 +1965,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "108",
+            "idNo": "104",
             "reportDate": "9/15/2006",
             "victimName": "Roshaun Green",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "Bennett St. and East 15th St." 
-       }
+            "incidentLoci": "Bennett St. and East 15th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1736,14 +1984,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "109",
+            "idNo": "105",
             "reportDate": "9/15/2006",
             "victimName": "Baron Fleming",
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "Clyde Dr. and Darlington Dr." 
-       }
+            "incidentLoci": "Clyde Dr. and Darlington Dr.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1752,14 +2003,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "110",
+            "idNo": "106",
             "reportDate": "9/17/2006",
             "victimName": "Ricardo Frazier",
             "race": "Black",
             "gender": "Male",
             "victimAge": "47",
-            "incidentLoci": "5525 N. Main St." 
-       }
+            "incidentLoci": "5525 N. Main St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1768,14 +2022,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "111",
+            "idNo": "107",
             "reportDate": "9/22/2006",
             "victimName": "Richard Lester Jefferson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "9272 Norfolk Blvd." 
-       }
+            "incidentLoci": "9272 Norfolk Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1784,14 +2041,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "112",
+            "idNo": "108",
             "reportDate": "9/23/2006",
             "victimName": "John Fitzgerald Wilcox",
             "race": "Black",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "7357 Sharbeth Drive" 
-       }
+            "incidentLoci": "7357 Sharbeth Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1800,30 +2060,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "113",
+            "idNo": "109",
             "reportDate": "9/23/2006",
             "victimName": "Elpaso Barrians",
             "race": "Black",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "1437 Evergreen Ave." 
-       }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.633122, 30.329719]
-        },
-        "properties": {
-            "idYr": "2006",
-            "idNo": "114",
-            "reportDate": "9/28/2006",
-            "victimName": "James Johnson",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "21",
-            "incidentLoci": "1700 Wambolt St." 
-       }
+            "incidentLoci": "1437 Evergreen Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1832,14 +2079,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "115",
+            "idNo": "110",
             "reportDate": "10/11/2006",
             "victimName": "Cyrus Antonio Haynes",
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "1587 Kings Road" 
-       }
+            "incidentLoci": "1587 Kings Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1848,14 +2098,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "116",
+            "idNo": "111",
             "reportDate": "10/16/2006",
             "victimName": "Amara Ou",
             "race": "Asian",
             "gender": "Female",
             "victimAge": "2",
-            "incidentLoci": "6305 Devonhurst Drive" 
-       }
+            "incidentLoci": "6305 Devonhurst Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1864,14 +2117,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "117",
+            "idNo": "112",
             "reportDate": "10/18/2006",
             "victimName": "William A. Parker",
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "Cheaters Gentlemens Club, 6347 Philips Highway" 
-       }
+            "incidentLoci": "Cheaters Gentlemens Club, 6347 Philips Highway",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1880,14 +2136,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "118",
+            "idNo": "113",
             "reportDate": "10/29/2006",
             "victimName": "Troy P. Dunbar",
             "race": "Black",
             "gender": "Male",
             "victimAge": "37",
-            "incidentLoci": "4400 Notter Ave." 
-       }
+            "incidentLoci": "4400 Notter Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1896,14 +2155,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "119",
+            "idNo": "114",
             "reportDate": "10/30/2006",
             "victimName": "Michael Jermaine Johnson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St." 
-       }
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1912,14 +2174,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "120",
+            "idNo": "115",
             "reportDate": "11/2/2006",
             "victimName": "James Robert Crockett",
             "race": "Black",
             "gender": "Male",
             "victimAge": "31",
-            "incidentLoci": "1165 Randolph St." 
-       }
+            "incidentLoci": "1165 Randolph St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1928,14 +2193,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "121",
+            "idNo": "116",
             "reportDate": "11/2/2006",
             "victimName": "Rafael Valentin",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "4700 Southside Blvd." 
-       }
+            "incidentLoci": "4700 Southside Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1944,14 +2212,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "122",
+            "idNo": "117",
             "reportDate": "11/6/2006",
             "victimName": "Darryll Anthony Muldrow",
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "2045 Jammes Road" 
-       }
+            "incidentLoci": "2045 Jammes Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1960,14 +2231,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "123",
+            "idNo": "118",
             "reportDate": "11/6/2006",
             "victimName": "Perry Snead Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "7736 Cannon St." 
-       }
+            "incidentLoci": "7736 Cannon St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1976,14 +2250,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "124",
+            "idNo": "119",
             "reportDate": "11/7/2006",
             "victimName": "Nashid Islam",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "Palm Terrace Apartments, 4600 Moncrief Rd." 
-       }
+            "incidentLoci": "Palm Terrace Apartments, 4600 Moncrief Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -1992,14 +2269,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "125",
+            "idNo": "120",
             "reportDate": "11/6/2006",
             "victimName": "Maksim Mikhailovic Yukhimets",
             "race": "White",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "12157 Heckscher Drive" 
-       }
+            "incidentLoci": "12157 Heckscher Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2008,14 +2288,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "126",
+            "idNo": "121",
             "reportDate": "11/14/2006",
             "victimName": "Larry Wyatt Everett",
             "race": "Black",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "8500 N. Collins Ridge Blvd." 
-       }
+            "incidentLoci": "8500 N. Collins Ridge Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2024,14 +2307,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "127",
+            "idNo": "122",
             "reportDate": "11/17/2006",
             "victimName": "Jason Lee Emerson",
             "race": "White",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "Rivers End Apartments, 5520 Collins Road" 
-       }
+            "incidentLoci": "Rivers End Apartments, 5520 Collins Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2040,14 +2326,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "128",
+            "idNo": "123",
             "reportDate": "11/17/2006",
             "victimName": "Michael Shane Crawford",
             "race": "White",
             "gender": "Male",
             "victimAge": "34",
-            "incidentLoci": "Washington Heights Grocery, 4231 W. Moncrief Road" 
-       }
+            "incidentLoci": "Washington Heights Grocery, 4231 W. Moncrief Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2056,14 +2345,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "129",
+            "idNo": "124",
             "reportDate": "11/20/2006",
             "victimName": "Shannon McCants",
             "race": "Black",
             "gender": "Female",
             "victimAge": "37",
-            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St." 
-       }
+            "incidentLoci": "Shands Jacksonville, 655 W. Eighth St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2072,14 +2364,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "130",
+            "idNo": "125",
             "reportDate": "11/28/2006",
             "victimName": "Jose Perez Garcia",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "Mandarin Pines apartments, 4295 Sunbeam Rd., Apt. 703" 
-       }
+            "incidentLoci": "Mandarin Pines apartments, 4295 Sunbeam Rd., Apt. 703",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2088,14 +2383,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "131",
+            "idNo": "126",
             "reportDate": "11/30/2006",
             "victimName": "Catherine Mosier",
             "race": "White",
             "gender": "Female",
             "victimAge": "48",
-            "incidentLoci": "Preserve at Cedar River Apartments, 4301 Confederate Point Rd." 
-       }
+            "incidentLoci": "Preserve at Cedar River Apartments, 4301 Confederate Point Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2104,14 +2402,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "132",
+            "idNo": "127",
             "reportDate": "12/7/2006",
             "victimName": "Johnny Cornelius Miller",
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "3953 Owens Ave." 
-       }
+            "incidentLoci": "3953 Owens Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2120,14 +2421,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "133",
+            "idNo": "128",
             "reportDate": "12/13/2006",
             "victimName": "Gary Steven Blackwell",
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd." 
-       }
+            "incidentLoci": "Lighthouse Bay Apartments, 8090 Atlantic Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2136,14 +2440,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "134",
+            "idNo": "129",
             "reportDate": "12/13/2006",
             "victimName": "Shelly C. Banks IV",
             "race": "Black",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "Willamsburg Commons apartments, 7147 S. Old Kings Rd." 
-       }
+            "incidentLoci": "Willamsburg Commons apartments, 7147 S. Old Kings Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2152,14 +2459,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "135",
+            "idNo": "130",
             "reportDate": "12/20/2006",
             "victimName": "Linda Way",
             "race": "Black",
             "gender": "Female",
             "victimAge": "49",
-            "incidentLoci": "9603 Flechette Ave." 
-       }
+            "incidentLoci": "9603 Flechette Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2168,14 +2478,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "136",
+            "idNo": "131",
             "reportDate": "12/22/2006",
             "victimName": "Tommie Lee Munford",
             "race": "Black",
             "gender": "Male",
             "victimAge": "70",
-            "incidentLoci": "2600 Lowell Ave." 
-       }
+            "incidentLoci": "2600 Lowell Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2184,14 +2497,17 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "137",
+            "idNo": "132",
             "reportDate": "11/16/2006",
             "victimName": "Edward Tyrone Ballard Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "3",
-            "incidentLoci": "4022 W. Oriely Drive" 
-       }
+            "incidentLoci": "4022 W. Oriely Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }, {
         "type": "Feature",
         "geometry": {
@@ -2200,13 +2516,16 @@
         },
         "properties": {
             "idYr": "2006",
-            "idNo": "138",
+            "idNo": "133",
             "reportDate": "12/31/2006",
             "victimName": "Antwain D. Lowry",
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "140 E. 43rd St." 
-       }
+            "incidentLoci": "140 E. 43rd St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
     }]
 }
