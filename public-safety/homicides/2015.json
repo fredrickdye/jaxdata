@@ -15,7 +15,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "Silver Foxx, 3243 W. Beaver St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0021110",
+            "urls": "http://jaxne.ws/14QnBKs"
         }
     }, {
         "type": "Feature",
@@ -32,7 +34,9 @@
             "gender": "Male",
             "victimAge": "61",
             "incidentLoci": "918 Reynolds Ln.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0031218",
+            "urls": "http://jaxne.ws"
         }
     }, {
         "type": "Feature",
@@ -49,7 +53,9 @@
             "gender": "Male",
             "victimAge": "20",
             "incidentLoci": "Reserve At Waters Inlet, 6100 Arlington Expressway, Apt. Q204",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0046771",
+            "urls": "http://jaxne.ws/15yLvuA"
         }
     }, {
         "type": "Feature",
@@ -66,7 +72,9 @@
             "gender": "Female",
             "victimAge": "51",
             "incidentLoci": "13296 Yellow Bluff Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0055191",
+            "urls": "http://jaxne.ws/1JOO4p0"
         }
     }, {
         "type": "Feature",
@@ -83,7 +91,9 @@
             "gender": "Male",
             "victimAge": "72",
             "incidentLoci": "2372 Bitternut Way",
-            "causeDeath": "suffocated"
+            "causeDeath": "suffocated",
+            "reportNumber": "0056759",
+            "urls": "http://jaxne.ws/1DwHuS4"
         }
     }, {
         "type": "Feature",
@@ -100,7 +110,9 @@
             "gender": "Male",
             "victimAge": "75",
             "incidentLoci": "6160 Thistlewood Rd.",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0056287",
+            "urls": "http://jaxne.ws/18kIgI5"
         }
     }, {
         "type": "Feature",
@@ -117,7 +129,9 @@
             "gender": "Female",
             "victimAge": "4",
             "incidentLoci": "Fountains at Deerwood apartments, 7816 Southside Blvd., Apt. 3",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0070176",
+            "urls": "http://jaxne.ws/1EArXV1"
         }
     }, {
         "type": "Feature",
@@ -134,7 +148,9 @@
             "gender": "Male",
             "victimAge": "36",
             "incidentLoci": "Avalon Hills apartments, 7557 Arlington Expressway",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0070586",
+            "urls": "http://jaxne.ws/1EAn2TY"
         }
     }, {
         "type": "Feature",
@@ -151,7 +167,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "5603 Norwood Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0090770",
+            "urls": "http://jaxne.ws/16KdgA7"
         }
     }, {
         "type": "Feature",
@@ -168,7 +186,9 @@
             "gender": "Male",
             "victimAge": "33",
             "incidentLoci": "Discount Coin Laundry, 5552 Soutel Dr.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0100952",
+            "urls": "http://jaxne.ws/19eYrXZ"
         }
     }, {
         "type": "Feature",
@@ -185,7 +205,9 @@
             "gender": "Male",
             "victimAge": "33",
             "incidentLoci": "Barcelona Apartments, 4373 Degail Ln.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0107267",
+            "urls": "http://jaxne.ws/1Fi4NTH"
         }
     }, {
         "type": "Feature",
@@ -202,7 +224,9 @@
             "gender": "Male",
             "victimAge": "18",
             "incidentLoci": "1023 Grunthal St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0108258",
+            "urls": "http://jaxne.ws/1ABMqEZ"
         }
     }, {
         "type": "Feature",
@@ -219,7 +243,9 @@
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "12800 Pritchard Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0123996",
+            "urls": "http://jaxne.ws/1woezRv"
         }
     }, {
         "type": "Feature",
@@ -236,7 +262,9 @@
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "6148 Harlow Blvd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0135405",
+            "urls": "http://jaxne.ws/1AXhD5R"
         }
     }, {
         "type": "Feature",
@@ -253,7 +281,9 @@
             "gender": "Male",
             "victimAge": "2",
             "incidentLoci": "Best USA Inn, 1057 Broward Rd",
-            "causeDeath": "poisoned"
+            "causeDeath": "poisoned",
+            "reportNumber": "0140455",
+            "urls": "http://jaxne.ws"
         }
     }, {
         "type": "Feature",
@@ -270,7 +300,9 @@
             "gender": "Male",
             "victimAge": "1",
             "incidentLoci": "1563 Beaver St.",
-            "causeDeath": "drowned"
+            "causeDeath": "drowned",
+            "reportNumber": "0151584",
+            "urls": "http://jaxne.ws/1JoWEhu"
         }
     }, {
         "type": "Feature",
@@ -287,7 +319,9 @@
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "The Yard, 4343 Spring Grove Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0155253",
+            "urls": "http://jaxne.ws/1Mn5yfd"
         }
     }, {
         "type": "Feature",
@@ -304,7 +338,9 @@
             "gender": "Male",
             "victimAge": "50",
             "incidentLoci": "Eveready Restaurant and Lounge, 8943 Lem Turner Rd.",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0160987",
+            "urls": "http://jaxne.ws/18xO4NP"
         }
     }, {
         "type": "Feature",
@@ -321,7 +357,9 @@
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "1600 Bermuda Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0176709",
+            "urls": "http://jaxne.ws/1Ds6nlu"
         }
     }, {
         "type": "Feature",
@@ -338,7 +376,9 @@
             "gender": "Female",
             "victimAge": "21",
             "incidentLoci": "1117 W 23rd St.",
-            "causeDeath": "strangled"
+            "causeDeath": "strangled",
+            "reportNumber": "0201351",
+            "urls": "http://jaxne.ws/1DmPioi"
         }
     }, {
         "type": "Feature",
@@ -355,7 +395,9 @@
             "gender": "Male",
             "victimAge": "16",
             "incidentLoci": "5707 Castellano Ave.",
-            "causeDeath": "police shooting"
+            "causeDeath": "shot by police",
+            "reportNumber": "0185165",
+            "urls": "http://jaxne.ws/1EGudaV"
         }
     }, {
         "type": "Feature",
@@ -372,7 +414,9 @@
             "gender": "Male",
             "victimAge": "16",
             "incidentLoci": "Whispering Oaks Apartments, 4800 Atlantic Blvd., Apt. 264",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0225577",
+            "urls": "http://jaxne.ws/1MYMnMr"
         }
     }, {
         "type": "Feature",
@@ -389,7 +433,9 @@
             "gender": "Male",
             "victimAge": "31",
             "incidentLoci": "Sunoco, 2990 Rayford St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0243746",
+            "urls": "http://jaxne.ws/1za2gnD"
         }
     }, {
         "type": "Feature",
@@ -406,7 +452,9 @@
             "gender": "Female",
             "victimAge": "69",
             "incidentLoci": "2207 Spring Park Rd., Apt. 11",
-            "causeDeath": "undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0265496",
+            "urls": "http://jaxne.ws/1DEtLql"
         }
     }, {
         "type": "Feature",
@@ -423,7 +471,9 @@
             "gender": "Male",
             "victimAge": "55",
             "incidentLoci": "400 Carmen St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0266894",
+            "urls": "http://jaxne.ws/1EbTA5N"
         }
     }, {
         "type": "Feature",
@@ -440,13 +490,15 @@
             "gender": "Male",
             "victimAge": "27",
             "incidentLoci": "McDonald's, 454 Cassat Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0269575",
+            "urls": "http://jaxne.ws/1Jgu6rj"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.681465, 30.338283]
+            "coordinates": [-81.681544, 30.338116]
         },
         "properties": {
             "idYr": "2015",
@@ -457,13 +509,15 @@
             "gender": "Female",
             "victimAge": "32",
             "incidentLoci": "852 Tyler St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0271925",
+            "urls": "http://jaxne.ws/1En6Qod"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.681465, 30.338283]
+            "coordinates": [-81.681544, 30.338116]
         },
         "properties": {
             "idYr": "2015",
@@ -474,7 +528,9 @@
             "gender": "Female",
             "victimAge": "25",
             "incidentLoci": "852 Tyler St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0271925",
+            "urls": "http://jaxne.ws/1En6Qod"
         }
     }, {
         "type": "Feature",
@@ -491,7 +547,9 @@
             "gender": "Male",
             "victimAge": "18",
             "incidentLoci": "6118 Dawnridge Rd. S",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0277593",
+            "urls": "http://jaxne.ws/1zjTCJ1"
         }
     }, {
         "type": "Feature",
@@ -508,7 +566,9 @@
             "gender": "Female",
             "victimAge": "29",
             "incidentLoci": "2521 Woodland St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0278541",
+            "urls": "http://jaxne.ws/1zyCBee"
         }
     }, {
         "type": "Feature",
@@ -525,7 +585,9 @@
             "gender": "Female",
             "victimAge": "64",
             "incidentLoci": "3821 Ribault Ter.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0288222",
+            "urls": "http://jaxne.ws/1zuM3zd"
         }
     }, {
         "type": "Feature",
@@ -542,7 +604,9 @@
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "Planters Walk Apartments, 7350 Blanding Blvd., Apt. 130",
-            "causeDeath": "police shooting"
+            "causeDeath": "shot by police",
+            "reportNumber": "0317838",
+            "urls": "http://jaxne.ws/1EAmubL"
         }
     }, {
         "type": "Feature",
@@ -559,7 +623,9 @@
             "gender": "Female",
             "victimAge": "56",
             "incidentLoci": "3738 River Hall Dr.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0326150",
+            "urls": "http://jaxne.ws/1JwRb8h"
         }
     }, {
         "type": "Feature",
@@ -576,7 +642,9 @@
             "gender": "Male",
             "victimAge": "17",
             "incidentLoci": "William F Sheffield Regional Park, 3659 New Berlin Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0327375",
+            "urls": "http://jaxne.ws/1EhjAbe"
         }
     }, {
         "type": "Feature",
@@ -593,7 +661,9 @@
             "gender": "Male",
             "victimAge": "27",
             "incidentLoci": "The District on Kernan, 3601 Kernan Blvd S",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0332768",
+            "urls": "http://jaxne.ws/1Ehjrod"
         }
     }, {
         "type": "Feature",
@@ -610,7 +680,9 @@
             "gender": "Male",
             "victimAge": "23",
             "incidentLoci": "103rd Street and La Ventura Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0334665",
+            "urls": "http://jaxne.ws/1PTDCzo"
         }
     }, {
         "type": "Feature",
@@ -627,7 +699,9 @@
             "gender": "Female",
             "victimAge": "45",
             "incidentLoci": "2513 Silver St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0338169",
+            "urls": "http://jaxne.ws/1EjIeZ2"
         }
     }, {
         "type": "Feature",
@@ -644,7 +718,9 @@
             "gender": "Female",
             "victimAge": "29",
             "incidentLoci": "1338 N Duval Lake Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0340837",
+            "urls": "http://jaxne.ws/1INmxIs"
         }
     }, {
         "type": "Feature",
@@ -660,8 +736,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "5136 Indian Lakes Ct.",
-            "causeDeath": "shot"
+            "incidentLoci": "5127 Indian Lakes Ct., No. 33",
+            "causeDeath": "shot",
+            "reportNumber": "0341180",
+            "urls": "http://jaxne.ws/1Em46Tn"
         }
     }, {
         "type": "Feature",
@@ -678,7 +756,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "Arlington Village Apartments, 840 Bert Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0347457",
+            "urls": "http://bit.ly/1FBbFK9"
         }
     }, {
         "type": "Feature",
@@ -695,7 +775,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "2034 Ashland St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0362309",
+            "urls": "http://jaxne.ws/1KE7Gks"
         }
     }, {
         "type": "Feature",
@@ -712,7 +794,9 @@
             "gender": "Female",
             "victimAge": "40",
             "incidentLoci": "425 Chestnut Dr.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0365268",
+            "urls": "http://jaxne.ws/1ALkj9Q"
         }
     }, {
         "type": "Feature",
@@ -729,7 +813,9 @@
             "gender": "Female",
             "victimAge": "23",
             "incidentLoci": "425 Chestnut Dr.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0365268",
+            "urls": "http://jaxne.ws/1ALkj9Q"
         }
     }, {
         "type": "Feature",
@@ -746,7 +832,9 @@
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "BP, 2907 N. Main St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0391779",
+            "urls": "http://jaxne.ws/1Mo3Mtq"
         }
     }, {
         "type": "Feature",
@@ -763,7 +851,9 @@
             "gender": "Male",
             "victimAge": "48",
             "incidentLoci": "2326 Janette St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0392233",
+            "urls": "http://jaxne.ws/1KZdZfl"
         }
     }, {
         "type": "Feature",
@@ -780,7 +870,9 @@
             "gender": "Female",
             "victimAge": "28",
             "incidentLoci": "12838 Dunn Creek Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0402670",
+            "urls": "http://jaxne.ws/1IHdo1N"
         }
     }, {
         "type": "Feature",
@@ -797,7 +889,9 @@
             "gender": "Male",
             "victimAge": "35",
             "incidentLoci": "Portside Mobile Home Community, 1401 Beach Blvd. No. 964, (Endurance Way and Admiralty Lane)",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0408050",
+            "urls": "http://jaxne.ws/1SkXHBT"
         }
     }, {
         "type": "Feature",
@@ -814,7 +908,9 @@
             "gender": "Male",
             "victimAge": "30",
             "incidentLoci": "Oakwood Villa Apartments, 8201 Kona Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0418043",
+            "urls": "http://jaxne.ws/1L9zfRZ"
         }
     }, {
         "type": "Feature",
@@ -831,7 +927,9 @@
             "gender": "Male",
             "victimAge": "38",
             "incidentLoci": "1033 Franklin St.",
-            "causeDeath": "undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0419843",
+            "urls": "http://jaxne.ws/1Jaf6sI"
         }
     }, {
         "type": "Feature",
@@ -847,8 +945,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "35",
-            "incidentLoci": "10900 Traci Lynn Dr",
-            "causeDeath": "shot"
+            "incidentLoci": "10982 Traci Lynn Dr",
+            "causeDeath": "shot",
+            "reportNumber": "0423896",
+            "urls": "http://jaxne.ws/1SGhE6g"
         }
     }, {
         "type": "Feature",
@@ -865,7 +965,9 @@
             "gender": "Male",
             "victimAge": "20",
             "incidentLoci": "1975 W. 5th St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0424477",
+            "urls": "http://fcnews.tv/1N23hW8"
         }
     }, {
         "type": "Feature",
@@ -882,7 +984,9 @@
             "gender": "Male",
             "victimAge": "36",
             "incidentLoci": "2715 Parkrus Ln.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0425951",
+            "urls": "http://jaxne.ws/1Lj52A0"
         }
     }, {
         "type": "Feature",
@@ -899,7 +1003,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "3549 Owen Dr.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0434897",
+            "urls": "http://jaxne.ws/1g7F6eC"
         }
     }, {
         "type": "Feature",
@@ -916,7 +1022,9 @@
             "gender": "Male",
             "victimAge": "23",
             "incidentLoci": "3605 Drexel St.",
-            "causeDeath": "police shooting"
+            "causeDeath": "shot by police",
+            "reportNumber": "0450608",
+            "urls": "http://jaxne.ws/1HDI7xK"
         }
     }, {
         "type": "Feature",
@@ -933,7 +1041,9 @@
             "gender": "Male",
             "victimAge": "40",
             "incidentLoci": "8588 Darlington Dr.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0455620",
+            "urls": "http://fcnews.tv/1M4hnWT"
         }
     }, {
         "type": "Feature",
@@ -950,7 +1060,9 @@
             "gender": "Male",
             "victimAge": "40",
             "incidentLoci": "5744 Paris Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0458411",
+            "urls": "http://jaxne.ws/1eCeT6U"
         }
     }, {
         "type": "Feature",
@@ -967,7 +1079,28 @@
             "gender": "Male",
             "victimAge": "20",
             "incidentLoci": "The Blind Rabbit, 901 King St",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0500736",
+            "urls": "http://fcnews.tv/1MJJGKx"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.605716, 30.233314]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "58",
+            "reportDate": "7/24/2015",
+            "victimName": "Lonzie Arin Ray Barton",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "1",
+            "incidentLoci": "Ravenwood Apartments, 8030 Old Kings Rd S",
+            "causeDeath": "neglected",
+            "reportNumber": "0503641",
+            "urls": "http://jaxne.ws/1HXZWo2"
         }
     }, {
         "type": "Feature",
@@ -977,14 +1110,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "58",
+            "idNo": "59",
             "reportDate": "7/25/2015",
             "victimName": "Darnell Williams Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "42",
             "incidentLoci": "652 Fern St.",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0508048",
+            "urls": "http://jaxne.ws/1UkQ4MK"
         }
     }, {
         "type": "Feature",
@@ -994,14 +1129,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "59",
+            "idNo": "60",
             "reportDate": "7/28/2015",
             "victimName": "Roosevelt Fluellen",
             "race": "Black",
             "gender": "Male",
             "victimAge": "63",
             "incidentLoci": "851 Bert Rd., Apt. 9",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0514124",
+            "urls": "http://jaxne.ws/1LUhjMI "
         }
     }, {
         "type": "Feature",
@@ -1011,14 +1148,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "60",
+            "idNo": "61",
             "reportDate": "8/5/2015",
             "victimName": "Vincent L. Jones",
             "race": "Black",
             "gender": "Male",
             "victimAge": "37",
             "incidentLoci": "209 Spring St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0534098",
+            "urls": "http://jaxne.ws/1STuNfR"
         }
     }, {
         "type": "Feature",
@@ -1028,14 +1167,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "61",
+            "idNo": "62",
             "reportDate": "8/6/2015",
             "victimName": "Jerome Antonio Bennett",
             "race": "Black",
             "gender": "Male",
             "victimAge": "40",
             "incidentLoci": "804 Westbrook Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0535982",
+            "urls": "http://jaxne.ws/1UsUb9E"
         }
     }, {
         "type": "Feature",
@@ -1045,14 +1186,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "62",
+            "idNo": "63",
             "reportDate": "8/9/2015",
             "victimName": "Courtney Danielle Watson",
             "race": "Black",
             "gender": "Female",
             "victimAge": "24",
             "incidentLoci": "1324 Prince St.",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0543194",
+            "urls": "http://jaxne.ws/1TpSY5I"
         }
     }, {
         "type": "Feature",
@@ -1062,14 +1205,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "63",
+            "idNo": "64",
             "reportDate": "8/18/2015",
             "victimName": "Pamela Ann Daughtry",
             "race": "White",
             "gender": "Female",
             "victimAge": "52",
             "incidentLoci": "11518 Monument Ridge Dr.",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0565151",
+            "urls": "http://jaxne.ws/1KvKeAZ"
         }
     }, {
         "type": "Feature",
@@ -1079,14 +1224,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "64",
+            "idNo": "65",
             "reportDate": "8/18/2015",
             "victimName": "Daniel Herschberger",
             "race": "White",
             "gender": "Male",
             "victimAge": "34",
             "incidentLoci": "Heron Walk Apartments, 7400 Powers Ave, Apt. 303",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0565927",
+            "urls": "http://jaxne.ws/1Jiezqe"
         }
     }, {
         "type": "Feature",
@@ -1096,14 +1243,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "65",
+            "idNo": "66",
             "reportDate": "8/19/2015",
             "victimName": "Quilla Elkins",
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
             "incidentLoci": "St. Nicholas Playground, 2200 Spring Park Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0568616",
+            "urls": "http://jaxne.ws/1KxCQFt"
         }
     }, {
         "type": "Feature",
@@ -1113,14 +1262,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "66",
+            "idNo": "67",
             "reportDate": "8/20/2015",
             "victimName": "Anthony Byirt",
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
             "incidentLoci": "Plantation Apartments, 7061 Old Kings Rd. S.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0571438",
+            "urls": "http://fcnews.tv/1LoRq7U"
         }
     }, {
         "type": "Feature",
@@ -1130,14 +1281,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "67",
+            "idNo": "68",
             "reportDate": "8/21/2015",
             "victimName": "Tyshawn Session",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "200 50th St. E.",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0572167",
+            "urls": "http://fcnews.tv/1Lp7bf8"
         }
     }, {
         "type": "Feature",
@@ -1147,14 +1300,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "68",
+            "idNo": "69",
             "reportDate": "8/22/2015",
             "victimName": "Jackie Lee Harris",
             "race": "White",
             "gender": "Male",
             "victimAge": "52",
             "incidentLoci": "La Esperanza Apartments, 3800 University Blvd S, Apt. 20",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0573694",
+            "urls": "http://www.news4jax.com/news/police-one-person-dead-after-apartment-shooting/34859752"
         }
     }, {
         "type": "Feature",
@@ -1164,14 +1319,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "69",
+            "idNo": "70",
             "reportDate": "8/23/2015",
             "victimName": "Richard Francis Compo",
             "race": "White",
             "gender": "Male",
             "victimAge": "36",
             "incidentLoci": "9452 Old Plank Rd.",
-            "causeDeath": "police shooting"
+            "causeDeath": "shot by police",
+            "reportNumber": "0577370",
+            "urls": "http://jaxne.ws/1ETjfgQ"
         }
     }, {
         "type": "Feature",
@@ -1181,14 +1338,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "70",
+            "idNo": "71",
             "reportDate": "8/23/2015",
             "victimName": "Lorenzo Marcus Thomas",
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "Deerpointe mobile home park, 9380 103rd St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0578182",
+            "urls": "http://jaxne.ws/1ETjCrK"
         }
     }, {
         "type": "Feature",
@@ -1198,14 +1357,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "71",
+            "idNo": "72",
             "reportDate": "8/25/2015",
-            "victimName": "Joseph Martin",
+            "victimName": "Joseph Breion Martin",
             "race": "Black",
             "gender": "Male",
             "victimAge": "40",
             "incidentLoci": "1600 Barnett St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0581487",
+            "urls": "http://jaxne.ws/1hbwG6i"
         }
     }, {
         "type": "Feature",
@@ -1215,14 +1376,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "72",
+            "idNo": "73",
             "reportDate": "8/28/2015",
             "victimName": "Nicholas Anderson Hare",
             "race": "White",
             "gender": "Male",
             "victimAge": "34",
             "incidentLoci": "2051 Gibson Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0591789",
+            "urls": "http://jaxne.ws/1hUlFr4"
         }
     }, {
         "type": "Feature",
@@ -1232,14 +1395,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "73",
+            "idNo": "74",
             "reportDate": "9/5/2015",
             "victimName": "Johnny Marveil Mooney",
             "race": "Black",
             "gender": "Male",
             "victimAge": "39",
             "incidentLoci": "Candlewood Suites, 2700 Jane St., Apt. 215",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0610751",
+            "urls": "http://jaxne.ws/1iazYYL"
         }
     }, {
         "type": "Feature",
@@ -1249,14 +1414,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "74",
+            "idNo": "75",
             "reportDate": "9/6/2015",
             "victimName": "Jabari Christopher Baker",
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
             "incidentLoci": "1376 Lake Shore Blvd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0612743",
+            "urls": "http://jaxne.ws/1hU4GED"
         }
     }, {
         "type": "Feature",
@@ -1266,14 +1433,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "75",
+            "idNo": "76",
             "reportDate": "9/7/2015",
             "victimName": "Minor Vijil Ramos",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "24",
             "incidentLoci": "Kings Trail apartments, 3770 Toledo Rd., Apt. 45",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0614847",
+            "urls": "http://fcnews.tv/1UCYLjR"
         }
     }, {
         "type": "Feature",
@@ -1283,14 +1452,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "76",
+            "idNo": "77",
             "reportDate": "9/8/2015",
             "victimName": "Luciano Zachary Brewer",
             "race": "White",
             "gender": "Male",
             "victimAge": "38",
             "incidentLoci": "Burger King, 13180 Atlantic Blvd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0618030",
+            "urls": "http://jaxne.ws/1hX8bKt"
         }
     }, {
         "type": "Feature",
@@ -1300,14 +1471,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "77",
+            "idNo": "78",
             "reportDate": "9/9/2015",
             "victimName": "Patrick Ray Fowler",
             "race": "White",
             "gender": "Male",
             "victimAge": "35",
             "incidentLoci": "202 Ponce Blvd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0618503",
+            "urls": "http://jaxne.ws/1hX7yRg"
         }
     }, {
         "type": "Feature",
@@ -1317,14 +1490,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "78",
+            "idNo": "79",
             "reportDate": "9/15/2015",
             "victimName": "Charles Edward Brown",
             "race": "Black",
             "gender": "Male",
             "victimAge": "45",
             "incidentLoci": "5000 Spring Grove Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0639219",
+            "urls": "http://fcnews.tv/1iStqxJ"
         }
     }, {
         "type": "Feature",
@@ -1334,14 +1509,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "79",
+            "idNo": "80",
             "reportDate": "9/24/2015",
             "victimName": "Kim Desmond Varner Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "25",
-            "incidentLoci": "1336 E 11th St.",
-            "causeDeath": "shot"
+            "incidentLoci": "1336 E 11th St. ",
+            "causeDeath": "shot",
+            "reportNumber": "0655393",
+            "urls": "http://jaxne.ws/1NWglk1"
         }
     }, {
         "type": "Feature",
@@ -1351,31 +1528,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "80",
+            "idNo": "81",
             "reportDate": "9/25/2015",
             "victimName": "Donneil D. Williams",
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
             "incidentLoci": "1200 E. 3rd St.",
-            "causeDeath": "shot"
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.702141, 30.332796]
-        },
-        "properties": {
-            "idYr": "2015",
-            "idNo": "81",
-            "reportDate": "9/25/2015",
-            "victimName": "Charles Deon Eunice",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "25",
-            "incidentLoci": "2316 Broadway Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0658618",
+            "urls": "http://fcnews.tv/1FmquDV"
         }
     }, {
         "type": "Feature",
@@ -1387,12 +1549,33 @@
             "idYr": "2015",
             "idNo": "82",
             "reportDate": "9/25/2015",
+            "victimName": "Charles Deon Eunice",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "25",
+            "incidentLoci": "2316 Broadway Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "0659138",
+            "urls": "http://jaxne.ws/1G8WOVB"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.702141, 30.332796]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "83",
+            "reportDate": "9/25/2015",
             "victimName": "Lenford Smith Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
             "incidentLoci": "2316 Broadway Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0659138",
+            "urls": "http://jaxne.ws/1G8WOVB"
         }
     }, {
         "type": "Feature",
@@ -1402,14 +1585,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "83",
+            "idNo": "84",
             "reportDate": "10/2/2015",
             "victimName": "Jaylene Damaris Cruz",
             "race": "Hispanic",
             "gender": "Female",
             "victimAge": "17",
             "incidentLoci": "12480 Bullfinch Ct.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0675017",
+            "urls": "http://fcnews.tv/1L8V58i"
         }
     }, {
         "type": "Feature",
@@ -1419,14 +1604,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "84",
+            "idNo": "85",
             "reportDate": "10/20/2015",
             "victimName": "Kenneth Felton",
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
             "incidentLoci": "7411 Linda Dr.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0718009",
+            "urls": "http://fcnews.tv/1RUO8ZV"
         }
     }, {
         "type": "Feature",
@@ -1436,14 +1623,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "85",
+            "idNo": "86",
             "reportDate": "10/22/2015",
             "victimName": "Keith Wayne Brown",
             "race": "Black",
             "gender": "Male",
             "victimAge": "54",
             "incidentLoci": "452 W. 22nd St.",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0721686",
+            "urls": "http://fcnews.tv/1RYmknq"
         }
     }, {
         "type": "Feature",
@@ -1453,14 +1642,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "86",
+            "idNo": "87",
             "reportDate": "10/22/2015",
             "victimName": "Tommy Earl Campbell",
             "race": "White",
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "5268 Royce Ave",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0721564",
+            "urls": "http://jaxne.ws/1kw84XO"
         }
     }, {
         "type": "Feature",
@@ -1470,14 +1661,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "87",
+            "idNo": "88",
             "reportDate": "10/28/2015",
             "victimName": "Mary Elana Townsend",
             "race": "Black",
             "gender": "Female",
             "victimAge": "34",
-            "incidentLoci": "Ginger Park Apartments 1956 Jammes Rd.",
-            "causeDeath": "shot"
+            "incidentLoci": "Ginger Park Apartments, 1956 Jammes Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0726656",
+            "urls": "http://bit.ly/1LCp2MY"
         }
     }, {
         "type": "Feature",
@@ -1487,14 +1680,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "88",
+            "idNo": "89",
             "reportDate": "10/28/2015",
             "victimName": "Jerry Michael Graham Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "34",
             "incidentLoci": "212 Century St.",
-            "causeDeath": "police shooting"
+            "causeDeath": "shot by police",
+            "reportNumber": "0736688",
+            "urls": "http://bit.ly/1LCp2MY"
         }
     }, {
         "type": "Feature",
@@ -1504,14 +1699,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "89",
+            "idNo": "90",
             "reportDate": "10/28/2015",
             "victimName": "Bradla Sue Cook",
             "race": "White",
             "gender": "Female",
             "victimAge": "61",
             "incidentLoci": "6210 Harlow Blvd",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0737514",
+            "urls": "http://fcnews.tv/1N9R7Of"
         }
     }, {
         "type": "Feature",
@@ -1521,14 +1718,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "90",
+            "idNo": "91",
             "reportDate": "11/3/2015",
             "victimName": "Anthony D. Ray",
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
             "incidentLoci": "1979 Ella St. ",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0751833",
+            "urls": "http://jaxne.ws/1Soia8u"
         }
     }, {
         "type": "Feature",
@@ -1538,14 +1737,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "91",
+            "idNo": "92",
             "reportDate": "11/3/2015",
             "victimName": "Trayvon Deshay Lundy",
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "1979 Ella St. ",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0753606",
+            "urls": "http://jaxne.ws/1Q5KDle"
         }
     }, {
         "type": "Feature",
@@ -1555,14 +1756,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "92",
+            "idNo": "93",
             "reportDate": "11/7/2015",
             "victimName": "Malachi Jacobi Andrews",
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "545 Woodbine St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0761620",
+            "urls": "http://bit.ly/1RLiqh7"
         }
     }, {
         "type": "Feature",
@@ -1572,65 +1775,73 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "93",
+            "idNo": "94",
             "reportDate": "11/11/2015",
             "victimName": "Amari Raynard Barnhill",
             "race": "Black",
             "gender": "Male",
             "victimAge": "2",
             "incidentLoci": "Hollybrook Homes Apartments, 104 King St., Apt. 65",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0769948",
+            "urls": "http://bit.ly/1Qklx28"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.6070, 30.4650]
+            "coordinates": [-81.606966, 30.465099]
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "94",
+            "idNo": "95",
             "reportDate": "11/13/2015",
             "victimName": "Hayden Rose Hiatt",
             "race": "Black",
             "gender": "Female",
             "victimAge": "0.5",
             "incidentLoci": "1342 Shirley Oaks Dr S",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0775751",
+            "urls": "http://bit.ly/1N2s6G3"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.6071, 30.4651]
+            "coordinates": [-81.606966, 30.465099]
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "95",
+            "idNo": "96",
             "reportDate": "11/13/2015",
             "victimName": "Kayden Reese Hiatt",
             "race": "Black",
             "gender": "Female",
             "victimAge": "0.5",
             "incidentLoci": "1342 Shirley Oaks Dr S",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0775751",
+            "urls": "http://bit.ly/1N2s6G3"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.6072, 30.4652]
+            "coordinates": [-81.606966, 30.465099]
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "96",
+            "idNo": "97",
             "reportDate": "11/13/2015",
             "victimName": "Travis James Hiatt",
             "race": "White",
             "gender": "Male",
             "victimAge": "49",
             "incidentLoci": "1342 Shirley Oaks Dr S",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0775751",
+            "urls": "http://bit.ly/1N2s6G3"
         }
     }, {
         "type": "Feature",
@@ -1640,14 +1851,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "97",
+            "idNo": "98",
             "reportDate": "11/14/2015",
             "victimName": "Curtis Young Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "54",
             "incidentLoci": "2604 Market St. N",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0777212",
+            "urls": "http://bit.ly/1RVupZR"
         }
     }, {
         "type": "Feature",
@@ -1657,14 +1870,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "98",
+            "idNo": "99",
             "reportDate": "11/15/2015",
             "victimName": "Christopher Andrew Vanderwater",
             "race": "White",
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "San Pablo and W.M. Davis Pkwy",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0780696",
+            "urls": "http://bit.ly/1S1wvXY"
         }
     }, {
         "type": "Feature",
@@ -1674,14 +1889,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "99",
+            "idNo": "100",
             "reportDate": "11/19/2015",
             "victimName": "Darious Leonar Carson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "31",
             "incidentLoci": "9215 4th Ave",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0789368",
+            "urls": "http://bit.ly/1QychaF"
         }
     }, {
         "type": "Feature",
@@ -1691,14 +1908,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "100",
+            "idNo": "101",
             "reportDate": "11/19/2015",
             "victimName": "Kurt Elijah Dean",
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
             "incidentLoci": "JAX Jewelry & Next Day Grillz, 2261 W. Edgewood Ave. #15",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0790105",
+            "urls": "http://bit.ly/1NhZzwo"
         }
     }, {
         "type": "Feature",
@@ -1708,14 +1927,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "101",
+            "idNo": "102",
             "reportDate": "11/28/2015",
             "victimName": "Robin Terrell White",
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
             "incidentLoci": "5350 Astral St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0808641",
+            "urls": "http://jaxne.ws/1TrBgv4"
         }
     }, {
         "type": "Feature",
@@ -1725,14 +1946,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "102",
+            "idNo": "103",
             "reportDate": "11/30/2015",
             "victimName": "Jimmie Lee Simpson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "2552 D St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0813561",
+            "urls": "http://jaxne.ws/1OFYoG7"
         }
     }, {
         "type": "Feature",
@@ -1742,14 +1965,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "103",
+            "idNo": "104",
             "reportDate": "12/3/2015",
             "victimName": "Avery Malcolmb McKnight",
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "1204 Odessa St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0819617",
+            "urls": "http://fcnews.tv/1Qi2FiW"
         }
     }, {
         "type": "Feature",
@@ -1759,14 +1984,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "104",
+            "idNo": "105",
             "reportDate": "12/5/2015",
             "victimName": "Malik Lavaniel Warthen III",
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
             "incidentLoci": "9373 Maidstone Mill Dr. E",
-            "causeDeath": "824055"
+            "causeDeath": "shot",
+            "reportNumber": "0824055",
+            "urls": "http://fcnews.tv/1XRuVcZ"
         }
     }, {
         "type": "Feature",
@@ -1776,14 +2003,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "105",
+            "idNo": "106",
             "reportDate": "12/6/2015",
             "victimName": "Keshaun James Coleman",
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "McDuff Avenue and Waller Street",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0826456",
+            "urls": "http://fcnews.tv/1XU2XNA"
         }
     }, {
         "type": "Feature",
@@ -1793,14 +2022,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "106",
+            "idNo": "107",
             "reportDate": "12/9/2015",
             "victimName": "Kaheem R. Simmons",
             "race": "Black",
             "gender": "Male",
             "victimAge": "15",
             "incidentLoci": "5403 Tubman Dr. N",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0834422",
+            "urls": "http://fcnews.tv/1QxEOvX"
         }
     }, {
         "type": "Feature",
@@ -1810,14 +2041,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "107",
+            "idNo": "108",
             "reportDate": "12/14/2015",
             "victimName": "Jocolby Michael Moss",
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
             "incidentLoci": "6500 Evelyn Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0843570",
+            "urls": "http://bit.ly/1UtYHEz"
         }
     }, {
         "type": "Feature",
@@ -1827,14 +2060,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "108",
+            "idNo": "109",
             "reportDate": "12/15/2015",
             "victimName": "Augusto Collado",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "64",
             "incidentLoci": "2306 Labelle St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0848023",
+            "urls": "http://fcnews.tv/1QMczty"
         }
     }, {
         "type": "Feature",
@@ -1844,14 +2079,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "109",
+            "idNo": "110",
             "reportDate": "12/15/2015",
             "victimName": "Antreenio George Hardwick",
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
             "incidentLoci": "5001 Portsmouth Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0849698",
+            "urls": "http://fcnews.tv/1YlV3No"
         }
     }, {
         "type": "Feature",
@@ -1861,14 +2098,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "110",
+            "idNo": "111",
             "reportDate": "12/20/2015",
             "victimName": "Jacoby Joshua Wright",
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
             "incidentLoci": "7015 Alan Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0857597",
+            "urls": "http://bit.ly/1V2jqzt"
         }
     }, {
         "type": "Feature",
@@ -1878,14 +2117,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "111",
+            "idNo": "112",
             "reportDate": "12/21/2015",
             "victimName": "Anatoliy Glavnik",
             "race": "White",
             "gender": "Male",
             "victimAge": "54",
             "incidentLoci": "4031 Skycrest Dr.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0861241",
+            "urls": "http://bit.ly/1OldO48"
         }
     }, {
         "type": "Feature",
@@ -1895,14 +2136,16 @@
         },
         "properties": {
             "idYr": "2015",
-            "idNo": "112",
+            "idNo": "113",
             "reportDate": "12/21/2015",
             "victimName": "Justin Jermaine Grant",
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "4603 Portsmouth Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0861208",
+            "urls": "http://bit.ly/1OldAKh"
         }
     }, {
         "type": "Feature",
@@ -1911,15 +2154,17 @@
             "coordinates": [-81.708135, 30.353416]
         },
         "properties": {
-            "idYr": "2016",
-            "idNo": "113",
-            "reportDate": "12/25/2016",
+            "idYr": "2015",
+            "idNo": "114",
+            "reportDate": "12/25/2015",
             "victimName": "Matthew Max Jones",
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "2600 Old Kings Rd.",
-            "causeDeath": "unreported"
+            "causeDeath": "injured by injured by undetermined means means",
+            "reportNumber": "0869400",
+            "urls": "http://jaxne.ws/1PASCGn"
         }
     }]
 }
