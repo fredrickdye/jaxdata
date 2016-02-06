@@ -14,7 +14,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "La Casa Prima Apartments, 5521 Ricker Rd."
+            "incidentLoci": "La Casa Prima Apartments, 5521 Ricker Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -30,7 +33,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "45",
-            "incidentLoci": "8022 Pipit Ave."
+            "incidentLoci": "8022 Pipit Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -46,7 +52,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "36",
-            "incidentLoci": "2140 Jayson Ave."
+            "incidentLoci": "2140 Jayson Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -62,7 +71,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "42",
-            "incidentLoci": "12223 Hood Landing Road"
+            "incidentLoci": "12223 Hood Landing Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -78,7 +90,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "52",
-            "incidentLoci": "Publix, 2771 Monument Rd."
+            "incidentLoci": "Publix, 2771 Monument Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -94,7 +109,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "53",
-            "incidentLoci": "Jacksonville’s Children’s Commission, 1095 A. Philip Randolph Blvd."
+            "incidentLoci": "Jacksonville’s Children’s Commission, 1095 A. Philip Randolph Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -110,7 +128,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "58",
-            "incidentLoci": "9236 Camshire Drive"
+            "incidentLoci": "9236 Camshire Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -126,7 +147,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "57",
-            "incidentLoci": "9236 Camshire Drive"
+            "incidentLoci": "9236 Camshire Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -142,7 +166,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "65",
-            "incidentLoci": "5616 Gilchrist Road"
+            "incidentLoci": "5616 Gilchrist Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -158,7 +185,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "Sable Palms Apartments, 2150 Emerson St."
+            "incidentLoci": "Sable Palms Apartments, 2150 Emerson St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -174,7 +204,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "1018 Barnett St."
+            "incidentLoci": "1018 Barnett St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -190,7 +223,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "38",
-            "incidentLoci": "Sun Suites Hotel, 8555 Baymeadows Way"
+            "incidentLoci": "Sun Suites Hotel, 8555 Baymeadows Way",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -206,7 +242,10 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "Normandy Estates Trailer Park, 8985 Normandy Blvd."
+            "incidentLoci": "Normandy Estates Trailer Park, 8985 Normandy Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -222,13 +261,16 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "80",
-            "incidentLoci": "2300 Westmont St."
+            "incidentLoci": "2300 Westmont St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.715086, 30.389840]
+            "coordinates": [-81.715086, 30.38984]
         },
         "properties": {
             "idYr": "2007",
@@ -238,7 +280,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "Washington Heights Apartments, 4229 W. Moncrief"
+            "incidentLoci": "Washington Heights Apartments, 4229 W. Moncrief",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -254,7 +299,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "15",
-            "incidentLoci": "Highlander Apartments, 10621 Monaco Dr."
+            "incidentLoci": "Highlander Apartments, 10621 Monaco Dr.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -270,7 +318,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "Highlander Apartments, 10621 Monaco Dr."
+            "incidentLoci": "Highlander Apartments, 10621 Monaco Dr.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -286,7 +337,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "Lavilla Sportsman Club, 7977 New Kings Rd."
+            "incidentLoci": "Lavilla Sportsman Club, 7977 New Kings Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -302,7 +356,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "Trailer Village mobile home park, 7000 N. Main St."
+            "incidentLoci": "Trailer Village mobile home park, 7000 N. Main St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -318,7 +375,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "0.3",
-            "incidentLoci": "7730 Plantation Bay Dr., Unit 602"
+            "incidentLoci": "7730 Plantation Bay Dr., Unit 602",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -334,7 +394,10 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "Stonemont Village Apartments, 2930 Stonemont St."
+            "incidentLoci": "Stonemont Village Apartments, 2930 Stonemont St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -350,7 +413,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "20",
-            "incidentLoci": "500 E. 63rd St."
+            "incidentLoci": "500 E. 63rd St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -366,7 +432,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "Stimson St. and San Juan Ave."
+            "incidentLoci": "Stimson St. and San Juan Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -382,7 +451,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "Cleveland Arms apartments, 5020 Cleveland Rd."
+            "incidentLoci": "Cleveland Arms apartments, 5020 Cleveland Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -398,7 +470,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "50",
-            "incidentLoci": "3535 Rosselle St."
+            "incidentLoci": "3535 Rosselle St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -414,7 +489,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "Lenox Court Apartments, 5710 Lenox Ave."
+            "incidentLoci": "Lenox Court Apartments, 5710 Lenox Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -430,7 +508,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "30",
-            "incidentLoci": "1381 W. First St."
+            "incidentLoci": "1381 W. First St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -446,7 +527,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "G Spot Adult Entertainment Club, 1324 Univeristy Blvd. N."
+            "incidentLoci": "G Spot Adult Entertainment Club, 1324 Univeristy Blvd. N.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -462,7 +546,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "Shell gas station, 2309 Edgewood Ave. W."
+            "incidentLoci": "Shell gas station, 2309 Edgewood Ave. W.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -478,7 +565,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "4334 Englewood Ave."
+            "incidentLoci": "4334 Englewood Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -494,7 +584,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "The Palms, 11990 Beach Blvd."
+            "incidentLoci": "The Palms, 11990 Beach Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -510,7 +603,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "44",
-            "incidentLoci": "Golden Egg Roll, 7412 Lem Turner Rd."
+            "incidentLoci": "Golden Egg Roll, 7412 Lem Turner Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -526,7 +622,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "8459 Lone Star Rd."
+            "incidentLoci": "8459 Lone Star Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -542,7 +641,10 @@
             "race": "Asian",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "8459 Lone Star Rd."
+            "incidentLoci": "8459 Lone Star Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -558,7 +660,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "34",
-            "incidentLoci": "1700 Kings Ave."
+            "incidentLoci": "1700 Kings Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -574,7 +679,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "66",
-            "incidentLoci": "2087 Broad Oak Drive"
+            "incidentLoci": "2087 Broad Oak Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -590,7 +698,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "Meharry Ave. and Xavier Rd."
+            "incidentLoci": "Meharry Ave. and Xavier Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -606,7 +717,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "45",
-            "incidentLoci": "823 N. Village Center Drive"
+            "incidentLoci": "823 N. Village Center Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -622,7 +736,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "Unknown",
-            "incidentLoci": "11901 Beach Blvd."
+            "incidentLoci": "11901 Beach Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -638,7 +755,10 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "Spring Park Place Apartments, 2943 Spring Park Rd., Apt. 507"
+            "incidentLoci": "Spring Park Place Apartments, 2943 Spring Park Rd., Apt. 507",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -654,7 +774,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "Centennial Townhomes West, 1241 N. Broad St."
+            "incidentLoci": "Centennial Townhomes West, 1241 N. Broad St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -670,7 +793,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "Montecito Point Apartments, 5800 S. Barnes"
+            "incidentLoci": "Montecito Point Apartments, 5800 S. Barnes",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -686,7 +812,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "1315 W. 11th St."
+            "incidentLoci": "1315 W. 11th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -702,7 +831,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "75",
-            "incidentLoci": "1518 N. Florida Ave."
+            "incidentLoci": "1518 N. Florida Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -718,7 +850,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "7827 Mattox Ave."
+            "incidentLoci": "7827 Mattox Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -734,7 +869,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "Morningside Apartments, 2401 Jammes Rd."
+            "incidentLoci": "Morningside Apartments, 2401 Jammes Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -750,7 +888,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "52",
-            "incidentLoci": "Eastside Garden & Terrace Apartments, 1212 E. First St."
+            "incidentLoci": "Eastside Garden & Terrace Apartments, 1212 E. First St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -766,7 +907,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St."
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -782,7 +926,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "51",
-            "incidentLoci": "2500 Calvin St."
+            "incidentLoci": "2500 Calvin St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -798,7 +945,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "1535 W. Beaver St."
+            "incidentLoci": "1535 W. Beaver St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -814,7 +964,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "31",
-            "incidentLoci": "955 Kenmore St."
+            "incidentLoci": "955 Kenmore St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -830,7 +983,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "34",
-            "incidentLoci": "Island Spice Cuisine restaurant, 8132 Lem Turner Rd."
+            "incidentLoci": "Island Spice Cuisine restaurant, 8132 Lem Turner Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -846,7 +1002,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "2267 W. 13th St."
+            "incidentLoci": "2267 W. 13th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -862,7 +1021,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "23",
-            "incidentLoci": "1051 Frazier St."
+            "incidentLoci": "1051 Frazier St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -878,7 +1040,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "40",
-            "incidentLoci": "5500 Jammes Rd."
+            "incidentLoci": "5500 Jammes Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -894,7 +1059,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "52",
-            "incidentLoci": "5035 N. Main St."
+            "incidentLoci": "5035 N. Main St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -910,7 +1078,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "33",
-            "incidentLoci": "7828 Pipit Ave."
+            "incidentLoci": "7828 Pipit Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -926,7 +1097,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "Grunthal Park, 2200 Grunthal St."
+            "incidentLoci": "Grunthal Park, 2200 Grunthal St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -942,7 +1116,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "56",
-            "incidentLoci": "Paradise Village Mobile Home Community, 10201 W. Beaver St."
+            "incidentLoci": "Paradise Village Mobile Home Community, 10201 W. Beaver St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -958,7 +1135,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "5533 W. Ahmad Dr."
+            "incidentLoci": "5533 W. Ahmad Dr.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -974,7 +1154,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "21",
-            "incidentLoci": "5533 W. Ahmad Dr."
+            "incidentLoci": "5533 W. Ahmad Dr.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -990,7 +1173,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "5533 W. Ahmad Dr."
+            "incidentLoci": "5533 W. Ahmad Dr.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1006,7 +1192,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "35",
-            "incidentLoci": "Ying’s Chinese Takee Outee, 5507 University Blvd. W."
+            "incidentLoci": "Ying’s Chinese Takee Outee, 5507 University Blvd. W.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1022,7 +1211,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "42",
-            "incidentLoci": "3615 Dellwood Ave."
+            "incidentLoci": "3615 Dellwood Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1038,7 +1230,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "39",
-            "incidentLoci": "14749 Marshview Drive"
+            "incidentLoci": "14749 Marshview Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1054,7 +1249,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "5200 Washington Estates Dr."
+            "incidentLoci": "5200 Washington Estates Dr.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1070,7 +1268,10 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "2905 Spring Park Road"
+            "incidentLoci": "2905 Spring Park Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1086,7 +1287,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "959 N. Washington St."
+            "incidentLoci": "959 N. Washington St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1102,7 +1306,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "20",
-            "incidentLoci": "10535 Lem Turner Road"
+            "incidentLoci": "10535 Lem Turner Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1118,7 +1325,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "21",
-            "incidentLoci": "2313 Westmont St."
+            "incidentLoci": "2313 Westmont St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1134,7 +1344,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "45",
-            "incidentLoci": "Crystal Coin Laundry, 3935 Toledo Rd."
+            "incidentLoci": "Crystal Coin Laundry, 3935 Toledo Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1150,7 +1363,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "24",
-            "incidentLoci": "3042 Plum St."
+            "incidentLoci": "3042 Plum St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1166,7 +1382,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "16",
-            "incidentLoci": "Hess gas station, 10405 Beach Blvd."
+            "incidentLoci": "Hess gas station, 10405 Beach Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1182,7 +1401,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "864 Detroit St."
+            "incidentLoci": "864 Detroit St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1198,7 +1420,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "35",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St."
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1214,7 +1439,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "1274 Belmont Ter."
+            "incidentLoci": "1274 Belmont Ter.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1230,7 +1458,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "1024 Powhattan St."
+            "incidentLoci": "1024 Powhattan St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1246,7 +1477,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "52",
-            "incidentLoci": "6851 N. King Arthur Rd."
+            "incidentLoci": "6851 N. King Arthur Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1262,7 +1496,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "1200 E. 12th St. and Bridier Street"
+            "incidentLoci": "1200 E. 12th St. and Bridier Street",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1278,7 +1515,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "InTown Suites, 3162 S. St. Johns Bluff Rd."
+            "incidentLoci": "InTown Suites, 3162 S. St. Johns Bluff Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1294,7 +1534,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "20",
-            "incidentLoci": "5918 Scott St."
+            "incidentLoci": "5918 Scott St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1310,7 +1553,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "The Plantation Apartments, 7061 S. Old Kings Rd."
+            "incidentLoci": "The Plantation Apartments, 7061 S. Old Kings Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1326,7 +1572,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "5346 Commonwealth Ave."
+            "incidentLoci": "5346 Commonwealth Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1342,7 +1591,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "5346 Commonwealth Ave."
+            "incidentLoci": "5346 Commonwealth Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1358,7 +1610,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St."
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1374,7 +1629,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "J. Gardner Sams Memorial Park, 6590 Richardson Rd."
+            "incidentLoci": "J. Gardner Sams Memorial Park, 6590 Richardson Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1390,23 +1648,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "The Regents Apartments, 301 Caravan Cir."
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.71509, 30.389862]
-        },
-        "properties": {
-            "idYr": "2007",
-            "idNo": "88",
-            "reportDate": "7/26/2007",
-            "victimName": "Bruce Lee",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "20",
-            "incidentLoci": "Washington Heights Apartments, 4229 W. Moncrief Rd."
+            "incidentLoci": "The Regents Apartments, 301 Caravan Cir.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1416,13 +1661,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "89",
+            "idNo": "88",
             "reportDate": "8/2/2007",
             "victimName": "Derrick Jarod Robbins Sr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "Super 8, 5959 E. Youngerman Cir."
+            "incidentLoci": "Super 8, 5959 E. Youngerman Cir.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1432,13 +1680,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "90",
+            "idNo": "89",
             "reportDate": "8/5/2007",
             "victimName": "Isaiah Lenorris Williams",
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "BP gas station, 11067 Old St. Augustine Rd."
+            "incidentLoci": "BP gas station, 11067 Old St. Augustine Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1448,13 +1699,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "91",
+            "idNo": "90",
             "reportDate": "8/5/2007",
             "victimName": "Sebastien Swindell Beamon",
             "race": "Black",
             "gender": "Male",
             "victimAge": "36",
-            "incidentLoci": "4019 Marland St."
+            "incidentLoci": "4019 Marland St.",
+            "causeDeath": "",
+            "reportNumber": "0689783",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1464,13 +1718,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "92",
+            "idNo": "91",
             "reportDate": "8/10/2007",
             "victimName": "Hassan Ahmad Greene",
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "Sail Cove Condominiums, 10000 N. Gate Parkway"
+            "incidentLoci": "Sail Cove Condominiums, 10000 N. Gate Parkway",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1480,13 +1737,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "93",
+            "idNo": "92",
             "reportDate": "8/13/2007",
             "victimName": "Lydell Hill",
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "Avatar Graphics, 1585 Blanding Blvd."
+            "incidentLoci": "Avatar Graphics, 1585 Blanding Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1496,13 +1756,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "94",
+            "idNo": "93",
             "reportDate": "8/15/2007",
             "victimName": "Virginia Elizabeth Harritt",
             "race": "White",
             "gender": "Female",
             "victimAge": "80",
-            "incidentLoci": "Woodlake Park Apartments, 9439 San Jose Blvd."
+            "incidentLoci": "Woodlake Park Apartments, 9439 San Jose Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1512,13 +1775,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "95",
+            "idNo": "94",
             "reportDate": "8/20/2007",
             "victimName": "Mark A. Nobles",
             "race": "White",
             "gender": "Male",
             "victimAge": "44",
-            "incidentLoci": "4830 Sappho Ave."
+            "incidentLoci": "4830 Sappho Ave.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1528,13 +1794,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "96",
+            "idNo": "95",
             "reportDate": "8/21/2007",
             "victimName": "Corey LaShawn Lloyd",
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "Grand Oaks Apartments, 5755 S. Bourbon Alley"
+            "incidentLoci": "Grand Oaks Apartments, 5755 S. Bourbon Alley",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1544,13 +1813,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "97",
+            "idNo": "96",
             "reportDate": "8/21/2007",
             "victimName": "Richard Lee Urban Jr.",
             "race": "White",
             "gender": "Male",
             "victimAge": "48",
-            "incidentLoci": "3806 Eloise St."
+            "incidentLoci": "3806 Eloise St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1560,13 +1832,35 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "98",
+            "idNo": "97",
             "reportDate": "8/23/2007",
             "victimName": "Derek Lowman",
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "10771 S. Kusaie Drive"
+            "incidentLoci": "10771 S. Kusaie Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.707985, 30.364497]
+        },
+        "properties": {
+            "idYr": "2007",
+            "idNo": "98",
+            "reportDate": "8/27/2007",
+            "victimName": "Douglas Bradford",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "30",
+            "incidentLoci": "Cleveland Arms apartments, 5020 Cleveland Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1578,27 +1872,14 @@
             "idYr": "2007",
             "idNo": "99",
             "reportDate": "8/27/2007",
-            "victimName": "Douglas Bradford",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "30",
-            "incidentLoci": "Cleveland Arms apartments, 5020 Cleveland Rd."
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.707985, 30.364497]
-        },
-        "properties": {
-            "idYr": "2007",
-            "idNo": "100",
-            "reportDate": "8/27/2007",
             "victimName": "Elijah Solomon Mathis",
             "race": "Black",
             "gender": "Male",
             "victimAge": "32",
-            "incidentLoci": "Cleveland Arms apartments, 5020 Cleveland Rd."
+            "incidentLoci": "Cleveland Arms apartments, 5020 Cleveland Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1608,13 +1889,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "101",
+            "idNo": "100",
             "reportDate": "8/29/2007",
             "victimName": "Kenneth Douglas Reed Jr.",
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "River Bend Apartments, 3500 University Blvd. N."
+            "incidentLoci": "River Bend Apartments, 3500 University Blvd. N.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1624,13 +1908,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "102",
+            "idNo": "101",
             "reportDate": "8/29/2007",
             "victimName": "Littleton McNeil",
             "race": "Black",
             "gender": "Male",
             "victimAge": "44",
-            "incidentLoci": "1264 Dancy St."
+            "incidentLoci": "1264 Dancy St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1640,13 +1927,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "103",
+            "idNo": "102",
             "reportDate": "8/29/2007",
             "victimName": "Antonio Keith Noble",
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "2403 McQuade St."
+            "incidentLoci": "2403 McQuade St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1656,13 +1946,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "104",
+            "idNo": "103",
             "reportDate": "9/1/2007",
             "victimName": "Cedric Dejuan Matthews",
             "race": "Black",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "Silver Springs Apartments, 3737 St. Johns Bluff Rd., Apt. 707"
+            "incidentLoci": "Silver Springs Apartments, 3737 St. Johns Bluff Rd., Apt. 707",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1672,13 +1965,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "105",
+            "idNo": "104",
             "reportDate": "9/5/2007",
             "victimName": "Jessica Sharonlyn Green",
             "race": "Black",
             "gender": "Female",
             "victimAge": "18",
-            "incidentLoci": "5620 Hollinhead Lane"
+            "incidentLoci": "5620 Hollinhead Lane",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1688,13 +1984,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "106",
+            "idNo": "105",
             "reportDate": "9/7/2007",
             "victimName": "Anebal Jovel Landaberde-Aguilar aka Joel Anibal",
             "race": "White",
             "gender": "Male",
             "victimAge": "31",
-            "incidentLoci": "7101 Wilson Blvd."
+            "incidentLoci": "7101 Wilson Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1704,13 +2003,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "107",
+            "idNo": "106",
             "reportDate": "9/8/2007",
             "victimName": "Allen James",
             "race": "Black",
             "gender": "Male",
             "victimAge": "18",
-            "incidentLoci": "1000 Water St."
+            "incidentLoci": "1000 Water St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1720,13 +2022,35 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "108",
+            "idNo": "107",
             "reportDate": "9/8/2007",
             "victimName": "William Kashif Graves",
             "race": "White",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "Williamsburg Commons apartments, 3770 Toledo Rd."
+            "incidentLoci": "Williamsburg Commons apartments, 3770 Toledo Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.606205, 30.272466]
+        },
+        "properties": {
+            "idYr": "2007",
+            "idNo": "108",
+            "reportDate": "9/8/2007",
+            "victimName": "David Matos",
+            "race": "Hispanic",
+            "gender": "Male",
+            "victimAge": "28",
+            "incidentLoci": "The Palisades apartments, 5800 University Blvd. W.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1738,27 +2062,14 @@
             "idYr": "2007",
             "idNo": "109",
             "reportDate": "9/8/2007",
-            "victimName": "David Matos",
-            "race": "Hispanic",
-            "gender": "Male",
-            "victimAge": "28",
-            "incidentLoci": "The Palisades apartments, 5800 University Blvd. W."
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.606205, 30.272466]
-        },
-        "properties": {
-            "idYr": "2007",
-            "idNo": "110",
-            "reportDate": "9/8/2007",
             "victimName": "Kelli Chapple",
             "race": "Black",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "The Palisades apartments, 5800 University Blvd. W."
+            "incidentLoci": "The Palisades apartments, 5800 University Blvd. W.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1768,13 +2079,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "111",
+            "idNo": "110",
             "reportDate": "9/22/2007",
             "victimName": "Gregory Deshawn Brown",
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "1548 N. Liberty St."
+            "incidentLoci": "1548 N. Liberty St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1784,13 +2098,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "112",
+            "idNo": "111",
             "reportDate": "9/25/2007",
             "victimName": "James Joseph Brigham",
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "Harold House Apartments, 3650 Ring Lane"
+            "incidentLoci": "Harold House Apartments, 3650 Ring Lane",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1800,13 +2117,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "113",
+            "idNo": "112",
             "reportDate": "9/27/2007",
             "victimName": "Johdeem Jaline Johnson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "10",
-            "incidentLoci": "Madison Woods Apartments, 10970 Lem Turner Rd."
+            "incidentLoci": "Madison Woods Apartments, 10970 Lem Turner Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1816,13 +2136,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "114",
+            "idNo": "113",
             "reportDate": "9/30/2007",
             "victimName": "Jade Taylor",
             "race": "White",
             "gender": "Female",
             "victimAge": "23",
-            "incidentLoci": "349 E. 20th St."
+            "incidentLoci": "349 E. 20th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1832,13 +2155,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "115",
+            "idNo": "114",
             "reportDate": "10/1/2007",
             "victimName": "Maurice Gary Copeland",
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St."
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1848,13 +2174,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "116",
+            "idNo": "115",
             "reportDate": "10/1/2007",
             "victimName": "Maleek Demetrius Parks",
             "race": "Black",
             "gender": "Male",
             "victimAge": "15",
-            "incidentLoci": "1130 Comanche St."
+            "incidentLoci": "1130 Comanche St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1864,13 +2193,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "117",
+            "idNo": "116",
             "reportDate": "10/2/2007",
             "victimName": "Michael Wright",
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "1900 Robinson St."
+            "incidentLoci": "1900 Robinson St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1880,13 +2212,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "118",
+            "idNo": "117",
             "reportDate": "10/2/2007",
             "victimName": "Jimmy Ray Daughtery",
             "race": "Black",
             "gender": "Male",
             "victimAge": "54",
-            "incidentLoci": "Ramada Inn, 460 S. Lane"
+            "incidentLoci": "Ramada Inn, 460 S. Lane",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1896,13 +2231,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "119",
+            "idNo": "118",
             "reportDate": "10/6/2007",
             "victimName": "Clifford Baron McCloud II",
             "race": "Black",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "Steppin Out nightclub, 2709 N. Pearl St."
+            "incidentLoci": "Steppin Out nightclub, 2709 N. Pearl St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1912,13 +2250,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "120",
+            "idNo": "119",
             "reportDate": "10/15/2007",
             "victimName": "Stanley Evans Watts",
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "6500 Mitford Road"
+            "incidentLoci": "6500 Mitford Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1928,13 +2269,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "121",
+            "idNo": "120",
             "reportDate": "10/17/2007",
             "victimName": "Eilia Dabbas",
             "race": "White",
             "gender": "Male",
             "victimAge": "45",
-            "incidentLoci": "The Club at Charter Point apartments, 5501 University Blvd. N."
+            "incidentLoci": "The Club at Charter Point apartments, 5501 University Blvd. N.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1944,13 +2288,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "122",
+            "idNo": "121",
             "reportDate": "10/17/2007",
             "victimName": "Karl Sancho",
             "race": "Black",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "1046 Maynard St."
+            "incidentLoci": "1046 Maynard St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1960,13 +2307,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "123",
+            "idNo": "122",
             "reportDate": "10/19/2007",
             "victimName": "Tony P. Davis",
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "832 Brick Rd."
+            "incidentLoci": "832 Brick Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1976,13 +2326,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "124",
+            "idNo": "123",
             "reportDate": "10/20/2007",
             "victimName": "Gregory J. Haywood",
             "race": "Black",
             "gender": "Male",
             "victimAge": "20",
-            "incidentLoci": "3000 W. 19th St."
+            "incidentLoci": "3000 W. 19th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1992,13 +2345,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "125",
+            "idNo": "124",
             "reportDate": "10/26/2007",
             "victimName": "Shenequa Brannon",
             "race": "Black",
             "gender": "Female",
             "victimAge": "16",
-            "incidentLoci": "City Streets Wherehouse club, 301 Woodbine St."
+            "incidentLoci": "City Streets Wherehouse club, 301 Woodbine St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2008,13 +2364,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "126",
+            "idNo": "125",
             "reportDate": "10/27/2007",
             "victimName": "Geraud Scott Smith",
             "race": "Black",
             "gender": "Male",
             "victimAge": "21",
-            "incidentLoci": "Cafe Bolero, 8595 Beach Blvd."
+            "incidentLoci": "Cafe Bolero, 8595 Beach Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2024,13 +2383,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "127",
+            "idNo": "126",
             "reportDate": "10/27/2007",
             "victimName": "Dorian White",
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "De Real Ting nightclub, 18 W. Adams St."
+            "incidentLoci": "De Real Ting nightclub, 18 W. Adams St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2040,13 +2402,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "128",
+            "idNo": "127",
             "reportDate": "10/27/2007",
             "victimName": "Robert M. Cummings",
             "race": "Black",
             "gender": "Male",
             "victimAge": "17",
-            "incidentLoci": "5802 Doeboy St."
+            "incidentLoci": "5802 Doeboy St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2056,13 +2421,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "129",
+            "idNo": "128",
             "reportDate": "10/31/2007",
             "victimName": "Jose Domingo Aguilar Vasquez",
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "Carousel Luxury Apartments, 2929 Justina Rd., Apt. 87"
+            "incidentLoci": "Carousel Luxury Apartments, 2929 Justina Rd., Apt. 87",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2072,13 +2440,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "130",
+            "idNo": "129",
             "reportDate": "11/2/2007",
             "victimName": "Arnold Fields",
             "race": "White",
             "gender": "Male",
             "victimAge": "55",
-            "incidentLoci": "Beauclerc Bay Apartments, 9047 San Jose Blvd."
+            "incidentLoci": "Beauclerc Bay Apartments, 9047 San Jose Blvd. ",
+            "causeDeath": "Undetermined",
+            "reportNumber": "none",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2088,13 +2459,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "131",
+            "idNo": "130",
             "reportDate": "11/3/2007",
             "victimName": "Chinda Has",
             "race": "Asian",
             "gender": "Female",
             "victimAge": "25",
-            "incidentLoci": "Bank of America parking lot, 840 Edgewood Ave. S."
+            "incidentLoci": "Bank of America parking lot, 840 Edgewood Ave. S.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2104,13 +2478,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "132",
+            "idNo": "131",
             "reportDate": "11/8/2007",
             "victimName": "Wilson LePeer-Sakudya",
             "race": "Black",
             "gender": "Male",
             "victimAge": "38",
-            "incidentLoci": "Summer Oak apartments, 5350 Arlington Expressway"
+            "incidentLoci": "Summer Oak apartments, 5350 Arlington Expressway",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2120,13 +2497,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "133",
+            "idNo": "132",
             "reportDate": "11/10/2007",
             "victimName": "Shawn Patrick Newman",
             "race": "Black",
             "gender": "Male",
             "victimAge": "35",
-            "incidentLoci": "4743 Radcliff Ct."
+            "incidentLoci": "4743 Radcliff Ct.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2136,13 +2516,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "134",
+            "idNo": "133",
             "reportDate": "11/10/2007",
             "victimName": "Quamiee Russ",
             "race": "Black",
             "gender": "Female",
             "victimAge": "15",
-            "incidentLoci": "Hilltop Village apartments, 1646 W. 45th St."
+            "incidentLoci": "Hilltop Village apartments, 1646 W. 45th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2152,13 +2535,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "135",
+            "idNo": "134",
             "reportDate": "11/16/2007",
             "victimName": "Crandall Jack Reed",
             "race": "White",
             "gender": "Male",
             "victimAge": "51",
-            "incidentLoci": "Quick Trip Food Mart, 576 Edgewood Ave. S."
+            "incidentLoci": "Quick Trip Food Mart, 576 Edgewood Ave. S.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2168,13 +2554,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "136",
+            "idNo": "135",
             "reportDate": "11/18/2007",
             "victimName": "Barry Lee Brooks",
             "race": "Black",
             "gender": "Male",
             "victimAge": "19",
-            "incidentLoci": "Mission Springs apartments, 5327 Timuquana Rd."
+            "incidentLoci": "Mission Springs apartments, 5327 Timuquana Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2184,13 +2573,16 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "137",
+            "idNo": "136",
             "reportDate": "11/22/2007",
             "victimName": "Richard Mark Wells",
             "race": "White",
             "gender": "Male",
             "victimAge": "43",
-            "incidentLoci": "8238 Newton St."
+            "incidentLoci": "8238 Newton St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2200,13 +2592,35 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "138",
+            "idNo": "137",
             "reportDate": "11/23/2007",
             "victimName": "Karen R. Mason",
             "race": "White",
             "gender": "Female",
             "victimAge": "51",
-            "incidentLoci": "379 Tidewater Drive"
+            "incidentLoci": "379 Tidewater Drive",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.775958, 30.259984]
+        },
+        "properties": {
+            "idYr": "2007",
+            "idNo": "138",
+            "reportDate": "11/28/2007",
+            "victimName": "Carlos Lopez",
+            "race": "Hispanic",
+            "gender": "Male",
+            "victimAge": "51",
+            "incidentLoci": "4324 Melissa Court",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2218,27 +2632,14 @@
             "idYr": "2007",
             "idNo": "139",
             "reportDate": "11/28/2007",
-            "victimName": "Carlos Lopez",
-            "race": "Hispanic",
-            "gender": "Male",
-            "victimAge": "51",
-            "incidentLoci": "4324 Melissa Court"
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-81.775958, 30.259984]
-        },
-        "properties": {
-            "idYr": "2007",
-            "idNo": "140",
-            "reportDate": "11/28/2007",
             "victimName": "Bunion Jermaine Way",
             "race": "Black",
             "gender": "Male",
             "victimAge": "29",
-            "incidentLoci": "4324 Melissa Court"
+            "incidentLoci": "4324 Melissa Court",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2248,13 +2649,35 @@
         },
         "properties": {
             "idYr": "2007",
-            "idNo": "141",
+            "idNo": "140",
             "reportDate": "11/29/2007",
             "victimName": "Paul Douglas Raborn",
             "race": "White",
             "gender": "Male",
             "victimAge": "59",
-            "incidentLoci": "11435 West Court Blvd."
+            "incidentLoci": "11435 West Court Blvd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.590557, 30.271402]
+        },
+        "properties": {
+            "idYr": "2008",
+            "idNo": "141",
+            "reportDate": "12/10/2007",
+            "victimName": "Kristian Kline",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "0.083",
+            "incidentLoci": "2981 Parental Home Road",
+            "causeDeath": "Undetermined",
+            "reportNumber": "1078208",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2270,7 +2693,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "51",
-            "incidentLoci": "1578 W. 35th St."
+            "incidentLoci": "1578 W. 35th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2286,7 +2712,10 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "29",
-            "incidentLoci": "The Preserve at Cedar River Apartments, 4301 Confederate Point Rd."
+            "incidentLoci": "The Preserve at Cedar River Apartments, 4301 Confederate Point Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2302,7 +2731,10 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "59",
-            "incidentLoci": "6948 Corkwood Road"
+            "incidentLoci": "6948 Corkwood Road",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2318,7 +2750,10 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "28",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St."
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2334,7 +2769,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "40",
-            "incidentLoci": "777 N. Lincoln Court"
+            "incidentLoci": "777 N. Lincoln Court",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2350,7 +2788,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St."
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2366,7 +2807,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "28",
-            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St."
+            "incidentLoci": "Eureka Garden apartments, 1214 Labelle St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2382,7 +2826,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "59",
-            "incidentLoci": "101 E. 17th St."
+            "incidentLoci": "101 E. 17th St.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2398,7 +2845,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "31",
-            "incidentLoci": "Les Chateaux Condominiums, 851 Bert Rd."
+            "incidentLoci": "Les Chateaux Condominiums, 851 Bert Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2414,7 +2864,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "34",
-            "incidentLoci": "Les Chateaux Condominiums, 851 Bert Rd."
+            "incidentLoci": "Les Chateaux Condominiums, 851 Bert Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -2430,7 +2883,10 @@
             "race": "Hispanic",
             "gender": "Male",
             "victimAge": "27",
-            "incidentLoci": "Atlantic Self Storage, 1414 Millcoe Rd."
+            "incidentLoci": "Atlantic Self Storage, 1414 Millcoe Rd.",
+            "causeDeath": "",
+            "reportNumber": "",
+            "urls": ""
         }
     }]
 }
