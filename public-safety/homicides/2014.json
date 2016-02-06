@@ -15,7 +15,9 @@
             "gender": "Female",
             "victimAge": "33",
             "incidentLoci": "4630 Sunderland Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0005568",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -32,7 +34,9 @@
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "Canterbury Gardens Apartments 1591 S Lane Ave",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0007280",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -49,7 +53,9 @@
             "gender": "Female",
             "victimAge": "21",
             "incidentLoci": "Canterbury Gardens Apartments 1591 S Lane Ave",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0007280",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -66,7 +72,9 @@
             "gender": "Male",
             "victimAge": "57",
             "incidentLoci": "Eden’s Edge Apartments 7101 Wilson Blvd",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0007908",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -83,7 +91,9 @@
             "gender": "Male",
             "victimAge": "31",
             "incidentLoci": "11000 N Santa Fe St.",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0009013",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -100,7 +110,9 @@
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "1150 Alta Vista St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0012591",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -117,7 +129,9 @@
             "gender": "Female",
             "victimAge": "38",
             "incidentLoci": "Tri Star Semi Trailer Repair 2727 Edgewood Ave N",
-            "causeDeath": "run over"
+            "causeDeath": "run over",
+            "reportNumber": "0020569",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -134,7 +148,9 @@
             "gender": "Male",
             "victimAge": "27",
             "incidentLoci": "1600 Prudential Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0025608",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -151,7 +167,9 @@
             "gender": "Male",
             "victimAge": "0.25",
             "incidentLoci": "1800 Edgewood Ave W.",
-            "causeDeath": "poisoned"
+            "causeDeath": "drugged",
+            "reportNumber": "0031654",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -168,7 +186,9 @@
             "gender": "Male",
             "victimAge": "20",
             "incidentLoci": "2200 Lake Shore Blvd.",
-            "causeDeath": "strangled or beaten"
+            "causeDeath": "strangled",
+            "reportNumber": "0055086",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -185,7 +205,9 @@
             "gender": "Male",
             "victimAge": "0.25",
             "incidentLoci": "421 Sago Ave.",
-            "causeDeath": "beaten"
+            "causeDeath": "shaken",
+            "reportNumber": "0614388",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -202,7 +224,9 @@
             "gender": "Male",
             "victimAge": "20",
             "incidentLoci": "2742 Aubrey Ave",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0056479",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -219,7 +243,9 @@
             "gender": "Male",
             "victimAge": "18",
             "incidentLoci": "4346 Roanoke Blvd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0074137",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -236,7 +262,9 @@
             "gender": "Male",
             "victimAge": "35",
             "incidentLoci": "Blodgett Villas apartments 630 W Fourth St",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0075501",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -253,7 +281,9 @@
             "gender": "Male",
             "victimAge": "39",
             "incidentLoci": "2100 block of Retaw Street",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0107413",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -270,7 +300,9 @@
             "gender": "Male",
             "victimAge": "24",
             "incidentLoci": "Fat Kats club 1187 Edgewood Ave S",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0109541",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -287,7 +319,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "6071 N Ancona Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0111244",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -304,7 +338,9 @@
             "gender": "Female",
             "victimAge": "2",
             "incidentLoci": "4800 Atlantic Blvd.",
-            "causeDeath": "beaten"
+            "causeDeath": "shaken",
+            "reportNumber": "0752476",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -321,7 +357,9 @@
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "1523 Pullen Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0124959",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -338,7 +376,9 @@
             "gender": "Male",
             "victimAge": "26",
             "incidentLoci": "1300 block of South Ellis Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0129652",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -355,7 +395,9 @@
             "gender": "Male",
             "victimAge": "47",
             "incidentLoci": "1205 Carthage Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0144702",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -372,7 +414,9 @@
             "gender": "Male",
             "victimAge": "27",
             "incidentLoci": "Southpoint Place Apartments 3541 Victoria Park Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0142243",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -389,7 +433,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "Eureka Garden 1214 Labelle St",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0180529",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -406,7 +452,9 @@
             "gender": "Male",
             "victimAge": "38",
             "incidentLoci": "1406 Powhattan St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0183939",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -423,7 +471,9 @@
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "Mandell Drive at South Barnes Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0192410",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -440,7 +490,9 @@
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "3410 Division St.",
-            "causeDeath": "shot by police"
+            "causeDeath": "shot by police",
+            "reportNumber": "0194689",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -457,7 +509,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "3329 E Cancun Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0204399",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -474,7 +528,9 @@
             "gender": "Male",
             "victimAge": "40",
             "incidentLoci": "1000 De Paul Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0212789",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -491,7 +547,9 @@
             "gender": "Male",
             "victimAge": "34",
             "incidentLoci": "3024 E Kline Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0215173",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -508,7 +566,9 @@
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "Jones & Jones Corner Store 1630 E 28th St",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0254339",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -525,7 +585,9 @@
             "gender": "Male",
             "victimAge": "17",
             "incidentLoci": "9075 Fourth St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0256476",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -542,7 +604,9 @@
             "gender": "Male",
             "victimAge": "53",
             "incidentLoci": "The Oaks at Durkeeville 1132 Steele Court",
-            "causeDeath": "shot and stabbed"
+            "causeDeath": "shot",
+            "reportNumber": "0257546",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -559,7 +623,9 @@
             "gender": "Male",
             "victimAge": "37",
             "incidentLoci": "7400 Bruce St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0264019",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -576,7 +642,9 @@
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "2800 Coachman Lakes Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0266542",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -593,7 +661,9 @@
             "gender": "Male",
             "victimAge": "33",
             "incidentLoci": "3103 Fitzgerald St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0275999",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -610,7 +680,9 @@
             "gender": "Female",
             "victimAge": "35",
             "incidentLoci": "6152 Catawissa Court",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0279566",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -627,7 +699,9 @@
             "gender": "Male",
             "victimAge": "24",
             "incidentLoci": "10100 Beam St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0291867",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -644,7 +718,9 @@
             "gender": "Male",
             "victimAge": "37",
             "incidentLoci": "1400 block of Sixth Street",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0293173",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -661,7 +737,9 @@
             "gender": "Female",
             "victimAge": "29",
             "incidentLoci": "7500 Park City Drive",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0301386",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -678,7 +756,9 @@
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "5600 California Ave.",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0300005",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -695,7 +775,9 @@
             "gender": "Male",
             "victimAge": "29",
             "incidentLoci": "8810 Doe Lane",
-            "causeDeath": "shot by police"
+            "causeDeath": "shot by police",
+            "reportNumber": "0300904",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -712,7 +794,9 @@
             "gender": "Male",
             "victimAge": "33",
             "incidentLoci": "7000 N Main St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0308240",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -729,7 +813,9 @@
             "gender": "Male",
             "victimAge": "26",
             "incidentLoci": "Roosevelt Gardens apartments 702 N Lincoln Court",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0355033",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -746,7 +832,9 @@
             "gender": "Female",
             "victimAge": "48",
             "incidentLoci": "2749 Suni Pines Blvd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0365048",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -763,7 +851,9 @@
             "gender": "Male",
             "victimAge": "54",
             "incidentLoci": "Moose Road and New Berlin Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0363770",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -780,7 +870,9 @@
             "gender": "Female",
             "victimAge": "55",
             "incidentLoci": "785 E 56th St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0372630",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -797,7 +889,9 @@
             "gender": "Male",
             "victimAge": "59",
             "incidentLoci": "Willow Lakes apartments 7623 Jasper Ave",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0377914",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -814,7 +908,9 @@
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "6700 London Bridge Lane",
-            "causeDeath": "shot by police"
+            "causeDeath": "shot by police",
+            "reportNumber": "0383552",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -831,7 +927,9 @@
             "gender": "Male",
             "victimAge": "43",
             "incidentLoci": "534 W 27th St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0389934",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -848,7 +946,9 @@
             "gender": "Male",
             "victimAge": "33",
             "incidentLoci": "7431 Wilson Blvd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0407232",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -865,7 +965,9 @@
             "gender": "Male",
             "victimAge": "15",
             "incidentLoci": "4403 E Melvin Circle",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0411504",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -882,7 +984,9 @@
             "gender": "Male",
             "victimAge": "32",
             "incidentLoci": "8172 Metto Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0415421",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -899,7 +1003,9 @@
             "gender": "Male",
             "victimAge": "33",
             "incidentLoci": "7752 Lem Turner Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot ",
+            "reportNumber": "0424787",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -916,7 +1022,9 @@
             "gender": "Male",
             "victimAge": "51",
             "incidentLoci": "1813 N St Johns Bluff Road",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0427696",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -933,7 +1041,9 @@
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "10109 Jackson Terrace",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0428756",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -950,7 +1060,9 @@
             "gender": "Male",
             "victimAge": "18",
             "incidentLoci": "4100 Lorenzo Court",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0436269",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -967,7 +1079,9 @@
             "gender": "Male",
             "victimAge": "54",
             "incidentLoci": "7411 103rd St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0441895",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -984,7 +1098,9 @@
             "gender": "Female",
             "victimAge": "41",
             "incidentLoci": "5628 S Shady Pine St.",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0444404",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1001,7 +1117,9 @@
             "gender": "Female",
             "victimAge": "17",
             "incidentLoci": "5628 S Shady Pine St.",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0444404",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1018,7 +1136,9 @@
             "gender": "Male",
             "victimAge": "33",
             "incidentLoci": "Normandy Estates Manufactured Home Community 8985 Normandy Blvd",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0445409",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1035,7 +1155,9 @@
             "gender": "Male",
             "victimAge": "55",
             "incidentLoci": "1921 S Lane Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0446037",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1052,7 +1174,9 @@
             "gender": "Male",
             "victimAge": "59",
             "incidentLoci": "3623 MacGregor Drive",
-            "causeDeath": "shot by police"
+            "causeDeath": "shot by police",
+            "reportNumber": "0450043",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1069,7 +1193,9 @@
             "gender": "Male",
             "victimAge": "36",
             "incidentLoci": "6303 Catoma St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0461532",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1086,7 +1212,9 @@
             "gender": "Female",
             "victimAge": "67",
             "incidentLoci": "3824 Ernjo Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0469626",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1103,7 +1231,9 @@
             "gender": "Male",
             "victimAge": "16",
             "incidentLoci": "4400 Detaille Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0471317",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1120,7 +1250,9 @@
             "gender": "Male",
             "victimAge": "14",
             "incidentLoci": "Johnnie Walker Community Center 2740 Division St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0474650",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1137,7 +1269,9 @@
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "2200 Cypress Landing Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0482576",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1154,7 +1288,9 @@
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "BP gas station 9700 Atlantic Blvd",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0499823",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1171,7 +1307,9 @@
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "Canterbury Gardens Apartments 1591 S Lane Ave",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0529457",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1188,7 +1326,9 @@
             "gender": "Male",
             "victimAge": "35",
             "incidentLoci": "East 11th and Franklin streets",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0546534",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1205,7 +1345,9 @@
             "gender": "Male",
             "victimAge": "44",
             "incidentLoci": "6900 Goldilocks Lane",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0561722",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1222,7 +1364,9 @@
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "846 Seabrook Cove Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0563037",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1239,7 +1383,9 @@
             "gender": "Female",
             "victimAge": "57",
             "incidentLoci": "The Retreat at Kernan 4790 Seascape Way",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0589540",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1256,7 +1402,9 @@
             "gender": "Male",
             "victimAge": "30",
             "incidentLoci": "6500 N Main",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0612149",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1273,7 +1421,9 @@
             "gender": "Male",
             "victimAge": "77",
             "incidentLoci": "3919 W Gumwood Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0620237",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1290,7 +1440,9 @@
             "gender": "Female",
             "victimAge": "50",
             "incidentLoci": "1300 Eaverson St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0623851",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1307,7 +1459,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "8500 block of Hare Avenue",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0637762",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1324,7 +1478,9 @@
             "gender": "Female",
             "victimAge": "25",
             "incidentLoci": "3505 Chase Ave.",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0640548",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1341,7 +1497,9 @@
             "gender": "Male",
             "victimAge": "49",
             "incidentLoci": "Suburban Extended Stay 8285 Philips Hwy",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0641840",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1358,7 +1516,9 @@
             "gender": "Male",
             "victimAge": "34",
             "incidentLoci": "2898 Burke St.",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0642255",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1375,7 +1535,9 @@
             "gender": "Male",
             "victimAge": "23",
             "incidentLoci": "2898 Burke St.",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0642255",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1392,7 +1554,9 @@
             "gender": "Female",
             "victimAge": "19",
             "incidentLoci": "9800 Sisson Drive",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0650115",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1409,7 +1573,9 @@
             "gender": "Female",
             "victimAge": "18",
             "incidentLoci": "9800 Sisson Drive",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0650115",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1426,7 +1592,9 @@
             "gender": "Male",
             "victimAge": "50",
             "incidentLoci": "Highlander apartments 10621 Monaco Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0652988",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1443,7 +1611,9 @@
             "gender": "Male",
             "victimAge": "30",
             "incidentLoci": "University Place apartments 3291 University Blvd N",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0669737",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1460,7 +1630,9 @@
             "gender": "Male",
             "victimAge": "17",
             "incidentLoci": "7300 Linda Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0604602",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1477,7 +1649,9 @@
             "gender": "Male",
             "victimAge": "26",
             "incidentLoci": "7300 Linda Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0604602",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1494,7 +1668,9 @@
             "gender": "Male",
             "victimAge": "20",
             "incidentLoci": "7300 Linda Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0604602",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1511,7 +1687,9 @@
             "gender": "Female",
             "victimAge": "42",
             "incidentLoci": "Elements of Belle Rive apartments 10010 Belle Rive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0718771",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1528,7 +1706,9 @@
             "gender": "Male",
             "victimAge": "35",
             "incidentLoci": "Glenwood Apartments 1920 Dean Road",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0730065",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1545,7 +1725,9 @@
             "gender": "Male",
             "victimAge": "62",
             "incidentLoci": "4400 Moncrief Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0733016",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1562,7 +1744,9 @@
             "gender": "Female",
             "victimAge": "28",
             "incidentLoci": "Hawthorn Suites by Wyndham 8737 Baymeadows Road",
-            "causeDeath": "stabbed"
+            "causeDeath": "stabbed",
+            "reportNumber": "0743763",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1579,7 +1763,9 @@
             "gender": "Male",
             "victimAge": "15",
             "incidentLoci": "Eureka Garden apartments 1214 Labelle St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0750213",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1596,7 +1782,9 @@
             "gender": "Male",
             "victimAge": "0.33",
             "incidentLoci": "3667 Hartsfield Forest Circle",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0754930",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1613,7 +1801,9 @@
             "gender": "Female",
             "victimAge": "59",
             "incidentLoci": "Woodcreek at Regency Square 400 Monument Road",
-            "causeDeath": "suffocated"
+            "causeDeath": "suffocated",
+            "reportNumber": "0754126",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1630,7 +1820,9 @@
             "gender": "Male",
             "victimAge": "52",
             "incidentLoci": "1242 Cove Landing Dr.",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0759155",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1647,7 +1839,9 @@
             "gender": "Female",
             "victimAge": "1",
             "incidentLoci": "4300 block of Putnam Avenue",
-            "causeDeath": "beaten"
+            "causeDeath": "shaken",
+            "reportNumber": "0761546",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1664,7 +1858,9 @@
             "gender": "Male",
             "victimAge": "25",
             "incidentLoci": "Eureka Garden apartments 1214 Labelle Street",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0763272",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1681,7 +1877,9 @@
             "gender": "Male",
             "victimAge": "24",
             "incidentLoci": "GATE gas station #1143 570 Busch Drive",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0780626",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1698,7 +1896,9 @@
             "gender": "Female",
             "victimAge": "29",
             "incidentLoci": "5672 S. English Oaks Dr.",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0780834",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1715,7 +1915,9 @@
             "gender": "Male",
             "victimAge": "51",
             "incidentLoci": "St. Johns River at Dames Point Bridge",
-            "causeDeath": "Undetermined"
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0780792",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1732,7 +1934,9 @@
             "gender": "Male",
             "victimAge": "29",
             "incidentLoci": "139 Cottage Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0794361",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1749,7 +1953,9 @@
             "gender": "Male",
             "victimAge": "29",
             "incidentLoci": "139 Cottage Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0794361",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1766,7 +1972,9 @@
             "gender": "Male",
             "victimAge": "33",
             "incidentLoci": "7023 103rd St",
-            "causeDeath": "shot by police"
+            "causeDeath": "shot by police",
+            "reportNumber": "0817312",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1783,7 +1991,9 @@
             "gender": "Male",
             "victimAge": "22",
             "incidentLoci": "3163 Division St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0821749",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1800,7 +2010,9 @@
             "gender": "Male",
             "victimAge": "21",
             "incidentLoci": "2500 W. Moncrief Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0828711",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1817,7 +2029,9 @@
             "gender": "Female",
             "victimAge": "44",
             "incidentLoci": "17000 block of Wells Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0840918",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1834,7 +2048,9 @@
             "gender": "Male",
             "victimAge": "36",
             "incidentLoci": "3900 block of South Lane Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0850012",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1851,7 +2067,9 @@
             "gender": "Male",
             "victimAge": "16",
             "incidentLoci": "West 13th Street at North Canal Street",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0852003",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1868,7 +2086,9 @@
             "gender": "Male",
             "victimAge": "26",
             "incidentLoci": "1033 Bert Road",
-            "causeDeath": "shot"
+            "causeDeath": "self-defense shooting",
+            "reportNumber": "0865796",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1885,7 +2105,9 @@
             "gender": "Male",
             "victimAge": "51",
             "incidentLoci": "821 Oakley St.",
-            "causeDeath": "burned"
+            "causeDeath": "arson",
+            "reportNumber": "0872314",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1902,7 +2124,9 @@
             "gender": "Male",
             "victimAge": "32",
             "incidentLoci": "Mathews Crossing Apartments, 8090 Atlantic Blvd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0875297",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1919,7 +2143,9 @@
             "gender": "Male",
             "victimAge": "30",
             "incidentLoci": "7700 Burma Rd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0874782",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1936,7 +2162,9 @@
             "gender": "Female",
             "victimAge": "22",
             "incidentLoci": "1023 12th St. E.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0888158",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1953,7 +2181,9 @@
             "gender": "Male",
             "victimAge": "31",
             "incidentLoci": "1200 West 27th St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0890560",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1970,7 +2200,9 @@
             "gender": "Male",
             "victimAge": "28",
             "incidentLoci": "3700 University Club Blvd.",
-            "causeDeath": "shot by police"
+            "causeDeath": "shot by police",
+            "reportNumber": "0892334",
+            "urls": ""
         }
     }, {
         "type": "Feature",
@@ -1987,7 +2219,9 @@
             "gender": "Male",
             "victimAge": "38",
             "incidentLoci": "McDuff Food Mart, 730 North McDuff Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0894206",
+            "urls": ""
         }
     }]
 }
