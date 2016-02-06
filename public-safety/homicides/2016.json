@@ -4,7 +4,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.761041, 30.453911]
+            "coordinates": [-81.760928, 30.454156]
         },
         "properties": {
             "idYr": "2016",
@@ -14,8 +14,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "41",
-            "incidentLoci": "12300 Cadley Circle",
-            "causeDeath": "shot"
+            "incidentLoci": "12343 Cadley Circle",
+            "causeDeath": "shot",
+            "reportNumber": "0883461",
+            "urls": "http://jaxne.ws/1R1Rpt5"
         }
     }, {
         "type": "Feature",
@@ -32,7 +34,9 @@
             "gender": "Male",
             "victimAge": "70",
             "incidentLoci": "1317 Mc Conihe St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0000726",
+            "urls": "http://fcnews.tv/1Uk8LiL"
         }
     }, {
         "type": "Feature",
@@ -49,7 +53,9 @@
             "gender": "Male",
             "victimAge": "61",
             "incidentLoci": "Harts Harbor Health Care Center, 11565 Harts Rd.",
-            "causeDeath": "beaten"
+            "causeDeath": "beaten",
+            "reportNumber": "0017352",
+            "urls": "http://3loons.me/1JT5AP7"
         }
     }, {
         "type": "Feature",
@@ -66,7 +72,9 @@
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "8099 Cocoa Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0004525",
+            "urls": "http://fcnews.tv/1R4SccJ"
         }
     }, {
         "type": "Feature",
@@ -77,13 +85,15 @@
         "properties": {
             "idYr": "2016",
             "idNo": "5",
-            "reportDate": "1/3/2016",
+            "reportDate": "1/4/2016",
             "victimName": "Kenya Javan Davis",
             "race": "Black",
             "gender": "Female",
-            "victimAge": "41",
+            "victimAge": "42",
             "incidentLoci": "Ortega Pines Apartments, 4800 Ortega Farms Blvd.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0006302",
+            "urls": "http://fcnews.tv/1R7unAU"
         }
     }, {
         "type": "Feature",
@@ -100,7 +110,9 @@
             "gender": "Male",
             "victimAge": "33",
             "incidentLoci": "Maxway Shopping Plaza, 203 W. 48th St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0029305",
+            "urls": "http://fcnews.tv/1UR8pAv"
         }
     }, {
         "type": "Feature",
@@ -117,7 +129,9 @@
             "gender": "Female",
             "victimAge": "22",
             "incidentLoci": "1500 Harper St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0035503",
+            "urls": "http://fcnews.tv/1UZh4AW"
         }
     }, {
         "type": "Feature",
@@ -134,7 +148,9 @@
             "gender": "Male",
             "victimAge": "29",
             "incidentLoci": "502 Cassat Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0037539",
+            "urls": "http://fcnews.tv/1RvE2l8"
         }
     }, {
         "type": "Feature",
@@ -151,13 +167,15 @@
             "gender": "Male",
             "victimAge": "36",
             "incidentLoci": "1130 W. 31st St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0055310",
+            "urls": "http://fcnews.tv/1VnBV0R"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.702579, 30.336978]
+            "coordinates": [-81.702838, 30.337443]
         },
         "properties": {
             "idYr": "2016",
@@ -167,14 +185,16 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "26",
-            "incidentLoci": "1000 Westbrook Cir W",
-            "causeDeath": "shot"
+            "incidentLoci": "1028 Westbrook Cir W",
+            "causeDeath": "shot",
+            "reportNumber": "0058811",
+            "urls": "http://fcnews.tv/1nRjsz7"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.702779, 30.336978]
+            "coordinates": [-81.702838, 30.337443]
         },
         "properties": {
             "idYr": "2016",
@@ -184,14 +204,16 @@
             "race": "Black",
             "gender": "Female",
             "victimAge": "21",
-            "incidentLoci": "1000 Westbrook Cir W",
-            "causeDeath": "shot"
+            "incidentLoci": "1028 Westbrook Cir W",
+            "causeDeath": "shot",
+            "reportNumber": "0058811",
+            "urls": "http://fcnews.tv/1nRjsz7"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.703401, 30.360313]
+            "coordinates": [-81.703582, 30.359912]
         },
         "properties": {
             "idYr": "2016",
@@ -201,14 +223,16 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "22",
-            "incidentLoci": "3500 Henrietta St.",
-            "causeDeath": "shot"
+            "incidentLoci": "3516 Henrietta St.",
+            "causeDeath": "shot",
+            "reportNumber": "0059888",
+            "urls": "http://fcnews.tv/207WHIF"
         }
     }, {
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.644139, 30.330252]
+            "coordinates": [-81.644567, 30.329438]
         },
         "properties": {
             "idYr": "2016",
@@ -218,8 +242,10 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "1",
-            "incidentLoci": "700 Spearing St.",
-            "causeDeath": "shot"
+            "incidentLoci": "Spearing and Albert streets",
+            "causeDeath": "shot",
+            "reportNumber": "0063965",
+            "urls": "http://fcnews.tv/1QMwYiZ"
         }
     }, {
         "type": "Feature",
@@ -231,12 +257,52 @@
             "idYr": "2016",
             "idNo": "14",
             "reportDate": "1/30/2016",
-            "victimName": "Melvin Gene Wright ",
+            "victimName": "Melvin Gene Wright",
             "race": "Black",
             "gender": "Male",
-            "victimAge": "62",
+            "victimAge": "60",
             "incidentLoci": "Bloxham and Wakefield avenues",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0066550",
+            "urls": "http://3loons.me/1nXfbud"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.671343, 30.36374]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "15",
+            "reportDate": "2/5/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "Unreported",
+            "incidentLoci": "1100 W. 31st St.",
+            "causeDeath": "stabbed",
+            "reportNumber": "0079370",
+            "urls": "http://fcnews.tv/1L6dShz"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.584962, 30.32843]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "16",
+            "reportDate": "2/6/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "Unreported",
+            "incidentLoci": "Arlington Village Apartments, 840 Bert Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0081186",
+            "urls": "http://bit.ly/1nPtH6K"
         }
     }]
 }
