@@ -304,5 +304,22 @@
             "reportNumber": "0081186",
             "urls": "http://bit.ly/1nPtH6K"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.640164, 30.353035]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "17",
+            "reportDate": "2/6/2016",
+            "victimName": "Marvin Levi Smith",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "1139 E. 15th St.",
+            "causeDeath": "shot"
+        }
     }]
 }
