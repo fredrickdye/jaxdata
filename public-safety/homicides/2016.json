@@ -289,7 +289,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.584962, 30.32843]
+            "coordinates": [-81.585833, 30.330876]
         },
         "properties": {
             "idYr": "2016",
