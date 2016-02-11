@@ -1,0 +1,95 @@
+<html>
+  <head>
+    <title>Jacksonville, Florida, Homicides Since 2008 | Map Second Take</title>
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.12/themes/css/cartodb.css" /> 
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+      <style>
+          div.cartodb-zoom {
+              float: right;
+              margin: 20px 150px 0 20px;
+          }
+      </style>
+  </head>
+
+  <body>
+
+    <div id="map"></div>
+    <div id="layer_selector" class="cartodb-infobox">
+      <ul>
+        <li data="all" class="selected">All years</li>
+        <li data="2016">2016</li>
+        <li data="2015">2015</li>
+        <li data="2014">2014</li>
+        <li data="2013">2013</li>
+        <li data="2012">2012</li>
+        <li data="2011">2011</li>
+        <li data="2010">2010</li>
+        <li data="2009">2009</li>
+        <li data="2008">2008</li>
+      </ul>
+    </div>
+    <div id="leftBkg"></div>
+    <div id="overlay"></div>
+
+    <div class="left">
+      <div id="title"></div>
+      <p>There have been more than 900 homicides in the city of Jacksonville since 2008.</p>
+      <p>While it's easy to get lost in the statistics behind Jacksonville's standing as Florida's murder capital, the victims are often forgotten. Here is a quick look at each homicide victim.</p>
+      <p>This map was developed using the CartoDB JavaScript library, <a href="https://github.com/CartoDB/cartodb.js">Cartodb.js</a> Fork it and create your own.</p>
+    </div>
+
+    <!--<div id="pointTT">
+      <p></p>
+    </div>-->
+
+    <!-- include cartodb.js library -->
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+
+    <script>
+      // create layer selector
+      function createSelector(layer) {
+        var sql = new cartodb.SQL({ user: 'freddye' });
+
+        var $options = $('#layer_selector li');
+        $options.click(function(e) {
+          // get the year of the selected layer
+          var $li = $(e.target);
+          var year = $li.attr('data');
+
+          // deselect all and select the clicked one
+          $options.removeClass('selected');
+          $li.addClass('selected');
+
+          // create query based on data from the layer
+          var query = "select * from jacksonville_florida_homicides_since_2008";
+
+          if(year !== 'all') {
+            query = "select * from jacksonville_florida_homicides_since_2008 where idyr = " + year;
+          }
+
+          // change the query in the layer to update the map
+          layer.setSQL(query);
+        });
+      }
+
+      function main() {
+        cartodb.createVis('map', 'https://freddye.cartodb.com/api/v2/viz/995aa716-d046-11e5-8363-0ecd1babdde5/viz.json', {
+          tiles_loader: true,
+          center: [30.355, -81.70],
+          zoom: 11
+        })
+        .done(function(vis, layers) {
+          // layer 0 is the base layer, layer 1 is cartodb layer
+          var subLayer = layers[1].getSubLayer(0);
+          createSelector(subLayer);
+        })
+        .error(function(err) {
+          console.log(err);
+        });
+      }
+
+      window.onload = main;
+    </script>
+  </body>
+</html>
