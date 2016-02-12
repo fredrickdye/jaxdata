@@ -42,7 +42,7 @@ div#overlay{
 
 div#leftBkg{
 	background: url(../img/leftBkg.png) repeat-y;
-	width: 619px;
+	width: 600px;
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -55,12 +55,12 @@ div.left{
 	left: 60px;
 	top: 60px;
 	z-index: 3;
-    color: #fff;
+    color: #555555;
 }
 
 div.left div#title{
-	width: 428px;
-	height: 195px;
+	width: 250px;
+	height: 200px;
 	background: url(../img/title.png) no-repeat;
 }
 
@@ -68,7 +68,8 @@ div.left p{
 	font-family: "robotoregular", Helvetica, Arial, Sans-serif;
 	font-size: 1.0em;
     line-height: 1.2em;
-	width: 400px;
+    text-align: center;
+	width: 250px;
 	margin: 18px 0 0 10px;
 	/*opacity: .5;*/
 }
