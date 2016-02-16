@@ -321,5 +321,39 @@
             "incidentLoci": "1139 E. 15th St.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.647281, 30.341352]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "18",
+            "reportDate": "1/17/2016",
+            "victimName": "Talmadge Eugene King",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "47",
+            "incidentLoci": "435 E. 5th St.",
+            "causeDeath": "shot by police"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.760955, 30.275806]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "19",
+            "reportDate": "2/11/2016",
+            "victimName": "Marcus Malik Washington",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "20",
+            "incidentLoci": "6965 Goldilocks Ln.",
+            "causeDeath": "shot"
+        }
     }]
 }
