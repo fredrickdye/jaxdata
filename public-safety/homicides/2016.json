@@ -359,7 +359,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.706032, 30.387096]
+            "coordinates": [-81.708115, 30.385165]
         },
         "properties": {
             "idYr": "2016",
@@ -369,7 +369,7 @@
             "race": "White",
             "gender": "Male",
             "victimAge": "unreported",
-            "incidentLoci": "3600 Owen Ave.",
+            "incidentLoci": "3721 Owen Ave.",
             "causeDeath": "injured by undetermined means"
         }
     }]
