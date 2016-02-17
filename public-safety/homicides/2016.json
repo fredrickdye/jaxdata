@@ -355,5 +355,22 @@
             "incidentLoci": "6965 Goldilocks Ln.",
             "causeDeath": "shot"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.706032, 30.387096]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "20",
+            "reportDate": "2/17/2016",
+            "victimName": "Unidentified",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "3600 Owen Ave.",
+            "causeDeath": "injured by undetermined means"
+        }
     }]
 }
