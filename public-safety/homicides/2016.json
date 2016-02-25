@@ -319,7 +319,9 @@
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "1139 E. 15th St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0082417",
+            "urls": "http://fcnews.tv/1LfwY4K"
         }
     }, {
         "type": "Feature",
@@ -336,7 +338,9 @@
             "gender": "Male",
             "victimAge": "47",
             "incidentLoci": "435 E. 5th St.",
-            "causeDeath": "shot by police"
+            "causeDeath": "shot by police",
+            "reportNumber": "0037425",
+            "urls": "http://fcnews.tv/1XoUC60"
         }
     }, {
         "type": "Feature",
@@ -353,7 +357,9 @@
             "gender": "Male",
             "victimAge": "20",
             "incidentLoci": "6965 Goldilocks Ln.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0093167",
+            "urls": "http://fcnews.tv/1o8gbfk"
         }
     }, {
         "type": "Feature",
@@ -370,7 +376,47 @@
             "gender": "Male",
             "victimAge": "38",
             "incidentLoci": "3721 Owen Ave.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0104967",
+            "urls": "http://fcnews.tv/1KX1BRR"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.696768, 30.334558]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "21",
+            "reportDate": "2/24/2016",
+            "victimName": "Deonte Rashad Allen",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "805 Line St.",
+            "causeDeath": "shot",
+            "reportNumber": "0122364",
+            "urls": "http://fcnews.tv/1QdFfZf"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.717112, 30.391434]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "22",
+            "reportDate": "2/24/2016",
+            "victimName": "Damion Antonio Gray",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "30",
+            "incidentLoci": "4600 Ken Knight Dr. N.",
+            "causeDeath": "4600 Ken Knight Dr. N.",
+            "reportNumber": "0123551",
+            "urls": "http://fcnews.tv/1oKheCD"
         }
     }]
 }
