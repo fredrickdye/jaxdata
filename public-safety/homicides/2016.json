@@ -441,7 +441,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [30.322626, -81.783186]
+            "coordinates": [-81.783186, 30.322626]
         },
         "properties": {
             "idYr": "2016",
