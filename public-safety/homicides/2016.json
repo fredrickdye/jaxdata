@@ -456,5 +456,24 @@
             "reportNumber": "0129412",
             "urls": "http://fcnews.tv/1S8AWTS"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.723914, 30.329444]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "25",
+            "reportDate": "3/2/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "Silver Foxx, 3243 W. Beaver St.",
+            "causeDeath": "shot",
+            "reportNumber": "0137852",
+            "urls": "http://fcnews.tv/1RHVLTR"
+        }
     }]
 }
