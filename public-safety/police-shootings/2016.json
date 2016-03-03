@@ -26,14 +26,14 @@
 		"properties": {
 			"jurisdiction": "Federal",
 			"id": "201602",
-			"name": "Talmadge King",
+			"name": "Talmadge Eugene King",
 			"race": "White",
 			"gender": "Male",
 			"age": "47",
-			"reportNo": "NA",
-			"where": "400 E. 5th St.",
+			"reportNo": "0037425",
+			"where": "435 E. 5th St.",
 			"date": "1/17/2016",
-			"result": "wounded",
+			"result": "killed",
 			"status": "armed (with a knife)"
 		}
 	},{
@@ -54,6 +54,25 @@
 			"date": "1/22/2016",
 			"result": "wounded",
 			"status": "unarmed"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.701982, 30.394325]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201604",
+			"name": "Criss Deon Coleman",
+			"race": "Black",
+			"gender": "Male",
+			"age": "19",
+			"reportNo": "96329",
+			"where": "6735 Cavalier Rd.",
+			"date": "2/13/2016",
+			"result": "wounded",
+			"status": "armed"
 		}
 	}
 ]}

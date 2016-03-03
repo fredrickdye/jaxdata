@@ -6,6 +6,10 @@ A collection of data focused on Jacksonville and Northeast Florida.
 ### Jacksonville Homicides
 [GeoJSON files](public-safety/homicides/) outlining the basic information regarding each homicide reported in the city of Jacksonville, Florida, since 2006. Sourced from the Florida Times-Union archives (through 2015 - via its public data pages), other regional media, the Jacksonville Sheriff's Office and the Florida Department of Law Enforcement.
 
+If you just want to view the data on maps, there are use cases available here:
+* Year-by-year selector (since 2008), [functional example](http://fredrickdye.github.io/jaxdata/use-cases/homicides-map-2/). [View the code here](use-cases/homicides-map-2/).
+* Year-by year selector (since 2008), [product prototype for tablet and up](http://fredrickdye.github.io/jaxdata/use-cases/homicides-map-1/). [View the code here](use-cases/homicides-map-1/).
+
 ### Northeast Florida Police Shootings
 [GeoJSON files](public-safety/police-shootings/) outlining the basic information regarding each police shooting reported in Northeast Florida since 2007. Sourced from the Florida Times-Union archives (through 2015 - via its public data pages), other regional media, local law enforcement and the Florida Department of Law Enforcement. Geographic area of coverage includes jurisdictions within the Florida counties of Baker, Clay, Duval, Flagler, Putnam, Nassau and St. Johns.
 

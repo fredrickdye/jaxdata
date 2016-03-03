@@ -319,7 +319,161 @@
             "gender": "Male",
             "victimAge": "19",
             "incidentLoci": "1139 E. 15th St.",
-            "causeDeath": "shot"
+            "causeDeath": "shot",
+            "reportNumber": "0082417",
+            "urls": "http://fcnews.tv/1LfwY4K"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.647281, 30.341352]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "18",
+            "reportDate": "1/17/2016",
+            "victimName": "Talmadge Eugene King",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "47",
+            "incidentLoci": "435 E. 5th St.",
+            "causeDeath": "shot by police",
+            "reportNumber": "0037425",
+            "urls": "http://fcnews.tv/1XoUC60"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.760955, 30.275806]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "19",
+            "reportDate": "2/11/2016",
+            "victimName": "Marcus Malik Washington",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "20",
+            "incidentLoci": "6965 Goldilocks Ln.",
+            "causeDeath": "shot",
+            "reportNumber": "0093167",
+            "urls": "http://fcnews.tv/1o8gbfk"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.708115, 30.385165]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "20",
+            "reportDate": "2/17/2016",
+            "victimName": "Dustin Wayne Howell",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "38",
+            "incidentLoci": "3721 Owen Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "0104967",
+            "urls": "http://fcnews.tv/1KX1BRR"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.696768, 30.334558]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "21",
+            "reportDate": "2/24/2016",
+            "victimName": "Deonte Rashad Allen",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "805 Line St.",
+            "causeDeath": "shot",
+            "reportNumber": "0122364",
+            "urls": "http://fcnews.tv/1QdFfZf"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.717112, 30.391434]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "22",
+            "reportDate": "2/24/2016",
+            "victimName": "Damion Antonio Gray",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "30",
+            "incidentLoci": "4600 Ken Knight Dr. N.",
+            "causeDeath": "4600 Ken Knight Dr. N.",
+            "reportNumber": "0123551",
+            "urls": "http://fcnews.tv/1oKheCD"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.721337, 30.277742]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "23",
+            "reportDate": "2/26/2016",
+            "victimName": "Lou Ellen Martin",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "61",
+            "incidentLoci": "2234 Urban Rd.",
+            "causeDeath": "beaten",
+            "reportNumber": "0126624",
+            "urls": "http://fcnews.tv/1Q91WA7"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.783186, 30.322626]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "24",
+            "reportDate": "2/27/2016",
+            "victimName": "Juan Carlos Lopez",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "33",
+            "incidentLoci": "8100 W. Beaver St.",
+            "causeDeath": "shot",
+            "reportNumber": "0129412",
+            "urls": "http://fcnews.tv/1S8AWTS"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.723914, 30.329444]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "25",
+            "reportDate": "3/2/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "Silver Foxx, 3243 W. Beaver St.",
+            "causeDeath": "shot",
+            "reportNumber": "0137852",
+            "urls": "http://fcnews.tv/1RHVLTR"
         }
     }]
 }
