@@ -475,5 +475,43 @@
             "reportNumber": "0137852",
             "urls": "http://fcnews.tv/1RHVLTR"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.595956, 30.347405]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "26",
+            "reportDate": "3/9/2016",
+            "victimName": "Unidentified",
+            "race": "unreported",
+            "gender": "unreported",
+            "victimAge": "unreported",
+            "incidentLoci": "XXXXXX",
+            "causeDeath": "shot",
+            "reportNumber": "0154499",
+            "urls": "http://fcnews.tv/1QEPPL6"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.542901, 30.181658]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "27",
+            "reportDate": "3/9/2016",
+            "victimName": "Unidentified",
+            "race": "unreported",
+            "gender": "unreported",
+            "victimAge": "unreported",
+            "incidentLoci": "XXXXXX",
+            "causeDeath": "shot",
+            "reportNumber": "0154560",
+            "urls": "http://fcnews.tv/1TL5xZo"
+        }
     }]
 }
