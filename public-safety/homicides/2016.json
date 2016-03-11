@@ -466,14 +466,52 @@
             "idYr": "2016",
             "idNo": "25",
             "reportDate": "3/2/2016",
-            "victimName": "Unidentified",
+            "victimName": "Marlon Louis Brice",
             "race": "Black",
             "gender": "Male",
-            "victimAge": "unreported",
+            "victimAge": "28",
             "incidentLoci": "Silver Foxx, 3243 W. Beaver St.",
             "causeDeath": "shot",
             "reportNumber": "0137852",
             "urls": "http://fcnews.tv/1RHVLTR"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.595956, 30.347405]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "26",
+            "reportDate": "3/9/2016",
+            "victimName": "Unidentified",
+            "race": "unreported",
+            "gender": "unreported",
+            "victimAge": "unreported",
+            "incidentLoci": "5900 Redberry Ln.",
+            "causeDeath": "shot",
+            "reportNumber": "0154499",
+            "urls": "http://fcnews.tv/1QEPPL6"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.542901, 30.181658]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "27",
+            "reportDate": "3/9/2016",
+            "victimName": "Andrew William Little",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "55",
+            "incidentLoci": "B&L Landscaping, 7748 Spaner Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0154560",
+            "urls": "http://fcnews.tv/1TL5xZo"
         }
     }]
 }
