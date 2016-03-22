@@ -93,5 +93,24 @@
 			"result": "wounded",
 			"status": "armed"
 		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.689912, 30.405756]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201606",
+			"name": "Kevin Walter Smith",
+			"race": "Black",
+			"gender": "Male",
+			"age": "31",
+			"reportNo": "183310",
+			"where": "9136 4th Ave",
+			"date": "3/21/2016",
+			"result": "wounded",
+			"status": "armed"
+		}
 	}
 ]}
