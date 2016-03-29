@@ -509,9 +509,28 @@
             "gender": "Female",
             "victimAge": "44",
             "incidentLoci": "6444 Sarahs View Ct.",
-            "causeDeath": "injured by undetermined means",
+            "causeDeath": "stabbed",
             "reportNumber": "0191142",
             "urls": "http://fcnews.tv/25odZRY"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.6976, 30.330337]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "28",
+            "reportDate": "2/27/2016",
+            "victimName": "Michael Felton Wright",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "62",
+            "incidentLoci": "Hollybrook Homes Apartments, 104 Kings St.",
+            "causeDeath": "shot",
+            "reportNumber": "0195954",
+            "urls": "http://fcnews.tv/1q9CTEI"
         }
     }]
 }
