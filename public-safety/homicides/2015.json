@@ -2166,5 +2166,24 @@
             "reportNumber": "0869400",
             "urls": "http://jaxne.ws/1PASCGn"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.545987, 30.328058]
+        },
+        "properties": {
+            "idYr": "2015",
+            "idNo": "115",
+            "reportDate": "5/20/2015",
+            "victimName": "Michael Alan McDonald",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "34",
+            "incidentLoci": "Bella Terraza, 355 Monument Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0338543",
+            "urls": "http://bit.ly/1Vczgcp"
+        }
     }]
 }
