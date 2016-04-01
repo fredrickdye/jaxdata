@@ -532,5 +532,24 @@
             "reportNumber": "0195954",
             "urls": "http://fcnews.tv/1q9CTEI"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.696196, 30.350797]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "29",
+            "reportDate": "3/31/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "Unreported",
+            "incidentLoci": "Kings Ridge Apartments, 2100 W. 12th St.",
+            "causeDeath": "shot",
+            "reportNumber": "0206409",
+            "urls": "http://jaxne.ws/1RR3YCt"
+        }
     }]
 }
