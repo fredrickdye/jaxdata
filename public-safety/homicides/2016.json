@@ -542,14 +542,52 @@
             "idYr": "2016",
             "idNo": "29",
             "reportDate": "3/31/2016",
-            "victimName": "Unidentified",
+            "victimName": "Darrell KiJuana Rutledge",
             "race": "Black",
             "gender": "Male",
-            "victimAge": "Unreported",
+            "victimAge": "20",
             "incidentLoci": "Kings Ridge Apartments, 2100 W. 12th St.",
             "causeDeath": "shot",
             "reportNumber": "0206409",
             "urls": "http://jaxne.ws/1RR3YCt"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.68806, 30.405964]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "30",
+            "reportDate": "4/4/2016",
+            "victimName": "Malcolm Tyrod Belt",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "18",
+            "incidentLoci": "9100 Second Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "0214602",
+            "urls": "http://fcnews.tv/1qkOX6o"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.68816, 30.405974]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "31",
+            "reportDate": "4/4/2016",
+            "victimName": "Christopher Carter Mikell Jr.",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "17",
+            "incidentLoci": "9100 Second Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "0214602",
+            "urls": "http://fcnews.tv/1qkOX6o"
         }
     }]
 }
