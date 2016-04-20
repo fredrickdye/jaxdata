@@ -589,5 +589,43 @@
             "reportNumber": "0214602",
             "urls": "http://fcnews.tv/1qkOX6o"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.577625, 30.220826]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "32",
+            "reportDate": "4/19/2016",
+            "victimName": "Unidentified",
+            "race": "unreported",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "8720 Baymeadows Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0251030",
+            "urls": "http://fw.to/WNNUYlK"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.577625, 30.221026]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "33",
+            "reportDate": "4/19/2016",
+            "victimName": "Unidentified",
+            "race": "unreported",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "8720 Baymeadows Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0251030",
+            "urls": "http://fw.to/WNNUYlK"
+        }
     }]
 }
