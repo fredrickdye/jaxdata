@@ -593,7 +593,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.577625, 30.220826]
+            "coordinates": [-81.577625, 30.220747]
         },
         "properties": {
             "idYr": "2016",
@@ -612,7 +612,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.577625, 30.221026]
+            "coordinates": [-81.577625, 30.220801]
         },
         "properties": {
             "idYr": "2016",
