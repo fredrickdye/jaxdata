@@ -627,5 +627,24 @@
             "reportNumber": "0251030",
             "urls": "http://fw.to/WNNUYlK"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.664325, 30.348414]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "34",
+            "reportDate": "4/21/2016",
+            "victimName": "Aaliyah Louis",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "2",
+            "incidentLoci": "died at UF Health, 655 W. 8th St.",
+            "causeDeath": "injured by undertermined means",
+            "reportNumber": "0255615",
+            "urls": "http://fcnews.tv/1SoeWAP"
+        }
     }]
 }
