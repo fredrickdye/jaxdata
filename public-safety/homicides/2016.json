@@ -665,5 +665,24 @@
             "reportNumber": "0258969",
             "urls": "http://fcnews.tv/1NHjcZY"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.7023, 30.337234]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "36",
+            "reportDate": "4/27/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "Unreported",
+            "incidentLoci": "2300 Westbrook Cir. S",
+            "causeDeath": "shot",
+            "reportNumber": "0269444",
+            "urls": "http://fcnews.tv/1VVK6Fe"
+        }
     }]
 }
