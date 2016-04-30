@@ -669,17 +669,17 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.7023, 30.337234]
+            "coordinates": [-81.701552, 30.337532]
         },
         "properties": {
             "idYr": "2016",
             "idNo": "36",
             "reportDate": "4/27/2016",
-            "victimName": "Unidentified",
+            "victimName": "Keith Thompson",
             "race": "Black",
             "gender": "Male",
             "victimAge": "Unreported",
-            "incidentLoci": "2300 Westbrook Cir. S",
+            "incidentLoci": "1035 Westbrook Circle E",
             "causeDeath": "shot",
             "reportNumber": "0269444",
             "urls": "http://fcnews.tv/1VVK6Fe"
