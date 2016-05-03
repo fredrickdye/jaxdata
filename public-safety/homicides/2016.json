@@ -684,5 +684,24 @@
             "reportNumber": "0269444",
             "urls": "http://fcnews.tv/1VVK6Fe"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.96452, 30.313585]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "37",
+            "reportDate": "5/1/2016",
+            "victimName": "Nikki Lynn Redden",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "25",
+            "incidentLoci": "Hard Rock Materials Co., 1005 Baldwin Tradeplex Dr.",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0279802",
+            "urls": "http://3loons.me/1WE3dTy"
+        }
     }]
 }
