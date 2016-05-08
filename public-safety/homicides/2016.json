@@ -722,5 +722,24 @@
             "reportNumber": "0282751",
             "urls": "http://fcnews.tv/1rjZmip"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.84069, 30.309954]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "39",
+            "reportDate": "5/7/2016",
+            "victimName": "Unidentified",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "Interstate 10, MM 352",
+            "causeDeath": "shot",
+            "reportNumber": "0294286",
+            "urls": "http://jaxne.ws/1VOs0W3"
+        }
     }]
 }
