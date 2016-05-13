@@ -675,10 +675,10 @@
             "idYr": "2016",
             "idNo": "36",
             "reportDate": "4/27/2016",
-            "victimName": "Keith Thompson",
+            "victimName": "Keith Anthony Thompson",
             "race": "Black",
             "gender": "Male",
-            "victimAge": "Unreported",
+            "victimAge": "23",
             "incidentLoci": "1035 Westbrook Circle E",
             "causeDeath": "shot",
             "reportNumber": "0269444",
@@ -702,6 +702,44 @@
             "causeDeath": "injured by undetermined means",
             "reportNumber": "0279802",
             "urls": "http://3loons.me/1WE3dTy"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.755279, 30.270097]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "38",
+            "reportDate": "5/2/2016",
+            "victimName": "Devante Raheem Brown Jr.",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "23",
+            "incidentLoci": "6800 Wilson Blvd ",
+            "causeDeath": "shot",
+            "reportNumber": "0282751",
+            "urls": "http://fcnews.tv/1rjZmip"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.84069, 30.309954]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "39",
+            "reportDate": "5/7/2016",
+            "victimName": "George Guerrero",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "44",
+            "incidentLoci": "Interstate 10, MM 352",
+            "causeDeath": "shot",
+            "reportNumber": "0294286",
+            "urls": "http://jaxne.ws/1VOs0W3"
         }
     }]
 }
