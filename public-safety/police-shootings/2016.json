@@ -112,5 +112,24 @@
 			"result": "wounded",
 			"status": "armed"
 		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.652254, 30.332034]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201607",
+			"name": "Cody Nathanael Marsh",
+			"race": "White",
+			"gender": "Male",
+			"age": "19",
+			"reportNo": "310249",
+			"where": "State and Market streets",
+			"date": "5/14/2016",
+			"result": "wounded",
+			"status": "armed (with knives)"
+		}
 	}
 ]}
