@@ -741,5 +741,62 @@
             "reportNumber": "0294286",
             "urls": "http://jaxne.ws/1VOs0W3"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.652254, 30.332034]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "40",
+            "reportDate": "5/14/2016",
+            "victimName": "Cody Nathanael Marsh",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "State and Market streets",
+            "causeDeath": "shot by police",
+            "reportNumber": "0310249",
+            "urls": "http://fcnews.tv/1Xf7dKk"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.674012, 30.342835]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "41",
+            "reportDate": "5/14/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "1200 Grothe St.",
+            "causeDeath": "shot",
+            "reportNumber": "0312111",
+            "urls": "http://bit.ly/27oLOTV"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.584663, 30.204436]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "42",
+            "reportDate": "5/16/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "9500 Neal Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0316377",
+            "urls": "http://fcnews.tv/1Nwea8c"
+        }
     }]
 }
