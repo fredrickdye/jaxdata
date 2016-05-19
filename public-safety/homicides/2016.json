@@ -798,5 +798,24 @@
             "reportNumber": "0316377",
             "urls": "http://fcnews.tv/1Nwea8c"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.565588, 30.311031]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "43",
+            "reportDate": "5/19/2016",
+            "victimName": "Unidentified",
+            "race": "Hispanic",
+            "gender": "Female",
+            "victimAge": "unreported",
+            "incidentLoci": "Silver Creek Apartments, 300 Silver Creek Terrace",
+            "causeDeath": "shot",
+            "reportNumber": "0322506",
+            "urls": "http://fcnews.tv/1U1Cmi0"
+        }
     }]
 }
