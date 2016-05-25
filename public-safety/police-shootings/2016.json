@@ -131,5 +131,24 @@
 			"result": "killed",
 			"status": "armed (with knives)"
 		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.648742, 30.346072]
+		},
+		"properties": {
+			"jurisdiction": "Jacksonville",
+			"id": "201608",
+			"name": "Vernell Charles Bing Jr.",
+			"race": "Black",
+			"gender": "Male",
+			"age": "22",
+			"reportNo": "0330745",
+			"where": "1900 N. Liberty St.",
+			"date": "5/22/2016",
+			"result": "killed",
+			"status": "unarmed"
+		}
 	}
 ]}
