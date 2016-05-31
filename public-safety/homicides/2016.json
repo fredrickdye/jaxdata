@@ -836,5 +836,43 @@
             "reportNumber": "0330745",
             "urls": "http://fcnews.tv/1U7eK8M"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.654178, 30.356799]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "45",
+            "reportDate": "5/29/2016",
+            "victimName": "Jessica Daniel",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "25",
+            "incidentLoci": "21st Street Shell, 3020 N. Main St.",
+            "causeDeath": "shot",
+            "reportNumber": "0346039",
+            "urls": "http://fcnews.tv/22w8HRB"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.711322, 30.323372]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "46",
+            "reportDate": "5/29/2016",
+            "victimName": "Terry Eugene Thomas",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "43",
+            "incidentLoci": "3250 Hunt St.",
+            "causeDeath": "shot",
+            "reportNumber": "0346818",
+            "urls": "http://fw.to/ab3Os4W"
+        }
     }]
 }
