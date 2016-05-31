@@ -150,5 +150,24 @@
 			"result": "killed",
 			"status": "unarmed"
 		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.89875, 30.040702]
+		},
+		"properties": {
+			"jurisdiction": "Clay",
+			"id": "201609",
+			"name": "Timothy Van Griffin",
+			"race": "White",
+			"gender": "Male",
+			"age": "33",
+			"reportNo": "NA",
+			"where": "Primrose Avenue and Alligator Boulevard, Middleburg, FL",
+			"date": "5/29/2016",
+			"result": "wounded",
+			"status": "unarmed"
+		}
 	}
 ]}
