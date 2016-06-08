@@ -874,5 +874,24 @@
             "reportNumber": "0346818",
             "urls": "http://fw.to/ab3Os4W"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.667391, 30.429369]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "47",
+            "reportDate": "6/7/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "10600 Haverford Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0368205",
+            "urls": "http://fcnews.tv/1PEXBrs"
+        }
     }]
 }
