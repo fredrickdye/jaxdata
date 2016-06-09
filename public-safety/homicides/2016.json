@@ -893,5 +893,24 @@
             "reportNumber": "0368205",
             "urls": "http://fcnews.tv/1PEXBrs"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.698015, 30.323302]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "48",
+            "reportDate": "6/9/2016",
+            "victimName": "Aaron Deon Cogdell",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "32",
+            "incidentLoci": "2766 Fleming St.",
+            "causeDeath": "shot",
+            "reportNumber": "0372931",
+            "urls": "http://fcnews.tv/1PjaJNn"
+        }
     }]
 }
