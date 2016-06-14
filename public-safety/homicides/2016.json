@@ -931,5 +931,43 @@
             "reportNumber": "0375404",
             "urls": "http://fcnews.tv/1rgZHCi"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.664305, 30.347097]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "50",
+            "reportDate": "5/9/2016",
+            "victimName": "William Swearingen Curtis",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "59",
+            "incidentLoci": "500 8th St. W",
+            "causeDeath": "beaten",
+            "reportNumber": "0339394",
+            "urls": "#"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.680638, 30.365846]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "51",
+            "reportDate": "6/13/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "Quickway Food Stores, 4402 Moncrief Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0384438",
+            "urls": "http://fcnews.tv/1ZOTLwg"
+        }
     }]
 }
