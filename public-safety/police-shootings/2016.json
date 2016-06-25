@@ -173,7 +173,7 @@
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [-81.671323, 30.364403]
+			"coordinates": [-81.673158, 30.364368]
 		},
 		"properties": {
 			"jurisdiction": "Jacksonville",
@@ -183,7 +183,7 @@
 			"gender": "Male",
 			"age": "24",
 			"reportNo": "0408932",
-			"where": "1100 W 32nd St.",
+			"where": "1180 W 32nd St.",
 			"date": "6/23/2016",
 			"result": "wounded",
 			"status": "unarmed"
