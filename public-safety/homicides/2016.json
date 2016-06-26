@@ -969,5 +969,24 @@
             "reportNumber": "0384438",
             "urls": "http://fcnews.tv/1ZOTLwg"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.688548, 30.373704]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "52",
+            "reportDate": "6/25/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "Abyssinia Food Store, 5609 Moncrief Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0413840",
+            "urls": "http://bit.ly/28Z3iS4"
+        }
     }]
 }
