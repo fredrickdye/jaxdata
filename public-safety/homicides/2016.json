@@ -973,20 +973,58 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.688548, 30.373704]
+            "coordinates": [-81.688049, 30.343945]
         },
         "properties": {
             "idYr": "2016",
             "idNo": "52",
-            "reportDate": "6/25/2016",
-            "victimName": "Unidentified",
+            "reportDate": "6/18/2016",
+            "victimName": "Kevin D’Juan Wilkes",
             "race": "Black",
             "gender": "Male",
-            "victimAge": "unreported",
+            "victimAge": "32",
+            "incidentLoci": "R&R Loving Hands, 1845 W 6th St.",
+            "causeDeath": "asphyxiated",
+            "reportNumber": "0395610",
+            "urls": "http://fw.to/YydCjBV"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.688548, 30.373704]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "53",
+            "reportDate": "6/25/2016",
+            "victimName": "Benjamin Alvin Frazier",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "47",
             "incidentLoci": "Abyssinia Food Store, 5609 Moncrief Rd.",
             "causeDeath": "shot",
             "reportNumber": "0413840",
             "urls": "http://bit.ly/28Z3iS4"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.737949, 30.330995]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "54",
+            "reportDate": "6/27/2016",
+            "victimName": "Marty Deane Coffey",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "50",
+            "incidentLoci": "Old Dominion Freight Line, 720 Scotia Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0416683",
+            "urls": "http://fcnews.tv/296pNmT"
         }
     }]
 }
