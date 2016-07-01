@@ -1026,5 +1026,100 @@
             "reportNumber": "0416683",
             "urls": "http://fcnews.tv/296pNmT"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.739562, 30.399224]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "55",
+            "reportDate": "7/1/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "8000 Dekle Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "0426886",
+            "urls": "http://fcnews.tv/29cZUzw"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.739562, 30.399224]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "56",
+            "reportDate": "7/1/2016",
+            "victimName": "XXXXXX",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "unreported",
+            "incidentLoci": "8000 Dekle Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "0426886",
+            "urls": "http://fcnews.tv/29cZUzw"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.66535, 30.426942]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "57",
+            "reportDate": "7/1/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "10603 E. Briarcliff Rd.",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0427283",
+            "urls": "http://fcnews.tv/29kb3Tb"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.699804, 30.320466]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "58",
+            "reportDate": "7/1/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "600 Center St.",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0427391",
+            "urls": "http://fcnews.tv/29hyACC"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.75037, 30.299414]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "59",
+            "reportDate": "7/1/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "Malibu Garden Apartments, 5930 Lenox Ave. ",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0427481",
+            "urls": "http://fw.to/2Pi1DFE"
+        }
     }]
 }
