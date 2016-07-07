@@ -1055,10 +1055,10 @@
             "idYr": "2016",
             "idNo": "56",
             "reportDate": "7/1/2016",
-            "victimName": "Unidentified",
+            "victimName": "Jennie Lou Hawley",
             "race": "White",
             "gender": "Female",
-            "victimAge": "unreported",
+            "victimAge": "34",
             "incidentLoci": "8000 Dekle Ave.",
             "causeDeath": "shot",
             "reportNumber": "0426886",
@@ -1068,30 +1068,11 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.66535, 30.426942]
-        },
-        "properties": {
-            "idYr": "2016",
-            "idNo": "57",
-            "reportDate": "7/1/2016",
-            "victimName": "Unidentified",
-            "race": "Black",
-            "gender": "Male",
-            "victimAge": "unreported",
-            "incidentLoci": "10603 E. Briarcliff Rd.",
-            "causeDeath": "injured by undetermined means",
-            "reportNumber": "0427283",
-            "urls": "http://fcnews.tv/29kb3Tb"
-        }
-    }, {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
             "coordinates": [-81.699804, 30.320466]
         },
         "properties": {
             "idYr": "2016",
-            "idNo": "58",
+            "idNo": "57",
             "reportDate": "7/1/2016",
             "victimName": "Terrance Calvin Taylor",
             "race": "Black",
@@ -1110,7 +1091,7 @@
         },
         "properties": {
             "idYr": "2016",
-            "idNo": "59",
+            "idNo": "58",
             "reportDate": "7/2/2016",
             "victimName": "Jataren Darius Bethel",
             "race": "Black",
@@ -1129,7 +1110,7 @@
         },
         "properties": {
             "idYr": "2016",
-            "idNo": "60",
+            "idNo": "59",
             "reportDate": "7/3/2016",
             "victimName": "Carlton Wendell Allen",
             "race": "Black",
@@ -1148,7 +1129,7 @@
         },
         "properties": {
             "idYr": "2016",
-            "idNo": "61",
+            "idNo": "60",
             "reportDate": "7/6/2016",
             "victimName": "Johnathan Matthew Carter",
             "race": "White",
