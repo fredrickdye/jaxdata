@@ -1140,5 +1140,81 @@
             "reportNumber": "0438955",
             "urls": "http://fcnews.tv/29k2D9c"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.580943, 30.26184]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "61",
+            "reportDate": "2/11/2016",
+            "victimName": "Unidentified",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "unreported",
+            "incidentLoci": "3551 E. Bowden Circle",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0090154",
+            "urls": "http://fcnews.tv/1Keasyr"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.635785, 30.35285]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "62",
+            "reportDate": "5/28/2016",
+            "victimName": "Anthony Leon Butler III",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "3",
+            "incidentLoci": "1446 E. 15th St.",
+            "causeDeath": "beaten",
+            "reportNumber": "unreported",
+            "urls": "#"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.45017, 30.291213]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "63",
+            "reportDate": "7/7/2016",
+            "victimName": "Unidentified",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "Portside Mobile Home Community, 13000 Ascot Ct.",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0442828",
+            "urls": "http://fcnews.tv/29mcwmf"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.45017, 30.291213]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "64",
+            "reportDate": "7/7/2016",
+            "victimName": "Unidentified",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "unreported",
+            "incidentLoci": "Portside Mobile Home Community, 13000 Ascot Ct.",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0442828",
+            "urls": "http://fcnews.tv/29mcwmf"
+        }
     }]
 }
