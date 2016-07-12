@@ -1188,10 +1188,10 @@
             "idYr": "2016",
             "idNo": "63",
             "reportDate": "7/7/2016",
-            "victimName": "Unidentified",
+            "victimName": "Robert Anthony Massey",
             "race": "White",
             "gender": "Male",
-            "victimAge": "unreported",
+            "victimAge": "59",
             "incidentLoci": "Portside Mobile Home Community, 13000 Ascot Ct.",
             "causeDeath": "injured by undetermined means",
             "reportNumber": "0442828",
@@ -1207,14 +1207,71 @@
             "idYr": "2016",
             "idNo": "64",
             "reportDate": "7/7/2016",
-            "victimName": "Unidentified",
+            "victimName": "Amy Lynn Hatfield",
             "race": "White",
             "gender": "Female",
-            "victimAge": "unreported",
+            "victimAge": "32",
             "incidentLoci": "Portside Mobile Home Community, 13000 Ascot Ct.",
             "causeDeath": "injured by undetermined means",
             "reportNumber": "0442828",
             "urls": "http://fcnews.tv/29mcwmf"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.465097, 30.521014]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "65",
+            "reportDate": "7/8/2016",
+            "victimName": "Tania Badal Woodrum",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "66",
+            "incidentLoci": "10399 E. Shark Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0443785",
+            "urls": "http://fw.to/KBUvoDF"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.738944, 30.301519]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "66",
+            "reportDate": "7/11/2016",
+            "victimName": "Markus Lernard Tanner",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "23",
+            "incidentLoci": "5300 Carder St.",
+            "causeDeath": "shot",
+            "reportNumber": "0453101",
+            "urls": "http://fcnews.tv/29KOuY4"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.668385, 30.458402]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "67",
+            "reportDate": "7/12/2016",
+            "victimName": "Kenneth Dexter Hawkins",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "61",
+            "incidentLoci": "12471 Biscayne Lake Dr.",
+            "causeDeath": "stabbed",
+            "reportNumber": "0454547",
+            "urls": "http://fcnews.tv/29Vb27Z"
         }
     }]
 }
