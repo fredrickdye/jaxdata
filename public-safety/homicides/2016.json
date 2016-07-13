@@ -1277,7 +1277,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.815115, 30.317899]
+            "coordinates": [-81.821289, 30.317816]
         },
         "properties": {
             "idYr": "2016",
@@ -1287,7 +1287,7 @@
             "race": "Black",
             "gender": "Male",
             "victimAge": "unreported",
-            "incidentLoci": "9600 W. Beaver St.",
+            "incidentLoci": "10200 W. Beaver St.",
             "causeDeath": "shot",
             "reportNumber": "0455293",
             "urls": "http://bit.ly/29HsDyo"
