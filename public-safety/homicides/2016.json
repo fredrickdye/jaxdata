@@ -1175,7 +1175,7 @@
             "victimAge": "3",
             "incidentLoci": "1446 E. 15th St.",
             "causeDeath": "beaten",
-            "reportNumber": "unreported",
+            "reportNumber": "0302272",
             "urls": "#"
         }
     }, {
@@ -1308,8 +1308,27 @@
             "victimAge": "39",
             "incidentLoci": "3600 Spring Grove Ave.",
             "causeDeath": "injured by undetermined means",
-            "reportNumber": "unreported",
+            "reportNumber": "0453875",
             "urls": "http://fcnews.tv/29BjloT"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.512504, 30.487173]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "70",
+            "reportDate": "7/19/2016",
+            "victimName": "Unidentified",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "6100 Spring Hammock Rd.",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0470891",
+            "urls": "http://fcnews.tv/29MsRkD"
         }
     }]
 }
