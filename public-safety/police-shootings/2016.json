@@ -188,5 +188,24 @@
 			"result": "wounded",
 			"status": "unarmed"
 		}
-}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.797772, 30.03866]
+		},
+		"properties": {
+			"jurisdiction": "Clay",
+			"id": "201611",
+			"name": "Billy Dale Smith",
+			"race": "White",
+			"gender": "Male",
+			"age": "31",
+			"reportNo": "NA",
+			"where": "3383 Citation Dr., Green Cove Springs, FL",
+			"date": "7/16/2016",
+			"result": "killed",
+			"status": "armed"
+		}
+	}
 ]}
