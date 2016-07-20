@@ -1296,7 +1296,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [-81.69521, 30.359977]
+            "coordinates": [-81.67288, 30.341475]
         },
         "properties": {
             "idYr": "2016",
@@ -1306,8 +1306,8 @@
             "race": "White",
             "gender": "Female",
             "victimAge": "39",
-            "incidentLoci": "3600 Spring Grove Ave.",
-            "causeDeath": "injured by undetermined means",
+            "incidentLoci": "1322 Eaverson St.",
+            "causeDeath": "shot",
             "reportNumber": "0453875",
             "urls": "http://fcnews.tv/29BjloT"
         }
@@ -1321,10 +1321,10 @@
             "idYr": "2016",
             "idNo": "70",
             "reportDate": "7/19/2016",
-            "victimName": "Unidentified",
+            "victimName": "Arnett Irving Rollins",
             "race": "White",
             "gender": "Male",
-            "victimAge": "unreported",
+            "victimAge": "37",
             "incidentLoci": "6100 Spring Hammock Rd.",
             "causeDeath": "injured by undetermined means",
             "reportNumber": "0470891",
