@@ -1330,5 +1330,24 @@
             "reportNumber": "0470891",
             "urls": "http://fcnews.tv/29MsRkD"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.700346, 30.380063]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "71",
+            "reportDate": "7/20/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "2372 Lantana Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "0474441",
+            "urls": "http://fcnews.tv/2aaxpoK"
+        }
     }]
 }
