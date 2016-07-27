@@ -1340,14 +1340,52 @@
             "idYr": "2016",
             "idNo": "71",
             "reportDate": "7/20/2016",
-            "victimName": "Unidentified",
+            "victimName": "Michael Johnson",
             "race": "Black",
             "gender": "Male",
-            "victimAge": "unreported",
+            "victimAge": "16",
             "incidentLoci": "2372 Lantana Ave.",
             "causeDeath": "shot",
             "reportNumber": "0474441",
             "urls": "http://fcnews.tv/2aaxpoK"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.664235, 30.352246]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "72",
+            "reportDate": "7/22/2016",
+            "victimName": "Ameen Ahmad Ahmad",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "27",
+            "incidentLoci": "Roosevelt Gardens, 702 N. Lincoln Ct.",
+            "causeDeath": "shot",
+            "reportNumber": "0477533",
+            "urls": "http://fcnews.tv/2a7xdVn"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.750956, 30.222564]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "73",
+            "reportDate": "7/26/2016",
+            "victimName": "Maribel Perez-Ortiz",
+            "race": "White",
+            "gender": "Female",
+            "victimAge": "37",
+            "incidentLoci": "Country Roads mobile home park,6539 Townsend Rd.",
+            "causeDeath": "stabbed",
+            "reportNumber": "0487157",
+            "urls": "http://fcnews.tv/2abNBlL"
         }
     }]
 }
