@@ -1387,5 +1387,43 @@
             "reportNumber": "0487157",
             "urls": "http://fcnews.tv/2abNBlL"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.576983, 30.320045]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "74",
+            "reportDate": "8/6/2016",
+            "victimName": "Brian Demetrie Robinson",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "25",
+            "incidentLoci": "7700 Hare Ave.",
+            "causeDeath": "shot",
+            "reportNumber": "0515408",
+            "urls": "http://bit.ly/2bbnldu"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.717481, 30.355011]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "75",
+            "reportDate": "8/6/2016",
+            "victimName": "XXXXXX",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "17",
+            "incidentLoci": "3000 W. 19th St.",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0513932",
+            "urls": "http://bit.ly/2aH9ixM"
+        }
     }]
 }
