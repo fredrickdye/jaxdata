@@ -1425,5 +1425,24 @@
             "reportNumber": "0513932",
             "urls": "http://bit.ly/2aH9ixM"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.654619, 30.367929]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "76",
+            "reportDate": "8/12/2016",
+            "victimName": "Tamia Sanders",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "14",
+            "incidentLoci": "99 W. 38th St.",
+            "causeDeath": "shot",
+            "reportNumber": "0530059",
+            "urls": "http://fcnews.tv/2b08SCR"
+        }
     }]
 }
