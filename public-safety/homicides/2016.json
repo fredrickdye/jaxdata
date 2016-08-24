@@ -1444,5 +1444,24 @@
             "reportNumber": "0530059",
             "urls": "http://fcnews.tv/2b08SCR"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.755403, 30.295769]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "77",
+            "reportDate": "8/22/2016",
+            "victimName": "Jazzmin LaShea Ways",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "23",
+            "incidentLoci": "Cross Creek Apartments, 1441 Manotak Ave.",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0553763",
+            "urls": "http://fw.to/mNDtfFP"
+        }
     }]
 }
