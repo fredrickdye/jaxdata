@@ -1463,5 +1463,24 @@
             "reportNumber": "0553763",
             "urls": "http://fw.to/mNDtfFP"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.689579, 30.361102]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "78",
+            "reportDate": "8/26/2016",
+            "victimName": "Macaurthur Harvey Jr.",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "27",
+            "incidentLoci": "1900 Erline Dr.",
+            "causeDeath": "shot",
+            "reportNumber": "0565532",
+            "urls": "http://fcnews.tv/2bpvcTv"
+        }
     }]
 }
