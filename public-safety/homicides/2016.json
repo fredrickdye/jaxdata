@@ -1482,5 +1482,24 @@
             "reportNumber": "0565532",
             "urls": "http://fcnews.tv/2bpvcTv"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.684252, 30.341937]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "79",
+            "reportDate": "9/4/2016",
+            "victimName": "Anthony Carl Whitley",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "37",
+            "incidentLoci": "1700 Dot St.",
+            "causeDeath": "shot",
+            "reportNumber": "0586280",
+            "urls": "http://fcnews.tv/2bNpDOj"
+        }
     }]
 }
