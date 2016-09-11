@@ -1501,5 +1501,43 @@
             "reportNumber": "0586280",
             "urls": "http://fcnews.tv/2bNpDOj"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.469542, 30.361228]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "80",
+            "reportDate": "9/2/2016",
+            "victimName": "Roger Joseph Gionet",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "83",
+            "incidentLoci": "14192 Tomas Point Ln.",
+            "causeDeath": "beaten",
+            "reportNumber": "0579823",
+            "urls": "http://fw.to/STHhRwM"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.669813, 30.33778]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "81",
+            "reportDate": "9/9/2016",
+            "victimName": "Robert Lacarl Bryant",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "37",
+            "incidentLoci": "1000 Kings Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0596754",
+            "urls": "http://fcnews.tv/2cAy95a"
+        }
     }]
 }
