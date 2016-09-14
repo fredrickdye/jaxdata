@@ -1539,5 +1539,62 @@
             "reportNumber": "0596754",
             "urls": "http://fcnews.tv/2cAy95a"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.570505, 30.334697]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "82",
+            "reportDate": "9/11/2016",
+            "victimName": "Unidentified",
+            "race": "unreported",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "Azelea Ridge Apartments, 8151 Alderman Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0602804",
+            "urls": "http://fcnews.tv/2cjSUqj"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.79535, 30.265656]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "83",
+            "reportDate": "9/13/2016",
+            "victimName": "Eric Leonard Grant",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "38",
+            "incidentLoci": "8659 Springtree Rd.",
+            "causeDeath": "stabbed",
+            "reportNumber": "0606122",
+            "urls": "http://fcnews.tv/2cujl74"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.746129, 30.28036]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "84",
+            "reportDate": "9/14/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "unreported",
+            "incidentLoci": "Magnolia Terrace, 2055 Hyde Park Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0609141",
+            "urls": "http://fcnews.tv/2d0wZmT"
+        }
     }]
 }
