@@ -1587,14 +1587,52 @@
             "idYr": "2016",
             "idNo": "84",
             "reportDate": "9/14/2016",
-            "victimName": "Unidentified",
+            "victimName": "David Goldsmith",
             "race": "Black",
             "gender": "Male",
-            "victimAge": "unreported",
+            "victimAge": "49",
             "incidentLoci": "Magnolia Terrace, 2055 Hyde Park Rd.",
             "causeDeath": "shot",
             "reportNumber": "0609141",
             "urls": "http://fcnews.tv/2d0wZmT"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.540504, 30.273638]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "85",
+            "reportDate": "9/15/2016",
+            "victimName": "Lloyd William Gilpin III",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "26",
+            "incidentLoci": "4023 Skycrest Dr.",
+            "causeDeath": "shot",
+            "reportNumber": "0613352",
+            "urls": "http://fcnews.tv/2cbKg7c"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.475493, 30.344626]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "86",
+            "reportDate": "9/17/2016",
+            "victimName": "Xavier Lavon Lundy",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "19",
+            "incidentLoci": "1280 Soaring Flight Way",
+            "causeDeath": "shot",
+            "reportNumber": "0615620",
+            "urls": "http://fcnews.tv/2d6bWMz"
         }
     }]
 }
