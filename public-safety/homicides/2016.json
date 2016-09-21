@@ -1634,5 +1634,24 @@
             "reportNumber": "0615620",
             "urls": "http://fcnews.tv/2d6bWMz"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.733816, 30.447695]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "87",
+            "reportDate": "9/21/2016",
+            "victimName": "Jonathan Wesley Brenton",
+            "race": "White",
+            "gender": "Male",
+            "victimAge": "48",
+            "incidentLoci": "11740 V.C. Johnson Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0625744",
+            "urls": "http://fcnews.tv/2diQ0B0"
+        }
     }]
 }
