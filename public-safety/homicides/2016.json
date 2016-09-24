@@ -1653,5 +1653,24 @@
             "reportNumber": "0625744",
             "urls": "http://fcnews.tv/2diQ0B0"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.670306, 30.364567]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "88",
+            "reportDate": "9/23/2016",
+            "victimName": "James Clarence Young",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "40",
+            "incidentLoci": "Raceway, 1040 Golfair Blvd.",
+            "causeDeath": "shot",
+            "reportNumber": "0632556",
+            "urls": "http://fcnews.tv/2cXY8Gi"
+        }
     }]
 }
