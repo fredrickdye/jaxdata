@@ -1672,5 +1672,43 @@
             "reportNumber": "0632556",
             "urls": "http://fcnews.tv/2cXY8Gi"
         }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.599162, 30.220734]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "89",
+            "reportDate": "9/25/2016",
+            "victimName": "Adekunle Peter Falowo",
+            "race": "Black",
+            "gender": "Male",
+            "victimAge": "46",
+            "incidentLoci": "Boxwood at Baymeadows condos, 4915 Baymeadows Rd.",
+            "causeDeath": "shot",
+            "reportNumber": "0636750",
+            "urls": "http://fcnews.tv/2d2Mdai"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.604453, 30.285919]
+        },
+        "properties": {
+            "idYr": "2016",
+            "idNo": "90",
+            "reportDate": "9/27/2016",
+            "victimName": "Unidentified",
+            "race": "Black",
+            "gender": "Female",
+            "victimAge": "unreported",
+            "incidentLoci": "3830 University Blvd. S.",
+            "causeDeath": "injured by undetermined means",
+            "reportNumber": "0642869",
+            "urls": "http://fcnews.tv/2d58pQa"
+        }
     }]
 }
